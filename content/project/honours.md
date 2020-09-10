@@ -21,7 +21,7 @@ During the 2018 calendar year, I completed my Honours thesis at the University o
 
 $$\text{RM} = 812 \int n_e B_{||}ds$$
 
-I constructed a series of simulated galaxy clusters with a variety of masses (M), and with embedded radio lobes of differing power (P), age (t), and orientation (theta) to the observer. I then simulated how these sources would appear to an observer here on Earth, collecting data on the luminosity of the radio lobes (L), the total source length (D),  the dispersion in RM across the source ($\sigma_{\text{RM}}$), and the heteroscedasticity of the RM (the variation in variations; H).
+I constructed a series of simulated galaxy clusters with a variety of masses (M), and with embedded radio lobes of differing power (P), age (t), and orientation ($\theta$) to the observer. I then simulated how these sources would appear to an observer here on Earth, collecting data on the luminosity of the radio lobes (L), the total source length (D),  the dispersion in RM across the source ($\sigma_{\text{RM}}$), and the heteroscedasticity of the RM (the variation in variations; H).
 
 Values of M, P, t, and theta are then chosen at random to produce a sample of ‘real’ cases. The observables for these objects are simulated and the program is then asked to give its best estimate for M, P, t, and theta by comparing the observables it has obtained with the (much sparser) reference list of simulated cases performed above, under one of two conditions:
 
