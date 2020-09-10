@@ -2,7 +2,7 @@
 title: "The spectral signature of interstellar scintillation"
 subtitle: "Twinkle twinkle little black hole"
 summary: A project I undertook in the summer of 2016/2017 with CSIRO in Perth, WA.
-date: "2018-12-00T00:00:00Z"
+date: "2016-11-00T00:00:00Z"
 #tags: ["Active Galactic Nuclei", "Data Analysis", "Modelling", "Jets"]
 
 reading_time: true  # Show estimated reading time?
