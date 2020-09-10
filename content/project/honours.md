@@ -2,11 +2,13 @@
 title: Honours thesis: Using radio lobes to measure galaxy cluster properties
 summary: A brief description of the work I did in 2018 as part of my Honours thesis at the University of Tasmania.
 date: "2018-12-00T00:00:00Z"
+tags: ["Active Galactic Nuclei", "Data Analysis", "Modelling", "Jets"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
+math: true
 
 # Optional header image (relative to `static/media/` folder).
 header:
