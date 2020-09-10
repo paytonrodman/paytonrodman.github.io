@@ -1,1 +1,23 @@
+---
+title: "Summer research project: The spectral signature of interstellar scintillation"
+summary: A summer project I undertook in the summer of 2016/2017 with CSIRO in Perth, WA.
+date: "2018-12-00T00:00:00Z"
+#tags: ["Active Galactic Nuclei", "Data Analysis", "Modelling", "Jets"]
 
+reading_time: true  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
+math: true
+
+# Optional header image (relative to `static/media/` folder).
+header:
+  caption: ""
+  image: ""
+---
+
+When the light from stars passes through the Earth’s atmosphere, the light waves are distorted and result in the “twinkling” affect we see at night. Analogously, when the radio light from a quasar passes through a cloud of dust in the interstellar medium, these radio waves are distorted and produce a highly variable signal over days to months that we can observe on Earth. By studying this variability, we can learn more about the material in the interstellar medium.
+
+{{< figure library="true" src="scintillate.png" title="From left to right: (a) light is emitted from the AGN as plane-parallel waves. (b) This light passes through a cloud of material in the interstellar medium. (c) The light waves emerge from the cloud twisted and distorted, both in space and time. (d) These distorted waves are detected by a radio observatory, and are seen in the form of a highly variable lightcurve as in this example from source PKS 1257-326 (Bignell et al. 2003)." >}}
+
+During the Summer of 2016—2017, I undertook a project at the CSIRO Astronomy and Space Science (CASS) office in Perth, Australia with Dr Cormac Reynolds to study this kind of quasar variability. The properties of scintillation vary depending on the properties of the medium and the frequency you observe at, and can be primarily characterised by a number called the modulation index, alongside the structure function:
