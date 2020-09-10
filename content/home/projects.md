@@ -26,12 +26,24 @@ subtitle = ""
   #   tag = "*"
   
   # [[content.filter_button]]
-  #   name = "Deep Learning"
-  #   tag = "Deep Learning"
+  #   name = "Active Galactic Nuclei"
+  #   tag = "Active Galactic Nuclei"
   
   # [[content.filter_button]]
-  #   name = "Other"
-  #   tag = "Demo"
+  #   name = "Jets"
+  #   tag = "Jets"
+  
+  # [[content.filter_button]]
+  #   name = "Accretion disk"
+  #   tag = "Accretion disk"
+  
+  # [[content.filter_button]]
+  #   name = "Simulation"
+  #   tag = "Simulation"
+  
+  # [[content.filter_button]]
+  #   name = "Data Analysis"
+  #   tag = "Data Analysis"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
