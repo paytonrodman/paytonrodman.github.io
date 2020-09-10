@@ -10,11 +10,6 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 math: true
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
 ---
 
 When the light from stars passes through the Earth’s atmosphere, the light waves are distorted and result in the “twinkling” affect we see at night. Analogously, when the radio light from a quasar passes through a cloud of dust in the interstellar medium, these radio waves are distorted and produce a highly variable signal over days to months that we can observe on Earth. By studying this variability, we can learn more about the material in the interstellar medium.
