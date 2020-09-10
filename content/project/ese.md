@@ -22,7 +22,7 @@ ESEs are extreme but relatively brief compared to how often most radio sources a
 
 In this brief sub-project, I tested the completeness of the new method by comparing its results to the old, tried-and-true method of post-production analysis. I confirmed that all previously-known ESEs were recovered by the ATESE method but also identified up to 3 new (possible) ESEs. 
 
-{{< figure library="true" src="prob2.jpeg" title="An example of an Extreme Scattering Event in source J1740-081. The ‘batman’ shape is characteristic of ESEs, and it is the sharp initial rise in flux density (at approx. 57300 MJD here) that allows a real-time detection method to work." >}}
+{{< figure library="true" src="ese.png" title="An example of an Extreme Scattering Event in source J1740-081. The ‘batman’ shape is characteristic of ESEs, and it is the sharp initial rise in flux density (at approx. 57300 MJD here) that allows a real-time detection method to work." >}}
 
 ## For more information:
  - [CSIRO Astronomy and Space Science (CASS)](https://www.csiro.au/en/Research/Astronomy)
