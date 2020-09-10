@@ -1,75 +1,48 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Username (this should match the folder name)
-authors:
-- admin
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
+title: Payton Rodman
+role: PhD Candidate in Astronomy
+avatar_filename: prodman.jpg
 organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+  - name: Institute of Astronomy, University of Cambridge
+    url: https://www.ast.cam.ac.uk/people/Payton.Rodman
+superuser: true
+authors:
+  - admin
+bio: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - black holes
+  - accretion disks
+  - AGN
+  - theory
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: "#contact"
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/astrotemp
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-1624-9359
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/paytonrodman
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD in Astronomy
+      institution: University of Cambridge
+      year: 2024
+    - course: BSc (Hons) in Physics
+      institution: University of Tasmania
+      year: 2018
+    - course: BSc in Physics and Applied Mathematics
+      institution: University of Tasmania
+      year: 2017
+email: rodman.payton@gmail.com
 user_groups:
-- Researchers
-- Visitors
+  - Researchers
+  - Visitors
 ---
+I am a current PhD student at the Institute of Astronomy within the University of Cambridge. My research interests include the theory of black hole accretion discs, specifically the production and amplification of magnetic fields via the dynamo process. I study these systems through a mix of theory and simulation using the Adaptive Mesh Refinement (AMR) code Athena++.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In the future I plan to work towards self-consistent models and realistic simulations of AGN which include accretion disks, jets, and coronae — a true “unified theory” of AGN.
