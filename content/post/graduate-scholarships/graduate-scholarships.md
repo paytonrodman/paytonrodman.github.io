@@ -13,6 +13,13 @@ math: true
 header:
   caption: ""
   image: ""
+  
+image:
+  placement: 1
+  caption: "King's College, Cambridge"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: ""
 ---
 
 I was turned down from the Rhodes scholarship in late 2018 and accepted for the Gates-Cambridge scholarship in early 2019. After going through the selection for both and coming out the other end experiencing both success and failure, I realised how unprepared I’d been for the process. If you’re like I was–coming from a less affluent background and without institutional training/mentoring–hopefully you will find this guide helpful. 
