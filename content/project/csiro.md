@@ -20,7 +20,7 @@ When the light from stars passes through the Earth’s atmosphere, the light wav
 
 {{< figure library="true" src="scintillate.png" title="From left to right: (a) light is emitted from the AGN as plane-parallel waves. (b) This light passes through a cloud of material in the interstellar medium. (c) The light waves emerge from the cloud twisted and distorted, both in space and time. (d) These distorted waves are detected by a radio observatory, and are seen in the form of a highly variable lightcurve as in this example from source PKS 1257-326 (Bignell et al. 2003)." >}}
 
-During the Summer of 2016—2017, I undertook a project at the CSIRO Astronomy and Space Science (CASS) office in Perth, Australia with Dr Cormac Reynolds to study this kind of quasar variability. The properties of scintillation vary depending on the properties of the medium and the frequency you observe at, and can be primarily characterised by a number called the modulation index, alongside the structure function:
+During the Summer of 2016—2017, I undertook a project at the CSIRO Astronomy and Space Science (CASS) office in Perth, Australia with Dr Cormac Reynolds to study this kind of quasar variability. The properties of scintillation vary depending on the properties of the medium and the frequency you observe at, and can be primarily characterised by a number called the _modulation index_, alongside the _structure function_:
 
 $$ M = \frac{\sqrt{\langle F^2 \rangle}}{\langle F \rangle}$$
 
@@ -30,4 +30,4 @@ where F is the flux at the given wavelength and T is the timescale of variabilit
 
 We used a sample of 2232 quasars from the Australian Telescope Extreme Scattering Events Survey (ATESE) pipeline observed from 2014—2016, across a frequency range of 2—12 GHz and covering a wide range on the sky. Limiting ourselves to those sources which had >1% variation on a timescale of 50 days, we found a slight bias towards greater variation in the galactic plane (b=0).
 
-
+{{< figure library="true" src="structurefunction.png" title="The strength of variability as a function of distance from the galactic plane, where b=0 denotes the line of the galactic plane. There is a slight, but not statistically significant, preference towards more variability at b=0." >}}
