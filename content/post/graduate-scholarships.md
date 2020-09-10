@@ -4,7 +4,7 @@ Obvious disclaimer though: I applied for a specific area of astrophysics from a 
 
 ## Contents
 
- - What are the Rhodes and Gates-Cambridge scholarships?
+ - [What are the Rhodes and Gates-Cambridge scholarships?](#what-are-the-rhodes-and-gates-cambridge-scholarships)
 
  - The big difference: pre-selection
 
@@ -30,7 +30,7 @@ Obvious disclaimer though: I applied for a specific area of astrophysics from a 
 
  - What if I do win?
  
-## What are the Rhodes and Gates-Cambridge scholarships?
+<h2 id="what-are-the-rhodes-and-gates-cambridge-scholarships">What are the Rhodes and Gates-Cambridge scholarships? </h2>
  
  The Rhodes scholarship was established in 1902 in the will of business man and politician, Cecil John Rhodes. It is tenable at Oxford University in the UK, mostly for postgraduate degrees (Masters/PhD), although there are exceptions.
 
