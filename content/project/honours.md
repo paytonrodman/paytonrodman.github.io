@@ -18,7 +18,7 @@ header:
 
 During the 2018 calendar year, I completed my Honours thesis at the University of Tasmania, supervised by Dr Stanislav Shabala and Dr Ross Turner. My goal was to investigate whether radio lobe observables such as length, brightness, and polarisation could be used to infer the intrinsic properties of both the jets/lobes themselves and their host galaxy clusters, which I did through semi-analytic models. The most critical component of this study is the inclusion of polarisation data as the polarisation (or rotation measure, RM) of light is a function of the density (n) and magnetic field (B) of the material which the light passes through:
 
-$\text{RM} = 812 \int n_e B_{||}ds$
+$$\text{RM} = 812 \int n_e B_{||}ds$$
 
 I constructed a series of simulated galaxy clusters with a variety of masses (M), and with embedded radio lobes of differing power (P), age (t), and orientation (theta) to the observer. I then simulated how these sources would appear to an observer here on Earth, collecting data on the luminosity of the radio lobes (L), the total source length (D),  the dispersion in RM across the source ($\sigma_{\text{RM}}$), and the heteroscedasticity of the RM (the variation in variations; H).
 
