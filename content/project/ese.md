@@ -2,7 +2,7 @@
 title: "Extreme scattering events"
 subtitle: "Holy ESE, Batman!"
 summary: A short side-project to my work at CASS
-date: "2018-12-00T00:00:00Z"
+date: "2016-12-00T00:00:00Z"
 #tags: ["Active Galactic Nuclei", "Data Analysis", "Modelling", "Jets"]
 
 reading_time: true  # Show estimated reading time?
