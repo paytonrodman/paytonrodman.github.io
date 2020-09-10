@@ -46,3 +46,5 @@ user_groups:
 I am a current PhD student at the Institute of Astronomy within the University of Cambridge. My research interests include the theory of black hole accretion discs, specifically the production and amplification of magnetic fields via the dynamo process. I study these systems through a mix of theory and simulation using the Adaptive Mesh Refinement (AMR) code Athena++.
 
 In the future I plan to work towards self-consistent models and realistic simulations of AGN which include accretion disks, jets, and coronae — a true “unified theory” of AGN.
+
+You can find a copy of my CV here: {{% staticref "files/currentCV.pdf" "newtab" %}}Download my CV{{% /staticref %}}
