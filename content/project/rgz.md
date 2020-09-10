@@ -17,7 +17,7 @@ header:
   image: ""
 ---
 
-{{< figure library="true" src="prob1.jpeg" title="The impact of different background density profiles on the resultant radio lobe morphology after 310Myrs. Top: Symmetric environment. Bottom: Asymmetric environment with greater density on the right-hand side, corresponding to a shorter lobe. From Katie Vandorou, UTAS Honours student thesis" >}}
+{{< figure library="true" src="jet_katie.png" title="The impact of different background density profiles on the resultant radio lobe morphology after 310Myrs. Top: Symmetric environment. Bottom: Asymmetric environment with greater density on the right-hand side, corresponding to a shorter lobe. From Katie Vandorou, UTAS Honours student thesis" >}}
 
 The plasma jets produced by some AGN extend far beyond their host galaxy and penetrate into the intergalactic and intercluster medium (IGM and ICM respectively), and it is natural to expect that these highly energetic jets might impact that environment and be impacted by it in return. This idea is supported by numerical simulations that show jets will be interrupted or impeded if they’re incident on denser gas. We also see evidence of asymmetrical radio lobes in observations. 
 
@@ -27,6 +27,6 @@ We would ideally be able to measure the background density as smoothly as in the
 
 We found that galaxy number asymmetry is quite strongly correlated with lobe length asymmetry, with the shorter lobe within a pair typically inhabiting a denser environment than its counterpart. 
 
-{{< figure library="true" src="prob1.jpeg" title="Source RGZ J150407.5+574918, which shows a high degree of jet asymmetry. The location of the central black hole and host galaxy is shown by the green star, with the background colour highlighting the radio lobes. Source from Kapińska A.D., et al. (2017). AJ. 154:253. Background data from FIRST/NRAO/VLA." >}}
+{{< figure library="true" src="hymors.jpg" title="Source RGZ J150407.5+574918, which shows a high degree of jet asymmetry. The location of the central black hole and host galaxy is shown by the green star, with the background colour highlighting the radio lobes. Source from Kapińska A.D., et al. (2017). AJ. 154:253. Background data from FIRST/NRAO/VLA." >}}
 
-{{< figure library="true" src="prob1.jpeg" title="The relation between galaxy number asymmetry (as a proxy for environment density) and the length asymmetry of lobes. From Rodman, P.E., et al. (2019) MNRAS. 482:5625." >}}
+{{< figure library="true" src="rgz_result.png" title="The relation between galaxy number asymmetry (as a proxy for environment density) and the length asymmetry of lobes. From Rodman, P.E., et al. (2019) MNRAS. 482:5625." >}}
