@@ -12,3 +12,7 @@ header:
   caption: ""
   image: ""
 ---
+
+# This is an example post
+
+Lorem ipsum
