@@ -41,7 +41,7 @@ publishDate: '2020-09-10T14:24:18.994502Z'
 publication_types:
 - 2
 abstract: We investigate the role of environment on radio galaxy properties by constructing
-  a sample of large ( 100 kpc), nearby (z textless 0.3) radio sources identiﬁed as
+  a sample of large ($\gtrsim~100$ kpc), nearby ($z<0.3$) radio sources identiﬁed as
   part of the Radio Galaxy Zoo citizen science project. Our sample consists of 16
   Fanaroff-Riley Type II (FR-II) sources, 6 FR-I sources, and 1 source with a hybrid
   morphology. FR-I sources appear to be hosted by more massive galaxies, consistent
