@@ -29,6 +29,6 @@ Values of M, P, t, and theta are then chosen at random to produce a sample of â€
 
 If the program selects close to the correct e.g. mass and age, and does so with high confidence, then it has successfully measured those quantities. For both galaxy cluster mass and radio source age, the inclusion of polarisation observables does not greatly impact the _accuracy_ of those measurements, but it does greatly increase the _confidence_. 
 
-{{< figure src="prob1.jpg" title="A caption" >}}
+{{< figure library="true" src="prob1.jpg" title="A caption" >}}
 
-{{< figure src="prob2.jpg" title="A caption" >}}
+{{< figure library="true" src="prob2.jpg" title="A caption" >}}
