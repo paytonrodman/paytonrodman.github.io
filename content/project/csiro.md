@@ -1,6 +1,7 @@
 ---
-title: "Summer research project: The spectral signature of interstellar scintillation"
-summary: A summer project I undertook in the summer of 2016/2017 with CSIRO in Perth, WA.
+title: "The spectral signature of interstellar scintillation"
+subtitle: "Twinkle twinkle little black hole"
+summary: A project I undertook in the summer of 2016/2017 with CSIRO in Perth, WA.
 date: "2018-12-00T00:00:00Z"
 #tags: ["Active Galactic Nuclei", "Data Analysis", "Modelling", "Jets"]
 
@@ -31,3 +32,7 @@ where F is the flux at the given wavelength and T is the timescale of variabilit
 We used a sample of 2232 quasars from the Australian Telescope Extreme Scattering Events Survey (ATESE) pipeline observed from 2014—2016, across a frequency range of 2—12 GHz and covering a wide range on the sky. Limiting ourselves to those sources which had >1% variation on a timescale of 50 days, we found a slight bias towards greater variation in the galactic plane (b=0).
 
 {{< figure library="true" src="structurefunction.png" title="The strength of variability as a function of distance from the galactic plane, where b=0 denotes the line of the galactic plane. There is a slight, but not statistically significant, preference towards more variability at b=0." >}}
+
+## For more information:
+ - [CSIRO Astronomy and Space Science (CASS)](https://www.csiro.au/en/Research/Astronomy)
+ - [CASS Undergraduate Vacation Program](https://www.atnf.csiro.au/research/summer_vacation/index.html)
