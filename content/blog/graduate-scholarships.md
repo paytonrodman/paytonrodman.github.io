@@ -13,13 +13,6 @@ math: true
 header:
   caption: ""
   image: ""
-  
-image:
-  placement: 1
-  caption: "King's College, Cambridge"
-  focal_point: "Center"
-  preview_only: false
-  alt_text: ""
 ---
 
 {{< figure library="true" src="structurefunction.png" >}}
