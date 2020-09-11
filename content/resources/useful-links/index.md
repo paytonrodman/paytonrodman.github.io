@@ -16,8 +16,6 @@ header:
 
 Here are some (potentially) useful resources for learning physics and making your first steps towards a physics career! Click on a link to take you to the relevant section. If you've found a super useful resource and it's not listed below, let me know!
 
-[My Grad school FAQ!]({{< relref "../resources/grad_FAQ/_index.md" >}})
-
 <h2 id="index">Contents</h2>
 
  - [Other large compilations of advice](#advice)
