@@ -1,6 +1,5 @@
 ---
 title: Resources
-layout: books  # Do not modify.
 
 # Optional header image (relative to `static/media/` folder).
 header:
