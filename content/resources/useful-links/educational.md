@@ -1,11 +1,10 @@
 ---
 title: Educational resources
 linktitle: Educational resources
+summary: Online courses, lecture notes, and educational resources for late high school through to graduate level researchers.
 type: book
 weight: 20
 ---
-
-Online courses, lecture notes, and educational resources for late high school through to graduate level researchers.
 
 <h4 id="high-school">High School, College, and Undergraduate</h4>
 
