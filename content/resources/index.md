@@ -2,7 +2,6 @@
 title: So you want to be an astronomer?
 subtitle: Astronomy resources
 summary: Helpful links for any astronomer-in-training!
-date: "2020-10-00T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -16,6 +15,8 @@ header:
 ---
 
 Here are some (potentially) useful resources for learning physics and making your first steps towards a physics career! Click on a link to take you to the relevant section. If you've found a super useful resource and it's not listed below, let me know!
+
+[My Grad school FAQ!]({{< ref "/resources/grad_FAQ/_index.md" >}})
 
 <h2 id="index">Contents</h2>
 
