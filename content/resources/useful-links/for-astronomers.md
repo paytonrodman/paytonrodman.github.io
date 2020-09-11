@@ -1,11 +1,10 @@
 ---
 title: Useful tools for astronomers
-linktitle: Astronomers
+linktitle: Links for astronomers
+summary: Data repositories, journals of interest, and research resources.
 type: book
 weight: 50
 ---
-
-Data repositories, journals of interest, and research resources.
 
 <h4>Astronomical databases and surveys</h4>
 
