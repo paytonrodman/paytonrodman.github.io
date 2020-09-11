@@ -3,6 +3,7 @@ title: So you want to be an astronomer?
 subtitle: Astronomy resources
 summary: Helpful links for any astronomer-in-training!
 date: "2020-10-00T00:00:00Z"
+type: docs
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -29,7 +30,6 @@ Here are some (potentially) useful resources for learning physics and making you
 
  - [Useful tools for astronomers](#career)
  
-{{% toc %}}
 
 <hr width="80%" size="5" align="center">
 
