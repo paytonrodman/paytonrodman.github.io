@@ -1,8 +1,8 @@
 ---
 title: My background
-linktitle: My background
-date: 2020-11-11
 type: book
+icon_pack: fas
+icon: street-view
 weight: 10
 ---
 
