@@ -1,11 +1,10 @@
 ---
 title: Current PhD students
 linktitle: Current PhD students
+summary: Mostly advice that I ought to take but often struggle to… plus some comic relief!
 type: book
 weight: 40
 ---
-
-Mostly advice that I ought to take but often struggle to… plus some comic relief!
 
 - [Better Posters](http://betterposters.blogspot.com/) for help making better posters
 
