@@ -1,11 +1,10 @@
 ---
 title: Other large compilations
 linktitle: Compilations
+summary: Lots of people over the years have put together their own guides, each linking to different resources and each providing a different view on the lifestyle, challenges, and rewards of an education and/or career in astronomy. If you can't find something you need in my guides, you might find it below!
 type: book
 weight: 10
 ---
-
-Lots of people over the years have put together their own guides, each linking to different resources and each providing a different view on the lifestyle, challenges, and rewards of an education and/or career in astronomy. If you can't find something you need on this page, you might find it in the links below!
 
  - [AstroBetter Wiki](https://www.astrobetter.com/wiki/Wiki+Home): huge wiki with something for every stage
  
