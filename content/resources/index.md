@@ -63,21 +63,21 @@ _Online courses, lecture notes, and educational resources for late high school t
  
  - [The Physics Travel Guide](https://physicstravelguide.com/)
  
- - [*MIT OpenCourseWare*](https://ocw.mit.edu/index.htm)
+ - [MIT OpenCourseWare](https://ocw.mit.edu/index.htm)
  
- - [*3blue1brown*](https://www.3blue1brown.com/)
+ - [3blue1brown](https://www.3blue1brown.com/)
  
  - [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
  
- - [*Paul's Online Math Notes*](http://tutorial.math.lamar.edu/)
+ - [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
  
- - [*Khan Academy*](https://www.khanacademy.org/)
+ - [Khan Academy](https://www.khanacademy.org/)
 
 <h4 id="high-school">Advanced Undergraduate and Graduate</h4>
 
  - [Daniel Erenso's notes](https://www.mtsu.edu/faculty/derenso/)
  
- - [*David Tong's notes*](http://www.damtp.cam.ac.uk/user/tong/teaching.html)
+ - [David Tong's notes](http://www.damtp.cam.ac.uk/user/tong/teaching.html)
  
  - [CERN Document Server](https://cds.cern.ch/collection/Presentations%20%26%20Talks?ln=en)
  
