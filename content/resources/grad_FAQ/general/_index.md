@@ -1,7 +1,7 @@
 ---
 title: General questions
-linktitle: General
-date: 2020-11-11
 type: book
+icon_pack: fas
+icon: thumbtack
 weight: 20
 ---
