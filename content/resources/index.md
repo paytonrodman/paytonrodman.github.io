@@ -108,7 +108,8 @@ _Online courses, lecture notes, and educational resources for late high school t
 
 
 
-<h2 id="grad">Applying to PhD/Masters</h2> 
+<h2 id="grad">Applying to PhD/Masters</h2>
+
 _Mostly aimed towards astrophysics/astronomy, often with a US bias._
 
  - [FindAPhD.com](https://www.findaphd.com/): PhD projects on offer, some funded, primarily UK. 
@@ -146,6 +147,7 @@ _Mostly aimed towards astrophysics/astronomy, often with a US bias._
 
 
 <h2 id="phd">Current PhD students</h2> 
+
 _Mostly advice that I ought to take but often struggle to… plus some comic relief!_
 
 - [Better Posters](http://betterposters.blogspot.com/) for help making better posters
@@ -176,6 +178,7 @@ _Mostly advice that I ought to take but often struggle to… plus some comic rel
 
 
 <h2 id="career">Useful tools for astronomers</h2> 
+
 _Data repositories, journals of interest, and research resources._
 
 <h4>Astronomical databases and surveys</h4>
