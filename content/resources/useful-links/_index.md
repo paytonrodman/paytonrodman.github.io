@@ -2,6 +2,7 @@
 title: So you want to be an astronomer?
 subtitle: Astronomy resources
 summary: Helpful links for any astronomer-in-training!
+type: book
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
