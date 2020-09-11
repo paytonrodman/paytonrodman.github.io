@@ -14,3 +14,5 @@ weight: 90
 ## What will I be asked?
 
 ## Is there anything I need to prepare?
+
+## Some quick tips
