@@ -28,8 +28,6 @@ Here are some (potentially) useful resources for learning physics and making you
  - [Current PhD students](#phd)
 
  - [Useful tools for astronomers](#career)
- 
-<hr width="50%" size="8" align="center" noshade>
 
 
 
@@ -49,8 +47,6 @@ _Lots of people over the years have put together their own guides, each linking 
 - [astrobites](https://astrobites.org/): daily paper summaries, personal experiences, and career guides
 
 [Back to the index](#index)
-
-<hr width="50%" size="8" align="center" noshade>
 
 
 
@@ -103,7 +99,6 @@ _Online courses, lecture notes, and educational resources for late high school t
  
  [Back to the index](#index)
  
-<hr width="50%" size="8" align="center" noshade>
 
 
 
@@ -140,7 +135,6 @@ _Mostly aimed towards astrophysics/astronomy, often with a US bias._
  
 [Back to the index](#index)
 
-<hr width="50%" size="8" align="center" noshade>
 
 
 
@@ -170,7 +164,6 @@ _Mostly advice that I ought to take but often struggle to… plus some comic rel
 
 [Back to the index](#index)
 
-<hr width="50%" size="8" align="center" noshade>
 
 
 
