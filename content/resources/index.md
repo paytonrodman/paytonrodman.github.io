@@ -28,6 +28,8 @@ Here are some (potentially) useful resources for learning physics and making you
  - [Current PhD students](#phd)
 
  - [Useful tools for astronomers](#career)
+ 
+{{% toc %}}
 
 <hr width="80%" size="5" align="center">
 
