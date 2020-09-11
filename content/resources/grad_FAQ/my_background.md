@@ -1,5 +1,7 @@
 ---
 title: My background
+linktitle: My background
+summary: A summary of my application profile and results
 type: book
 icon_pack: fas
 icon: street-view
