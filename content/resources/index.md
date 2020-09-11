@@ -3,7 +3,7 @@ title: So you want to be an astronomer?
 subtitle: Astronomy resources
 summary: Helpful links for any astronomer-in-training!
 date: "2020-10-00T00:00:00Z"
-type: docs
+type: book
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
