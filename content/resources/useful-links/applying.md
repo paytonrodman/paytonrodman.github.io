@@ -1,11 +1,13 @@
 ---
 title: Applying to PhD/Masters
 linktitle: Graduate applications
+summary: Tips for applying to graduate programs.
 type: book
 weight: 30
 ---
 
-Mostly aimed towards astrophysics/astronomy, often with a US bias.
+ 
+<h4>Finding programs</h4>
 
  - [FindAPhD.com](https://www.findaphd.com/): PhD projects on offer, some funded, primarily UK. 
  
@@ -14,6 +16,8 @@ Mostly aimed towards astrophysics/astronomy, often with a US bias.
  - [Resources for POCs in STEAM](https://docs.google.com/spreadsheets/d/1V_pvhqWliwqLhAVcXikxAEuJPD4mwwgl9LEgOnzN-zM/edit#gid=1417047090): Google Doc of fellowships for POC students
  
  - The Fisk-Vanderbilt [Masters-to-PhD Bridge Program](https://www.fisk-vanderbilt-bridge.org/): a bridge program to support minoritised students in attaining a PhD
+ 
+<h4>General advice</h4>
  
  - Katherine Moore's [graduate school application advice](https://sites.google.com/site/gradappadvice/home)
  
