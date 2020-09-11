@@ -34,7 +34,8 @@ Here are some (potentially) useful resources for learning physics and making you
 
 
 
-<h2 id="advice">Other large compilations of advice</h2> [Back to the index](#index)
+<h2 id="advice">Other large compilations of advice</h2> 
+
 _Lots of people over the years have put together their own guides, each linking to different resources and each providing a different view on the lifestyle, challenges, and rewards of an education and/or career in astronomy. If you can't find something you need on this page, you might find it in the links below!_
 
  - [AstroBetter Wiki](https://www.astrobetter.com/wiki/Wiki+Home): huge wiki with something for every stage
@@ -47,12 +48,15 @@ _Lots of people over the years have put together their own guides, each linking 
 
 - [astrobites](https://astrobites.org/): daily paper summaries, personal experiences, and career guides
 
+[Back to the index](#index)
+
 <hr width="50%" size="8" align="center" noshade>
 
 
 
 
-<h2 id="education">Educational resources</h2> [Back to the index](#index)
+<h2 id="education">Educational resources</h2> 
+
 _Online courses, lecture notes, and educational resources for late high school through to graduate level researchers._
 
 <h4 id="high-school">High School, College, and Undergraduate</h4>
@@ -97,12 +101,14 @@ _Online courses, lecture notes, and educational resources for late high school t
  
  - [Trello](https://trello.com/) and [Notion](https://www.notion.so/): organise your workspace and your projects
  
+ [Back to the index](#index)
+ 
 <hr width="50%" size="8" align="center" noshade>
 
 
 
 
-<h2 id="grad">Applying to PhD/Masters</h2> [Back to the index](#index)
+<h2 id="grad">Applying to PhD/Masters</h2> 
 _Mostly aimed towards astrophysics/astronomy, often with a US bias._
 
  - [FindAPhD.com](https://www.findaphd.com/): PhD projects on offer, some funded, primarily UK. 
@@ -130,6 +136,8 @@ _Mostly aimed towards astrophysics/astronomy, often with a US bias._
  - Reddit’s [r/Physics subreddit](http://reddit.com/r/physics) and [r/GradAdmissions subreddit](https://www.reddit.com/r/gradadmissions/)
 
  - [TheGradCafe](https://www.thegradcafe.com/)
+ 
+[Back to the index](#index)
 
 <hr width="50%" size="8" align="center" noshade>
 
@@ -137,7 +145,7 @@ _Mostly aimed towards astrophysics/astronomy, often with a US bias._
 
 
 
-<h2 id="phd">Current PhD students</h2> [Back to the index](#index)
+<h2 id="phd">Current PhD students</h2> 
 _Mostly advice that I ought to take but often struggle to… plus some comic relief!_
 
 - [Better Posters](http://betterposters.blogspot.com/) for help making better posters
@@ -158,6 +166,8 @@ _Mostly advice that I ought to take but often struggle to… plus some comic rel
 
 - Cooke et al.’s ["Guide to reading academic papers"](https://arxiv.org/pdf/2006.12566.pdf) [PDF]
 
+[Back to the index](#index)
+
 <hr width="50%" size="8" align="center" noshade>
 
 
@@ -165,7 +175,7 @@ _Mostly advice that I ought to take but often struggle to… plus some comic rel
 
 
 
-<h2 id="career">Useful tools for astronomers</h2> [Back to the index](#index)
+<h2 id="career">Useful tools for astronomers</h2> 
 _Data repositories, journals of interest, and research resources._
 
 <h4>Astronomical databases and surveys</h4>
@@ -224,3 +234,4 @@ _Data repositories, journals of interest, and research resources._
 
  - [Astrophysics Jobs Rumour Mill](https://www.astrobetter.com/wiki/Rumor+Mill+Faculty-Staff): find out if that job you applied to has already made offers! Use with caution—people lie on the internet!
 
+[Back to the index](#index)
