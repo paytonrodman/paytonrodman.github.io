@@ -10,10 +10,12 @@ authors:
   - admin
 bio: ""
 interests:
-  - black holes
-  - accretion disks
-  - AGN
-  - theory
+  - Black holes
+  - Accretion disks
+  - Active Galactic Nuclei
+  - Magnetohydrodynamics
+  - Magnetic dynamos
+  - Theory
 social:
   - icon: envelope
     icon_pack: fas
@@ -27,11 +29,14 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/paytonrodman
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/payton-rodman/
 education:
   courses:
     - course: PhD in Astronomy
       institution: University of Cambridge
-      year: 2024
+      year: expected 2024
     - course: BSc (Hons) in Physics
       institution: University of Tasmania
       year: 2018
@@ -47,4 +52,6 @@ I am a current PhD student at the Institute of Astronomy within the University o
 
 In the future I plan to work towards self-consistent models and realistic simulations of AGN which include accretion disks, jets, and coronae — a true “unified theory” of AGN.
 
-You can find a copy of my CV here: {{% staticref "files/currentCV.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+You can find a copy of my CV here: {{% staticref "files/currentCV.pdf" "newtab" %}}Download my CV{{% /staticref %}} 
+icon: github
+icon_pack: fab
