@@ -3,6 +3,7 @@ title: "Hard lessons learnt from a bad first-year review"
 summary: Sometimes the only power we have left is the power to define our own silver linings.
 date: "2020-11-11T00:00:00Z"
 draft: false
+featured: false
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
