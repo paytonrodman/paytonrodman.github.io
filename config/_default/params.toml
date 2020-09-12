@@ -88,7 +88,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "per29-at-cam.ac.uk"
+email = "per29@cam.ac.uk"
 phone = ""
 
 # Address
