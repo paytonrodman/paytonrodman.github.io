@@ -52,4 +52,4 @@ I am a current PhD student at the Institute of Astronomy within the University o
 
 In the future I plan to work towards self-consistent models and realistic simulations of AGN which include accretion disks, jets, and coronae — a true “unified theory” of AGN.
 
-You can find a copy of my CV here: {{% staticref "files/currentCV.pdf" "newtab" %}}Download my CV{{% /staticref %}} <i class="fas fa-github"></i>
+You can find a copy of my CV here: {{% staticref "files/currentCV.pdf" "newtab" %}}Download my CV{{% /staticref %}} <i class="fas fa-download"></i>
