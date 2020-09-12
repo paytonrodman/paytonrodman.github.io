@@ -1,14 +1,33 @@
 ---
-title: "Hard lessons learnt from a bad first-year review"
+title: Hard lessons learnt from a bad first-year review
+subtitle: Sometimes the only power we have left is the power to define our own silver linings.
 summary: Sometimes the only power we have left is the power to define our own silver linings.
 date: "2020-11-11T00:00:00Z"
 draft: false
 featured: false
+authors:
+- admin
+tags: []
+categories: []
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ""
+  focal_point: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 
 ---
 
