@@ -1,7 +1,7 @@
 ---
 title: Hard lessons learnt from a bad first-year review
-subtitle: Sometimes the only power we have left is the power to define our own silver linings.
-summary: Sometimes the only power we have left is the power to define our own silver linings.
+subtitle: Sometimes the only power we have left is the power to define our own silver linings
+summary: Sometimes the only power we have left is the power to define our own silver linings
 date: "2020-11-11T00:00:00Z"
 draft: false
 featured: false
