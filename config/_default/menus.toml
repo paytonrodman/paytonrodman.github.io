@@ -16,7 +16,14 @@
 [[main]]
   name = "Projects"
   url = "project/"
+  identifier = "something"
   weight = 30
+  
+[[main]]
+  name = "Projects"
+  url = "project/"
+  parent = "something"
+  weight = 31
 
 [[main]]
   name = "Publications"
