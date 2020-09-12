@@ -2,13 +2,13 @@
 title: "A guide to graduate scholarships"
 summary: My experiences, both successful and unsuccessful, in applying to the Rhodes and Gates Cambridge scholarships
 date: "2019-04-16T00:00:00Z"
+featured: false
 draft: false
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
-
 ---
 
 {{< figure library="true" src="kings_cambridge.jpg" alt="">}}
