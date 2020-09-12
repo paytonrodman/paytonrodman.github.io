@@ -11,6 +11,9 @@
 /*  change all rgba(0,230,118,0.6) --> rgba(127,140,180,0.6) */
 /*  change all rgba(0,230,118,1) --> rgba(52,60,86,1) */
 
+/* rgb(127,140,180) is light blue
+/* rgb(52,60,86)    is dark blue
+
 /*************************************************
  *  Core
  **************************************************/
@@ -20,7 +23,7 @@
 
 a,
 h3.article-title a:hover {
-  color: rgb(127,140,180); 
+  color: rgb(128,0,0); 
 }
 
 
@@ -34,7 +37,7 @@ a:focus {
  **************************************************/
 
 .article-metadata a:hover {
-  color: rgb(127,140,180);
+  color: rgb(128,0,0);
 }
 
 /*************************************************
@@ -42,7 +45,7 @@ a:focus {
  **************************************************/
 
 .btn-primary {
-  border-color: rgb(127,140,180);
+  border-color: rgb(128,0,0);
   /*background: rgb(127,140,180);*/
 }
 
@@ -51,7 +54,7 @@ a:focus {
 .btn-primary:active,
 .btn-primary.active,
 .open > .dropdown-toggle.btn-primary {
-  background: rgb(127,140,180);
+  background: rgb(128,0,0);
 }
 
 
@@ -61,8 +64,8 @@ a:focus {
 
 
 .btn-primary.btn-outline {
-  color: rgb(127,140,180);
-  border-color: rgb(127,140,180);
+  color: rgb(128,0,0);
+  border-color: rgb(128,0,0);
 }
 
 /*************************************************
@@ -72,7 +75,7 @@ a:focus {
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-  color: rgb(127,140,180);
+  color: rgb(128,0,0);
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -82,7 +85,7 @@ a:focus {
 .dropdown-menu > .active > a:hover {
   color: #fff;
   text-decoration: none;
-  background-color: rgb(127,140,180);
+  background-color: rgb(128,0,0);
   outline: 0;
 }
 
@@ -91,7 +94,7 @@ a:focus {
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:focus,
   .navbar-default .navbar-nav .open .dropdown-menu > .active > a:hover {
-    color: rgb(127,140,180);
+    color: rgb(128,0,0);
     background-color: transparent;
   }
 
@@ -103,17 +106,17 @@ a:focus {
  
 
 .btn-toolbar .btn.btn-primary {
-  background: rgb(127,140,180);
+  background: rgb(128,0,0);
 }
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: rgba(127,140,180,0.6);
+  background-color: rgb(128,0,0,0.6);
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: rgba(52,60,86,1);
+  background-color: rgb(128,0,0,1);
 }
 
 /*************************************************
@@ -157,6 +160,6 @@ html {
 
 .alert-warning {
   color: #fff;
-  background-color: rgb(238, 88, 99); 
+  background-color: rgb(247,161,161); 
   border-color: #ebccd1;
 }
