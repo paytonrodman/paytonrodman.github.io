@@ -5,14 +5,14 @@ name = "Maroon"
 light = true
 
 # Primary
-primary = "#d12121"
+primary = "#990603" # Dark red
 
 # Menu
-menu_primary = "#fff"
-menu_text = "#581845"
-menu_text_active = "#d12121"
-menu_title = "#2b2b2b"
+menu_primary = "#fff" # Light grey / white
+menu_text = "#4F1D1C" # Caput Mortuum (Darker red)
+menu_text_active = "#990603" # Dark red
+menu_title = "#2b2b2b" # Dark grey
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "rgb(255, 255, 255)" # White
+home_section_even = "rgb(247, 247, 247)" # Off white
