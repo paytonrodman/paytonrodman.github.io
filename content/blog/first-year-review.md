@@ -10,7 +10,7 @@ comments: false  # Show comments?
 
 ---
 
-{{< figure library="true" src="kings_cambridge.jpg" alt="">}}
+{{< figure library="true" src="exam.jpg" alt="">}}
 
 {{% alert warning %}}
 Necessary context: In my department, we spend the first year of the PhD formally on "probation". At the end of the year we submit a 10,000 word report comprised of a paper or literature review plus a proposal for our future research. We're then interviewed on this report, and are either recommended for registration :relieved: or recommended with revisions/resubmission :confused:. If resubmission is unsuccessful then you're given the option to complete a Masters degree or to leave immediately without a degree :disappointed:. In many ways, it is our version of the US "qualifying exam", with the same pressures and pitfalls.
