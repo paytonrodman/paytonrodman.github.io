@@ -1,11 +1,10 @@
 ---
 title: General questions
-linktitle: General questions
 toc: true
-type: boook
+type: book
 draft: false
-icon_pack: fas
-icon: thumbtack
+# icon_pack: fas
+# icon: thumbtack
 weight: 30
 ---
 
