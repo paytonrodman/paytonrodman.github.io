@@ -1,6 +1,6 @@
 ---
-title: Radio Galaxy Zoo: observational evidence for environment as the cause of radio source asymmetry
-subtitle: A plain-language look at how a galaxy's environment can shape black hole jets
+title: Radio Galaxy Zoo
+subtitle: Observational evidence for environment as the cause of radio source asymmetry
 summary: A plain-language look at how a galaxy's environment can shape black hole jets
 date: "2019-04-16T00:00:00Z"
 featured: false
