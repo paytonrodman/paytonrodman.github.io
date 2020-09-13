@@ -1,6 +1,6 @@
 ---
 title: Overview
-Linktitle: Graduate school FAQ
+Linktitle: Applying to grad school
 date: 2016-04-20
 type: book
 icon_pack: fas
