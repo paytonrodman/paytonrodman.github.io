@@ -1,9 +1,8 @@
 ---
 title: Letters of Recommendation
-linktitle: Letters of Recommendation
 type: book
-icon_pack: fas
-icon: envelope
+# icon_pack: fas
+# icon: envelope
 weight: 40
 ---
 
