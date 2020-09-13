@@ -7,8 +7,8 @@ draft: true
 featured: false
 authors:
 - admin
-tags: [blog]
-categories: []
+tags: []
+categories: ["blog"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
