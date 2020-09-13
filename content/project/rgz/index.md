@@ -18,7 +18,7 @@ math: true
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: "By NASA, ESA, S. Baum and C. O&#039;Dea (RIT), R. Perley and W. Cotton (NRAO/AUI/NSF), and the Hubble Heritage Team (STScI/AURA) - &lt;a rel=&quot;nofollow&quot; class=&quot;external free&quot; href=&quot;http://www.spacetelescope.org/images/opo1247a/&quot;&gt;http://www.spacetelescope.org/images/opo1247a/&lt;/a&gt;, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=23041884">Link</a>"
+  caption: "By NASA, ESA, S. Baum and C. O'Dea (RIT), R. Perley and W. Cotton (NRAO/AUI/NSF), and the Hubble Heritage Team (STScI/AURA)"
   focal_point: "Center"
   preview_only: false
   alt_text: ""
