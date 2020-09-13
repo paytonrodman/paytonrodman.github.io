@@ -1,10 +1,12 @@
 ---
 title: General questions
 linktitle: General questions
-type: book
+toc: true
+type: docs
+draft: false
 icon_pack: fas
 icon: thumbtack
-weight: 20
+weight: 30
 ---
 
 ## Should I do a PhD?
