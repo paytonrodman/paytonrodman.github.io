@@ -5,11 +5,6 @@ type: book
 icon_pack: fas
 icon: user-plus
 # weight: 20
-
-menu:
-  grad-faq:
-    parent: Finding programs
-    weight: 1
 ---
 
 {{% alert note %}}
