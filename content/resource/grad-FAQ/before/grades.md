@@ -1,9 +1,6 @@
 ---
 title: Grades
-linktitle: Grades
 type: book
-# icon_pack: fas
-# icon: award
 weight: 20
 ---
 
