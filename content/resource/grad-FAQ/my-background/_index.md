@@ -3,6 +3,8 @@ title: My background
 type: book
 icon_pack: fas
 icon: street-view
-toc: false
+toc: true
 weight: 10
 ---
+
+{{< list_children >}}
