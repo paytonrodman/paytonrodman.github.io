@@ -1,7 +1,7 @@
 ---
 title: Picking a supervisor
 type: book
-weight: 30
+weight: 50
 ---
 
 {{% alert note %}}
