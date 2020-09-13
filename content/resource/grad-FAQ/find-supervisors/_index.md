@@ -4,7 +4,7 @@ linktitle: Picking a supervisor
 type: book
 icon_pack: fas
 icon: user-plus
-# weight: 20
+weight: 30
 ---
 
 {{% alert note %}}
