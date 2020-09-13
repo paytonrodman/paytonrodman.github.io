@@ -1,6 +1,6 @@
 ---
 title: Who am I?
-toc: false
+toc: true
 type: book
 draft: false
 weight: 10
