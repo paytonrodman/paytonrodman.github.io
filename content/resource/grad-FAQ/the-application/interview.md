@@ -1,9 +1,8 @@
 ---
 title: Interviews
-linktitle: Interviews
 type: book
-icon_pack: fas
-icon: comments
+# icon_pack: fas
+# icon: comments
 weight: 90
 ---
 
