@@ -2,8 +2,8 @@
 title: Cost and funding
 linktitle: Cost and funding
 type: book
-icon_pack: fas
-icon: pound-sign
+# icon_pack: fas
+# icon: pound-sign
 weight: 80
 ---
 
