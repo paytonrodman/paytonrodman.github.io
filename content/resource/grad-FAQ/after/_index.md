@@ -2,8 +2,8 @@
 title: Offers
 type: book
 icon_pack: fas
-icon: chalkboard-teacher
-weight: 50
+icon: award
+weight: 40
 ---
 
 {{< list_children >}}
