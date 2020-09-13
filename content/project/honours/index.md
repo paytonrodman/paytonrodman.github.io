@@ -11,10 +11,17 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 math: true
 
-# Optional header image (relative to `static/media/` folder).
-header:
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1
   caption: ""
-  image: ""
+  focal_point: "Center"
+  preview_only: false
+  alt_text: ""
 ---
 
 During the 2018 calendar year, I completed my Honours thesis at the University of Tasmania, supervised by Dr Stanislav Shabala and Dr Ross Turner. My goal was to investigate whether radio lobe observables such as length, brightness, and polarisation could be used to infer the intrinsic properties of both the jets/lobes themselves and their host galaxy clusters, which I did through semi-analytic models. The most critical component of this study is the inclusion of polarisation data as the polarisation (or rotation measure, RM) of light is a function of the density (n) and magnetic field (B) of the material which the light passes through:
