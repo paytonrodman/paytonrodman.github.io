@@ -8,6 +8,11 @@ draft: false
 icon_pack: fas
 icon: street-view
 weight: 20
+
+menu:
+  grad-faq:
+    parent: Overview
+    weight: 1
 ---
 
 **Degree:** Bachelor of Science
