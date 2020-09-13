@@ -7,7 +7,7 @@ draft: true
 featured: false
 authors:
 - admin
-tags: []
+tags: [blog]
 categories: []
 
 reading_time: true  # Show estimated reading time?
