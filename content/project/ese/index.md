@@ -3,7 +3,7 @@ title: "Extreme scattering events"
 subtitle: "Holy ESE, Batman!"
 summary: A short side-project to my work at CASS
 date: "2016-12-00T00:00:00Z"
-#tags: ["Active Galactic Nuclei", "Data Analysis", "Modelling", "Jets"]
+tags: ["Active Galactic Nuclei", "Quasars", "Undergraduate research"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
