@@ -2,8 +2,8 @@
 title: Statement of Purpose
 linktitle: Statement of Purpose
 type: book
-icon_pack: fas
-icon: paper-plane
+# icon_pack: fas
+# icon: paper-plane
 weight: 30
 ---
 
