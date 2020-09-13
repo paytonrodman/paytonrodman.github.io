@@ -1,5 +1,5 @@
 ---
-title: General questions
+title: Should you do a PhD?
 toc: true
 type: book
 draft: false
