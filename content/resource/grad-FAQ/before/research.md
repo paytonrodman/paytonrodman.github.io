@@ -2,8 +2,8 @@
 title: Research experience
 linktitle: Research experience
 type: book
-icon_pack: fas
-icon: rocket
+# icon_pack: fas
+# icon: rocket
 weight: 70
 ---
 
