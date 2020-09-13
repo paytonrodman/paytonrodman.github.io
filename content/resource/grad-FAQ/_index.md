@@ -2,7 +2,7 @@
 # Course title, summary, and position.
 linktitle: Grad school FAQ
 summary: My guide to graduate school applications!
-weight: 1
+weight: 10
 
 # Page metadata.
 title: Overview
@@ -15,10 +15,10 @@ type: book
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
-menu:
-  example:
-    name: Overview
-    weight: 1
+# menu:
+#  example:
+#    name: Overview
+#    weight: 10
 ---
 
 This is my guide to everything grad!
