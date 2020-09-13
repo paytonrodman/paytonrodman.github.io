@@ -4,7 +4,7 @@ linktitle: Research experience
 type: book
 # icon_pack: fas
 # icon: rocket
-weight: 70
+weight: 30
 ---
 
 ## How much does it matter?
