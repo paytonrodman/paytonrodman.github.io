@@ -1,14 +1,8 @@
 ---
-title: Projects
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 3
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+title: "Projects"  # Add a page title.
+summary: "Projects"  # Add a page description.
+date: "2019-01-01T00:00:00Z"  # Add today's date.
+type: "widget_page"  # Page type is a Widget Page
 ---
+
+
