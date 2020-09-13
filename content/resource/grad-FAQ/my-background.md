@@ -3,11 +3,11 @@ title: My background
 linktitle: My background
 summary: A summary of my application profile and results
 toc: true
-type: docs
+type: book
 draft: false
 icon_pack: fas
 icon: street-view
-weight: 2
+weight: 20
 ---
 
 **Degree:** Bachelor of Science
