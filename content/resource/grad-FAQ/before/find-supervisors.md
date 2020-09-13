@@ -1,9 +1,6 @@
 ---
 title: Picking a supervisor
-linktitle: Picking a supervisor
 type: book
-icon_pack: fas
-icon: user-plus
 weight: 30
 ---
 
