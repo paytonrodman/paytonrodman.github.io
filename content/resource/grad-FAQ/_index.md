@@ -1,18 +1,17 @@
 ---
-title: astrotemp's grad FAQ
+# Course title, summary, and position.
+linktitle: Grad school FAQ
 summary: My guide to graduate school applications!
-type: docs
+weight: 1
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+# Page metadata.
+title: Overview
+date: "2018-09-09T00:00:00Z"
+lastmod: "2018-09-09T00:00:00Z"
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
-  
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
