@@ -3,7 +3,7 @@ title: "Environment as a cause of radio source asymmetry"
 subtitle: "Nature vs Nurture in the galactic zoo"
 summary: An analysis of AGN jet properties in different clustering environments.
 date: "2015-12-00T00:00:00Z"
-#tags: ["Active Galactic Nuclei", "Data Analysis", "Modelling", "Jets"]
+tags: ["Active Galactic Nuclei", "Jets", "Galaxy clusters"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -11,10 +11,17 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 math: true
 
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+# Featured image
+# To use, place an image named `featured.jpg/png` in your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+# Set `preview_only` to `true` to just use the image for thumbnails.
+image:
+  placement: 1
+  caption: "By NASA, ESA, S. Baum and C. O&#039;Dea (RIT), R. Perley and W. Cotton (NRAO/AUI/NSF), and the Hubble Heritage Team (STScI/AURA) - &lt;a rel=&quot;nofollow&quot; class=&quot;external free&quot; href=&quot;http://www.spacetelescope.org/images/opo1247a/&quot;&gt;http://www.spacetelescope.org/images/opo1247a/&lt;/a&gt;, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=23041884">Link</a>"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: ""
 ---
 
 {{< figure library="true" src="jet_katie.png" title="The impact of different background density profiles on the resultant radio lobe morphology after 310Myrs. Top: Symmetric environment. Bottom: Asymmetric environment with greater density on the right-hand side, corresponding to a shorter lobe. From Katie Vandorou, UTAS Honours student thesis" >}}
