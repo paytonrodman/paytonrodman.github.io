@@ -2,8 +2,8 @@
 title: Grades
 linktitle: Grades
 type: book
-icon_pack: fas
-icon: award
+# icon_pack: fas
+# icon: award
 weight: 60
 ---
 
