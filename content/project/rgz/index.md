@@ -3,7 +3,7 @@ title: "Environment as a cause of radio source asymmetry"
 subtitle: "Nature vs Nurture in the galactic zoo"
 summary: An analysis of AGN jet properties in different clustering environments.
 date: "2015-12-00T00:00:00Z"
-tags: ["Active Galactic Nuclei", "Jets", "Galaxy clusters"]
+tags: ["Active Galactic Nuclei", "Jets", "Galaxy clusters", "Undergraduate research"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
