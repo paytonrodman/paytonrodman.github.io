@@ -2,7 +2,7 @@
 title: Before applying
 type: book
 icon_pack: fas
-icon: chalkboard-teacher
+icon: thumbtack
 weight: 20
 ---
 
