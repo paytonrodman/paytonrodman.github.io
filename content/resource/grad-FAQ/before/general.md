@@ -3,9 +3,8 @@ title: General questions
 toc: true
 type: book
 draft: false
-# icon_pack: fas
-# icon: thumbtack
-weight: 30
+weight: 10
+
 ---
 
 ## Should I do a PhD?
