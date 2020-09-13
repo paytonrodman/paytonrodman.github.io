@@ -2,7 +2,7 @@
 title: General questions
 linktitle: General questions
 toc: true
-type: docs
+type: boook
 draft: false
 icon_pack: fas
 icon: thumbtack
