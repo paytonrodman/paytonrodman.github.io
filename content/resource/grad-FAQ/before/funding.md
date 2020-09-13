@@ -1,10 +1,7 @@
 ---
 title: Cost and funding
-linktitle: Cost and funding
 type: book
-# icon_pack: fas
-# icon: pound-sign
-weight: 80
+weight: 60
 ---
 
 ## How much will a graduate degree cost?
