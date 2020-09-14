@@ -1,9 +1,16 @@
 ---
 title: The stats
+linktitle: The stats
 toc: true
-type: book
+type: docs
 draft: false
-weight: 20
+menu:
+  grad-FAQ:
+    parent: my-background
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
 
 **Degree:** Bachelor of Science  
