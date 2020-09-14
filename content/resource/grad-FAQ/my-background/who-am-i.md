@@ -1,9 +1,10 @@
 ---
 title: Who am I?
 linktitle: Who am I?
-toc: true
+toc: false
 type: docs
 draft: false
+
 menu:
   grad-FAQ:
     parent: My background
