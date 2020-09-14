@@ -1,10 +1,14 @@
 ---
+# Page metadata.
 title: <i class="fas fa-thumbtack"></i> Before applying
-linktitle: Before applying
-toc: true
-type: docs
+# linktitle: Before applying
 draft: false
+toc: false
+type: docs
 
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
 menu:
   grad-FAQ:
     name: Before applying
