@@ -17,7 +17,7 @@ icon: rocket
 # - weight: Position of link in menu.
 menu:
   grad-FAQ:
-    name: overview
+    name: Overview
     weight: 1
 ---
 
