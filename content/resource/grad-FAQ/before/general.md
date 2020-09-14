@@ -1,6 +1,7 @@
 ---
 title: Should you do a PhD?
 linktitle: Should you do a PhD?
+summary: How to know if a PhD is the right path for you
 toc: true
 type: docs
 draft: false
