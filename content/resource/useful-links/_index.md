@@ -1,25 +1,26 @@
 ---
-title: So you want to be an astronomer?
-subtitle: Astronomy resources
+# Course title, summary, and position.
+linktitle: So you want to be an astronomer?
 summary: Helpful links for any astronomer-in-training!
-type: book
+weight: 1
 
-reading_time: false  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
+# Page metadata.
+title: Overview
+draft: false  # Is this a draft? true/false
+toc: false  # Show table of contents? true/false
+type: docs  # Do not modify.
 
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
-  
+
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
 menu:
-  example:
-    name: Overview
+  useful-links:
+    name: overview
     weight: 1
 ---
 
