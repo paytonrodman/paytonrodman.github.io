@@ -1,10 +1,18 @@
 ---
 title: Other large compilations
-linktitle: Compilations
-summary: Lots of people over the years have put together their own guides, each linking to different resources and each providing a different view on the lifestyle, challenges, and rewards of an education and/or career in astronomy. If you can't find something you need in my guides, you might find it below!
-type: book
-weight: 10
+linktitle: Other large compilations
+toc: true
+type: docs
+draft: false
+menu:
+  useful-links:
+    parent: useful
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
+
 
  - [AstroBetter Wiki](https://www.astrobetter.com/wiki/Wiki+Home): huge wiki with something for every stage
  
