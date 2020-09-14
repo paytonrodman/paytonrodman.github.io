@@ -1,5 +1,5 @@
 ---
-title: <i class="fas fa-street-view"></i> My background
+title: My background
 linktitle: My background
 toc: true
 type: docs
