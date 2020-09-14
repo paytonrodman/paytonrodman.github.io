@@ -6,8 +6,8 @@ type: docs
 draft: false
 menu:
   grad-FAQ:
-    parent: my-background
-    weight: 1
+    parent: My background
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
