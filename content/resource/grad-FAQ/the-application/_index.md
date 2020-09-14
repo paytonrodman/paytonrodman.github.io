@@ -1,6 +1,7 @@
 ---
 # Page metadata.
 title: <i class="fas fa-file"></i> The application
+linktitle: The application
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
