@@ -1,10 +1,9 @@
 ---
-title: My background
+title: <i class="fas fa-street-view"></i> My background
 linktitle: My background
 toc: true
 type: docs
 draft: false
-icon: street-view
 toc: true
 
 menu:
@@ -13,7 +12,7 @@ menu:
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-# weight: 1
+weight: 2
 ---
 
 {{< list_children >}}
