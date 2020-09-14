@@ -6,7 +6,7 @@ type: docs
 draft: false
 menu:
   useful-links:
-    parent: useful
+    parent: Useful Links
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
