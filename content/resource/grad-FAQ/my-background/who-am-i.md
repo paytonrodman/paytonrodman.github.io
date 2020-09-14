@@ -1,9 +1,16 @@
 ---
 title: Who am I?
+linktitle: Who am I?
 toc: true
-type: book
+type: docs
 draft: false
-weight: 10
+menu:
+  grad-FAQ:
+    parent: my-background
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
 
 Welcome!
