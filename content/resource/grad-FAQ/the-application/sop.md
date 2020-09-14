@@ -1,10 +1,16 @@
 ---
 title: Statement of Purpose
 linktitle: Statement of Purpose
-type: book
-# icon_pack: fas
-# icon: paper-plane
-weight: 30
+toc: true
+type: docs
+draft: false
+menu:
+  grad-FAQ:
+    parent: the-application
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
 
 ## What's a statement of purpose?
