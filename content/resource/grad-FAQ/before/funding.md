@@ -6,11 +6,11 @@ type: docs
 draft: false
 menu:
   grad-FAQ:
-    parent: before
-    weight: 1
+    parent: Before applying
+    weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+# weight: 1
 ---
 
 ## How much will a graduate degree cost?
