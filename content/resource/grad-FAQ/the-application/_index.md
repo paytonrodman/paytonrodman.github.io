@@ -12,9 +12,8 @@ icon: file
 # - weight: Position of link in menu.
 menu:
   grad-FAQ:
-    parent: overview
-    name: the-application
-    weight: 1
+    name: The application
+    weight: 4
 ---
 
 {{< list_children >}}
