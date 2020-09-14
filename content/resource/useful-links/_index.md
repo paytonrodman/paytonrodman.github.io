@@ -20,7 +20,7 @@ header:
 # - weight: Position of link in menu.
 menu:
   useful-links:
-    name: useful-links
+    name: useful
     weight: 1
 ---
 
