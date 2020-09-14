@@ -1,9 +1,16 @@
 ---
 title: Applying to PhD/Masters
-linktitle: Graduate applications
-summary: Tips for applying to graduate programs.
-type: book
-weight: 30
+linktitle: Applying to PhD/Masters
+toc: true
+type: docs
+draft: false
+menu:
+  useful-links:
+    parent: useful
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
 
  
