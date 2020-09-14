@@ -4,7 +4,7 @@ linktitle: My background
 toc: true
 type: docs
 draft: false
-toc: true
+toc: false
 
 menu:
   grad-FAQ:
