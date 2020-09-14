@@ -1,9 +1,16 @@
 ---
 title: Current PhD students
 linktitle: Current PhD students
-summary: Mostly advice that I ought to take but often struggle to… plus some comic relief!
-type: book
-weight: 40
+toc: true
+type: docs
+draft: false
+menu:
+  useful-links:
+    parent: useful
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
 
 - [Better Posters](http://betterposters.blogspot.com/) for help making better posters
