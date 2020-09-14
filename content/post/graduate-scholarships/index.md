@@ -18,8 +18,9 @@ comments: false  # Show comments?
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
-  focal_point: ""
+  caption: 'Kings Cambridge'
+  focal_point: ''
+  preview_only: no
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
