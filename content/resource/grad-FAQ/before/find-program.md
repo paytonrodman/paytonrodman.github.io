@@ -1,11 +1,5 @@
 ---
 title: Finding a program
-type: book
-weight: 40
----
-
----
-title: Finding a program
 linktitle: Finding a program
 toc: true
 type: docs
