@@ -1,6 +1,6 @@
 ---
 # Page metadata.
-title: <i class="fas fa-award"></i> Results!
+title: Results!
 linktitle: Results!
 toc: true
 type: docs
