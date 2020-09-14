@@ -1,7 +1,7 @@
 ---
 # Page metadata.
 title: <i class="fas fa-thumbtack"></i> Before applying
-# linktitle: Before applying
+linktitle: Before applying
 draft: false
 toc: false
 type: docs
