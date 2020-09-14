@@ -1,11 +1,9 @@
 ---
 # Page metadata.
-title: The application
+title: <i class="fas fa-file"></i> The application
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
-icon_pack: fas
-icon: file
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
@@ -14,6 +12,9 @@ menu:
   grad-FAQ:
     name: The application
     weight: 4
+    
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 4
 ---
 
 {{< list_children >}}
