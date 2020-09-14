@@ -6,7 +6,7 @@ type: docs
 draft: false
 menu:
   grad-FAQ:
-    parent: Before applying
+    parent: before
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
