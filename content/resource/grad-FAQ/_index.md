@@ -5,7 +5,7 @@ summary: ""
 weight: 1
 
 # Page metadata.
-title: <i class="fas fa-rocket"></i> Guide to graduate applications
+title: Guide to graduate applications
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
