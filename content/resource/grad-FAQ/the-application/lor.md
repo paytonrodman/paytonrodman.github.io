@@ -6,11 +6,11 @@ type: docs
 draft: false
 menu:
   grad-FAQ:
-    parent: the-application
-    weight: 1
+    parent: The application
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+# weight: 1
 ---
 
 ## What is a Letter of Recommendation?
