@@ -9,12 +9,11 @@ icon: thumbtack
 
 menu:
   grad-FAQ:
-    parent: overview
-    name: before
-    weight: 1
+    name: Before applying
+    weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+# weight: 1
 ---
 
 {{< list_children >}}
