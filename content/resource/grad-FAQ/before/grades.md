@@ -1,7 +1,16 @@
 ---
 title: Grades
-type: book
-weight: 20
+linktitle: Grades
+toc: true
+type: docs
+draft: false
+menu:
+  grad-FAQ:
+    parent: before
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
 
 {{% alert note %}}
