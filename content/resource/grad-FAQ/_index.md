@@ -1,7 +1,7 @@
 ---
 # Course title, summary, and position.
 linktitle: Guide to graduate applications
-summary: ""
+summary: "Thoughts, tips, and tricks in the graduate school admission process"
 weight: 1
 
 # Page metadata.
