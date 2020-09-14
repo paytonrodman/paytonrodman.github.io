@@ -18,7 +18,7 @@ comments: false  # Show comments?
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Kings Cambridge'
+  caption: '[St John's College, Cambridge, UK by Markus Leo on Unsplash](https://unsplash.com/photos/GMIGvwP8ego)'
   focal_point: ''
   preview_only: no
 
@@ -31,8 +31,6 @@ image:
 projects: []
 
 ---
-
-{{< figure library="true" src="kings_cambridge.jpg" alt="">}}
 
 I was turned down from the Rhodes scholarship in late 2018 and accepted for the Gates-Cambridge scholarship in early 2019. After going through the selection for both and coming out the other end experiencing both success and failure, I realised how unprepared I’d been for the process. If you’re like I was–coming from a less affluent background and without institutional training/mentoring–hopefully you will find this guide helpful. 
 
