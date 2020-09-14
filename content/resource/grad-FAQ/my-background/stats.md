@@ -1,7 +1,7 @@
 ---
 title: The stats
 linktitle: The stats
-toc: true
+toc: false
 type: docs
 draft: false
 menu:
