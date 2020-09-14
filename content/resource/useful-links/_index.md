@@ -5,7 +5,7 @@ summary: Helpful links for any astronomer-in-training!
 weight: 1
 
 # Page metadata.
-title: Overview
+title: Useful Links
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
@@ -20,7 +20,7 @@ header:
 # - weight: Position of link in menu.
 menu:
   useful-links:
-    name: overview
+    name: useful-links
     weight: 1
 ---
 
