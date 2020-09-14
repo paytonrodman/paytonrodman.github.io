@@ -10,6 +10,7 @@ toc: true
 menu:
   grad-FAQ:
     parent: overview
+    name: my-background
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
