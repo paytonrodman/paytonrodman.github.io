@@ -6,11 +6,11 @@ type: docs
 draft: false
 menu:
   grad-FAQ:
-    parent: before
+    parent: Before applying
     weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+# weight: 1
 ---
 
 You should do whatever is best for you! A PhD can be a lot of fun and the qualification may be useful to you, but it’s also 3-8+ years of your life on relatively low pay and the applications often do cost money.
