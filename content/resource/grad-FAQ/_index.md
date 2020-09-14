@@ -5,12 +5,10 @@ summary: ""
 weight: 1
 
 # Page metadata.
-title: Overview
+title: <i class="fas fa-rocket"></i> Guide to graduate applications
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
-icon_pack: fas
-icon: rocket
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
