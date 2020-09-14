@@ -1,9 +1,16 @@
 ---
 title: Useful tools for astronomers
-linktitle: Links for astronomers
-summary: Data repositories, journals of interest, and research resources.
-type: book
-weight: 50
+linktitle: Useful tools for astronomers
+toc: true
+type: docs
+draft: false
+menu:
+  useful-links:
+    parent: useful
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
 
 <h4>Astronomical databases and surveys</h4>
