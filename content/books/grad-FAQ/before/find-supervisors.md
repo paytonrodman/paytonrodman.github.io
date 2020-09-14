@@ -1,7 +1,16 @@
 ---
 title: Picking a supervisor
-type: book
-weight: 50
+linktitle: Picking a supervisor
+toc: true
+type: docs
+draft: false
+menu:
+  grad-FAQ:
+    parent: before
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
 
 {{% alert note %}}
