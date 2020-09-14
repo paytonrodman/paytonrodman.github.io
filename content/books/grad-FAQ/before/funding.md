@@ -1,7 +1,16 @@
 ---
 title: Cost and funding
-type: book
-weight: 60
+linktitle: Cost and funding
+toc: true
+type: docs
+draft: false
+menu:
+  grad-FAQ:
+    parent: before
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
 
 ## How much will a graduate degree cost?
