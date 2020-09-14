@@ -16,10 +16,10 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: '[St John's College, Cambridge, UK by Markus Leo on Unsplash](https://unsplash.com/photos/GMIGvwP8ego)'
-  focal_point: ''
+  caption: "[St John's College by Markus Leo on Unsplash](https://unsplash.com/photos/GMIGvwP8ego)"
+  focal_point: ""
   preview_only: no
 
 # Projects (optional).
