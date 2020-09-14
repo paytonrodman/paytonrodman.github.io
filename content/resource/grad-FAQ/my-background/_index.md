@@ -15,3 +15,4 @@ menu:
 weight: 2
 ---
 
+{{< list_children >}}
