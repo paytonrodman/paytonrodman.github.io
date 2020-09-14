@@ -1,7 +1,16 @@
 ---
 title: Research experience
-type: book
-weight: 30
+linktitle: Research experience
+toc: true
+type: docs
+draft: false
+menu:
+  grad-FAQ:
+    parent: before
+    weight: 1
+
+# Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
+weight: 1
 ---
 
 ## How much does it matter?
