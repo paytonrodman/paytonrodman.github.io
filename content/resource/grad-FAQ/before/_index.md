@@ -5,6 +5,7 @@ linktitle: Before applying
 draft: false
 toc: false
 type: docs
+editable: false
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
