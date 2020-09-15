@@ -4,6 +4,8 @@ linktitle: Useful tools for astronomers
 toc: true
 type: docs
 draft: false
+editable: false
+
 menu:
   useful-links:
     parent: Useful Links
