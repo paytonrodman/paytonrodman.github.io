@@ -9,6 +9,7 @@ title: Guide to graduate applications
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
+editable: false 
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
