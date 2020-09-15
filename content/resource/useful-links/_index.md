@@ -7,7 +7,7 @@ weight: 1
 # Page metadata.
 title: Useful Links
 draft: false  # Is this a draft? true/false
-toc: false  # Show table of contents? true/false
+toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 editable: false
 
