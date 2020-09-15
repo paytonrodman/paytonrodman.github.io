@@ -4,6 +4,8 @@ linktitle: Statement of Purpose
 toc: true
 type: docs
 draft: false
+editable: false
+
 menu:
   grad-FAQ:
     parent: The application
