@@ -4,6 +4,8 @@ linktitle: Research experience
 toc: true
 type: docs
 draft: false
+editable: false
+
 menu:
   grad-FAQ:
     parent: Before applying
