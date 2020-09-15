@@ -4,6 +4,8 @@ linktitle: Cost and funding
 toc: true
 type: docs
 draft: false
+editable: false
+
 menu:
   grad-FAQ:
     parent: Before applying
