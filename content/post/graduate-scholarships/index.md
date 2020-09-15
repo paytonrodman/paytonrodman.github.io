@@ -37,9 +37,9 @@ I was turned down from the Rhodes scholarship in late 2018 and accepted for the 
 
 Obvious disclaimer though: I applied for a specific area of astrophysics from a specific state in Australia. Selection for these scholarships varies by location, subject, and year, and a great deal by individual. My view is only my own and I cannot give specific advice to individuals. 
 
-<h2 id="index">Contents</h2>
+## [Contents](#index)
 
- - [What are the Rhodes and Gates-Cambridge scholarships?](#what-are-the-rhodes-and-gates-cambridge-scholarships)
+ - [What are the Rhodes and Gates-Cambridge scholarships?](#what-are-they)
 
  - [The big difference: pre-selection](#the-big-difference)
 
@@ -65,7 +65,7 @@ Obvious disclaimer though: I applied for a specific area of astrophysics from a 
 
  - [What if I do win?](#what-if-i-do-win)
  
-<h2 id="what-are-the-rhodes-and-gates-cambridge-scholarships">What are the Rhodes and Gates-Cambridge scholarships? </h2>
+## [What are the Rhodes and Gates-Cambridge scholarships?](#what-are-they)
  
  The Rhodes scholarship was established in 1902 in the will of business man and politician, Cecil John Rhodes. It is tenable at Oxford University in the UK, mostly for postgraduate degrees (Masters/PhD), although there are exceptions.
 
@@ -75,9 +75,7 @@ The Gates-Cambridge scholarship is much newer, having been established in 2000 w
 
 Further information can be found on the Rhodes and Gates-Cambridge websites, which you should become very familiar with.
 
-[Back to the index](#index)
-
-<h2 id="the-big-difference">The big difference: pre-selection</h2>
+## [The big difference: pre-selection](#the-big-difference)
 
 Both Rhodes and Gates require separate applications, but they differ in how these applications are managed.
 
@@ -85,9 +83,7 @@ The application for Rhodes is quite separate to the application to Oxford, meani
 
 Gates, on the other hand, outsources its pre-selection to Cambridge itself. You apply firstly to your department at Cambridge, and in the application you simply fill out the relevant sections for the Gates scholarship and any other scholarships you'd like to apply for. As part of the admissions process at Cambridge, all applicants are given a score out of 30 (although this may vary by department) for their academic/research aptitude. Only the best (approx. >27/30) are then nominated to the Gates shortlist. Of the around 5000 non-US applicants to Gates each year, perhaps only 100 will make it to the shortlist that the Gates committee interview, the rest either not being recommended by their department or not selected for interviewing, and from that, around 55 will be chosen as scholars. Your biggest hurdle is to get to the shortlist, so don't neglect your Cambridge application.
 
-[Back to the index](#index)
-
-<h2 id="the-ideal-candidate">The "ideal" candidate</h2>
+## [The "ideal" candidate](#the-ideal-candidate)
 
 In general, both Rhodes and Gates are looking for students who are academically and socially accomplished. That first point is usually not too hard to place in context–you want a high GPA, relevant experience for your field, and some publications or conference posters/presentations (if possible and relevant to your field). But the second point is a bit more nebulous. What does “socially accomplished” even mean? It doesn't mean that you have to be highly extroverted, it just means that you need to exist beyond your coursework and beyond the bubble of your field. People generally show this through a few very large activities, like being a national champion in a particular sport, or being a talented musician. There is also a strong preference for people who are going to make the world better in some way, so some combination of community work, outreach, and/or volunteering are expected. But these should not be done lightly, and the committee can immediately see through any last-minute attempts to bump your volunteering hours. These activities need to mean a lot to you. They have to tie in with the over-arching story and image of who you are.
 
@@ -103,9 +99,7 @@ Unlike Rhodes, Gates is decidedly more accepting of “scholarship for scholarsh
 
 Part of the benefit of being such a new program is that there is less tradition to contend with. But on the flip-side, there's also far less information widely available on what Gates prefers in its applicants and less mentoring within universities for people wishing to apply.
 
-[Back to the index](#index)
-
-<h2 id="application-materials-needed">Application materials needed</h2>
+## [Application materials needed](#application-materials-needed)
 
 Here are the stated application materials I had to submit, taken from the websites of each scholarship in the year I applied. I'll discuss some tips for a few of these in the relevant section (in bold).
 
@@ -127,17 +121,13 @@ As always, these are only to give you a general idea; you should always follow t
  - Research proposal (PhD applicants; Part 4)
  - Gates character LOR (Part 5)
 
-[Back to the index](#index)
-
-<h2 id="part-1">Part 1: Transcripts, classes, and grades</h2>
+## [Part 1: Transcripts, classes, and grades](#part-1)
 
 Competitive scholarships are, well, competitive, and all else being equal, grades are an easy way to distinguish between applicants. A perfect GPA won't necessarily help you, but a lower GPA can certainly harm you. Only Rhodes seems to have a strict grade requirement of first-class Honours, but be aware that there are “effective” minimums too. Rhodes will rarely take anyone with a GPA below 6.75/7.00 on the Australian scale, and the winners have an average GPA of around 3.8/4.0 on the US scale. The average Gates GPA is above 3.9/4.0 on the US scale, so it is as selective as Rhodes in that respect. For Gates in particular, your academics are the first hurdle to satisfy (see section the biggest difference above) and there is little to no chance to make up for a weakness here.
 
 However, even if you're scraping the bottom of the minimum requirement, it can still be worth your time to apply. You can always ask your department at Cambridge or your Rhodes representative to give you an idea of your chances. They have seen many people apply for Gates/Rhodes and will have a better idea of who might be successful. If you find that you are not likely to be successful, or that you don’t qualify, check out what if I don’t win below. 
 
-[Back to the index](#index)
-
-<h2 id="part-2">Part 2: Your CV/résumé</h2>
+## [Part 2: Your CV/résumé](#part-2)
 
 In Australia we tend to use “CV” and “résumé” interchangeably at many stages, but they are different documents. A résumé is typically quite short (1-2 pages) and will be changed to suit each job you apply for. A curriculum vitae (CV), on the other hand, can extend into 10's of pages as it is a full record of all academic work. As a current or recently-graduated undergrad, your CV will probably be around 2-3 pages in length and will be a blended style halfway between that of a regular résumé and a full academic CV, so the distinction is not so important yet.
 
@@ -158,11 +148,9 @@ Be consistent with layout, e.g. place all dates on the same side of the page and
 ### Rhodes
 The Rhodes scholarship application does differ in another key way to Gates: they want more in the CV.
 
-At graduation, your CV would typically omit all work completed prior to entering university, but Rhodes is interested in all work done and all awards received since Year 11. This, along with including your sporting or musical achievements, can really push the 3-page limit on your CV. Look for any places where information has been repeated or multiple lines can be consolidated into one. The goal here isn’t to cram as much as possible into 3 pages, but to carefully curate the “information density” on the page, making sure that the pages aren’t too sparse or too busy. 
+At graduation, your CV would typically omit all work completed prior to entering university, but Rhodes is interested in all work done and all awards received since Year 11. This, along with including your sporting or musical achievements, can really push the 3-page limit on your CV. Look for any places where information has been repeated or multiple lines can be consolidated into one. The goal here isn’t to cram as much as possible into 3 pages, but to carefully curate the “information density” on the page, making sure that the pages aren’t too sparse or too busy.
 
-[Back to the index](#index)
-
-<h2 id="part-3">Part 3: The personal statement</h2>
+## [Part 3: The personal statement](#part-3)
 
 Grades act as a minimum cut-off and the interview is a sort of final selection stage, but the part in-between where most candidates are actually rejected is based on the personal statement. This is your chance to convey who you are and to convince the committee to give you a shot, so don't rush it and don't leave it till last. Also: make it your own. You can find examples online and I've included my own (for Gates and for Rhodes) for an idea of tone as well, but you will be immediately caught if you copy any of these sources. If you have read this page then so have the people on the committee. If you want a scholarship, do not plagiarise.
 
@@ -174,9 +162,7 @@ The Rhodes statement leaves enough room to discuss yourself, your experience, an
 
 For the overall piece, look carefully at the rest of your application and compare it to the "ideal" candidate qualities. Look for which areas you're lacking in — this is where your statement should focus. In my case, my academics were already satisfied by my transcript, publication, and research proposal, leaving the leadership and service side of things. Applicants will usually be strong in 2-3 areas, so identify your weak area and try to shore it up through your statement, but be prepared to back this all up during interviews. Don't make statements or portray an image you can't authentically support.
 
-[Back to the index](#index)
-
-<h2 id="part-4">Part 4: The research proposal</h2>
+## [Part 4: The research proposal](#part-4)
 
 In my experience, the Rhodes scholarship application can be very unclear when it comes to this item. The information online suggests that you only need to discuss your career/research goals within your personal statement, but when you go to submit these documents online, you may instead be asked for a separate research proposal. The requirements for this document are the same as what your department specifies for their research proposal. For astrophysics, though, the department effectively wanted a personal statement instead, meaning I had to double-up a bit. In my case, I made my "research proposal" much more technical and specialised to astrophysics than my personal statement, otherwise one would have been totally redundant.
 
@@ -186,9 +172,7 @@ Make sure you understand your own research proposal fully, especially for the Ga
 
 My only real regret is that I didn't include any images or plots in mine, although I didn't really have the space for it. Two pages is not much space once you get started. You can check out mine here, although this is again for my own project in a very particular field, so expectations will vary. It should be noted that my project has deviated significantly from the one I described in the proposal–this is perfectly fine and largely expected. The project will naturally change as you learn more and explore different research questions. 
 
-[Back to the index](#index)
-
-<h2 id="part-5">Part 5: Your letters of recommendation</h2>
+## [Part 5: Your letters of recommendation](#part-5)
 
 The Rhodes scholarship application requires the most letters of recommendation (LORs) at six, with Oxford itself requiring another three, although you can double up on those. This is due to the fact that the Rhodes application is so disjointed and separate to the Oxford application. Gates, by contrast, requires three, two of which are automatically taken from your application to Cambridge so only one extra letter is needed, and this third letter doesn't have to be written by a third person.
 
@@ -198,9 +182,7 @@ The Gates process here is much simpler in comparison. The only extra letter you 
 
 I can't give you a whole lot more advice here since it's not generally accepted in physics for students to read their letters, or to draft them, so I don't know what mine said.
 
-[Back to the index](#index)
-
-<h2 id="the-social-event">Rhodes only: The social event</h2>
+## [Rhodes only: The social event](#the-social-event)
 
 As part of the application process, and prior to the interview, you are required to attend a social event with the other finalists and the panel members who will be interviewing you. This is quite a nerve-wracking experience, especially if you haven't been trained for it.
 
@@ -212,9 +194,8 @@ In general, you should dress in business formal unless stated otherwise, and if 
 
 There'll be alcohol, but I'd recommend that you either abstain or pace yourself very carefully; a little bit might help calm your nerves and make you more conversational, but too much and you'll say something stupid. If you know you don't want to drink at all, the polite thing is to let the host know before you sit for dinner so that they can take your wine glasses away, or to turn the glass upside down or to cover it when you sit at the table. For both this event and the later interview, some panel members may be quite combative and you will be asked for your opinion on some heavy topics; read up on recent events and don't take it too personally if someone gets argumentative or even plain rude. They just want to see how you’ll handle yourself under a bit of pressure.
 
-[Back to the index](#index)
+## [The interview](#the-interview)
 
-<h2 id="the-interview">The interview</h2>
 If you've been contacted for an interview then you've passed the first hurdle, but the few who remain are all highly qualified like yourself so don't become complacent. Since the first part of this process relies so heavily on academics, I'd recommend forgetting about that part of your application from here on out unless it’s a significant weakness, and instead focus on how to display those leadership qualities that both programs look for.
 
 The precise interview questions you'll be asked depends on yourself (your experience, field, and career goals), the panel, and the round you're interviewing in.
@@ -250,9 +231,8 @@ Personally, my interview focused on my proposed research and my outreach work. I
 
 Acronyms in particular are easy picking. I was asked to explain AMR (Adaptive Mesh Refinement), and I am endlessly grateful that they asked me that one instead of MRI (magnetorotational instability). If anyone figures out a way to explain the MRI and how it works in 30 seconds, to a general audience, please let me know. 
 
-[Back to the index](#index)
+## [What if I don't win?](#what-if-i-dont-win)
 
-<h2 id="what-if-i-dont-win">What if I don't win?</h2>
 Don't beat yourself up!
 
 It's important to realise that a lot of successful applicants actually win on their second try, after they've had a chance to practice the whole lot, reflect, and improve their application. I think the Rhodes failure (both of them!) was critical to me being successful for Gates as it gave me experience with the application process and interview.
@@ -265,9 +245,8 @@ I will warn that Rhodes announces its winners and losers in quite a public fashi
 
 Then go and get some pizza.  
 
-[Back to the index](#index)
+## [What if I do win?](#what-if-i-do-win)
 
-<h2 id="what-if-i-do-win">What if I do win?</h2>
 Congratulations!
 
 You now have to wait an excruciating amount of time for things to get rolling. Progress in terms of your application and visa comes in waves, interspersed with long periods of waiting. Try not to go insane.
@@ -275,5 +254,3 @@ You now have to wait an excruciating amount of time for things to get rolling. P
 Let people know about your success. Post it on Facebook, post it on Twitter, post it on your own blog, tell your university, tell the newspapers. Few students know about these opportunities and your representation can make a foreign experience look more approachable.
 
 Finally: remember those who didn't win and remember the responsibility that you've accepted. These scholarships aren't just money for you to chill out and have a good time, they come with the expectation that you will work hard and be an upstanding citizen. You will be scrutinized more heavily as a representative of your university, city, state, even country. It is a great opportunity, but it comes at a steep price.
-
-[Back to the index](#index)
