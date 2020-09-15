@@ -15,7 +15,7 @@ menu:
 weight: 2
 ---
 
-## Who am I?
+### Who am I?
 
 Welcome!
 
@@ -27,7 +27,7 @@ If you are an undergraduate student, particularly if you are early on in your de
 
 I have my stats below for the curious, but for the rest, I hope you will find I'm just a normal person. The main ethos for this guide is "do what you can with what you have"! Remember that no door is ever truly closed to you, there are only more or less circuitous routes.
 
-## The stats
+### The stats
 
 **Degree**: Bachelor of Science  
 **Majors**: Physics and Applied Mathematics  
