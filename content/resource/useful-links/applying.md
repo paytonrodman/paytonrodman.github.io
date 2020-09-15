@@ -4,6 +4,8 @@ linktitle: Applying to PhD/Masters
 toc: true
 type: docs
 draft: false
+editable: false
+
 menu:
   useful-links:
     parent: Useful Links
