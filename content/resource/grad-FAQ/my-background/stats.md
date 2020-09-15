@@ -10,13 +10,12 @@ menu:
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 **Degree:** Bachelor of Science  
 **Majors:** Physics and Applied Mathematics  
 **GPA:** 7.0 (/7.0)
-
 
 
 **Degree:** Bachelor of Science (Honours)  
