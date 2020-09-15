@@ -9,6 +9,7 @@ title: Useful Links
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
+editable: false
 
 # Optional header image (relative to `static/media/` folder).
 header:
