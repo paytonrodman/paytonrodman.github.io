@@ -5,6 +5,7 @@ linktitle: Results!
 toc: true
 type: docs
 draft: false
+editable: false
 
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
