@@ -4,6 +4,8 @@ linktitle: CV and résumé
 toc: true
 type: docs
 draft: false
+editable: false
+
 menu:
   grad-FAQ:
     parent: The application
