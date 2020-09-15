@@ -4,6 +4,8 @@ linktitle: Current PhD students
 toc: true
 type: docs
 draft: false
+editable: false
+
 menu:
   useful-links:
     parent: Useful Links
