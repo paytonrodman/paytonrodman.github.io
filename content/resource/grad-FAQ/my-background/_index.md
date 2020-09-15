@@ -26,3 +26,16 @@ It should be noted that this is nothing more than a compilation of my own experi
 If you are an undergraduate student, particularly if you are early on in your degree, then I also have a guide to undergraduate page with more tips for managing things like work, study, and disability.
 
 I have my stats below for the curious, but for the rest, I hope you will find I'm just a normal person. The main ethos for this guide is "do what you can with what you have"! Remember that no door is ever truly closed to you, there are only more or less circuitous routes.
+
+## The stats
+
+**Degree**: Bachelor of Science
+**Majors**: Physics and Applied Mathematics
+**GPA**: 7.0 (/7.0)
+
+**Degree**: Bachelor of Science (Honours)
+**Thesis area**: Astrophysics
+**Degree class**: First (7.0/7.0)
+
+**Applied**: University of Tasmania, Australian National University, University of Cambridge, University of Oxford
+**Accepted**: All of the above. No funding offered at Oxford by April (at which point I took an offer elsewhere)
