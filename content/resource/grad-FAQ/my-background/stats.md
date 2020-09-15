@@ -3,7 +3,8 @@ title: The stats
 linktitle: The stats
 toc: false
 type: docs
-draft: false
+draft: true
+
 menu:
   grad-FAQ:
     parent: My background
