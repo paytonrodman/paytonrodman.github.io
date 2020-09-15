@@ -89,12 +89,12 @@ In general, both Rhodes and Gates are looking for students who are academically 
 
 There is more specific advice described by the funding bodies themselves, which you can find on their respective websites. I'll go through a few extra details that I think are worth discussing though.
 
-### Rhodes
+#### Rhodes
 The elephant-in-the-room when it comes to Rhodes is sports. The Rhodes scholarship has a long history of requiring and preferring that applicants have a strong sporting background, and while it's no longer a requirement, a preference does still exist. It can be supplanted by involvement in e.g. musics/arts, but in general you do need to have an additional activity that you have practiced for a long time. Personally, I have practiced martial arts for a long time. Other real examples from candidates (both unsuccessful and successful) include playing multiple instruments and an avid love for hiking.
 
 There is also quite a strong preference for fields that have a direct and immediate impact on people. Many who win Rhodes are entering law, politics, international relations, medicine, areas relating to climate change, etc. I noticed that even those applicants with less conventional backgrounds were often proposing to move into law or medicine. This is the case for many competitive scholarship programs aimed at making change in the world.
 
-### Gates
+#### Gates
 Unlike Rhodes, Gates is decidedly more accepting of “scholarship for scholarship's sake”, which is evident by the fact that they accepted a fair handful of astrophysicists in my year along with multiple classicists. This is undoubtedly helped by the fact that there are different interviewing panels for different groups of subjects. You are still expected to be a leader and to herald change, but this change could be within your own field and you do not need to literally save lives to do this. The preferences of the panel will change each year though, and there are no quotas for different subjects so you should not expect e.g. 3 scholarships awarded in chemistry. There may be many in one year and none in the next. 
 
 Part of the benefit of being such a new program is that there is less tradition to contend with. But on the flip-side, there's also far less information widely available on what Gates prefers in its applicants and less mentoring within universities for people wishing to apply.
@@ -105,7 +105,7 @@ Here are the stated application materials I had to submit, taken from the websit
 
 As always, these are only to give you a general idea; you should always follow the most recent (official) documents, even if they contradict what I have here. The Rhodes scholarship in particular has some quite complex requirements for residency that I won't go into but which you should definitely be familiar with, so make sure you check the website.
 
-### Rhodes
+#### Rhodes
  - Documentation to prove age, and citizenship or residency
  - Transcripts (Part 1)
  - A full CV (3-page limit; Part 2)
@@ -114,7 +114,7 @@ As always, these are only to give you a general idea; you should always follow t
  - Six LORs, three of which should be academic (Part 5)
  - Head and shoulders photograph
 
-### Gates
+#### Gates
  - Documents submitted as part of regular course application (e.g. transcripts - Part 1)
  - CV/resume (Part 2)
  - Personal statement (3000 char. limit; Part 3)
@@ -145,7 +145,7 @@ Use concrete examples and outcomes to demonstrate skills and achievement. For ea
 
 Be consistent with layout, e.g. place all dates on the same side of the page and don't mix bullet points with paragraphs. Someone glancing at your CV should be able to immediately pick up on the flow and find the information they need. Selective use of bold, text size, and alignment can help this.
 
-### Rhodes
+#### Rhodes
 The Rhodes scholarship application does differ in another key way to Gates: they want more in the CV.
 
 At graduation, your CV would typically omit all work completed prior to entering university, but Rhodes is interested in all work done and all awards received since Year 11. This, along with including your sporting or musical achievements, can really push the 3-page limit on your CV. Look for any places where information has been repeated or multiple lines can be consolidated into one. The goal here isn’t to cram as much as possible into 3 pages, but to carefully curate the “information density” on the page, making sure that the pages aren’t too sparse or too busy.
@@ -200,7 +200,7 @@ If you've been contacted for an interview then you've passed the first hurdle, b
 
 The precise interview questions you'll be asked depends on yourself (your experience, field, and career goals), the panel, and the round you're interviewing in.
 
-### In general
+#### In general
 Start by collating all of your application materials, then go through each one and try to think of questions you could ask about each part. Write out these questions and then give broad answers to them. Speak out loud. Dictate them. Write them down. Try to imagine the conversation and any additional questions that someone could ask based on your answers. Don't be afraid to take the questioning to quite a deep or personal level; even if these questions are not asked during the interview, you can't answer anything on the day with conviction unless you know yourself and your motivations.
 
 Don't just focus on the good things you've done either. You've certainly made mistakes during your life, so be prepared to discuss these and what you learned from them. You don't always need to portray yourself in the best possible light.
@@ -211,7 +211,7 @@ For both scholarships, it is very likely that no one on your interview panel wil
 
 Interviews will last for around 20 minutes, which sounds like a long time but actually goes very, very quickly. Practice being succinct, and be aware that while you should take a moment to think before you speak, don't take two moments. Don’t be offended if you are cut off or feel like you’re being rushed by the panel–they have a very tight schedule to get through and set questions they want to ask before you go. 
 
-### Rhodes
+#### Rhodes
 Rhodes has two rounds: the first is your local round within your constituency, the second is a national final against all other runners-ups in Canberra. Take some pity on the Canberra folks: this is their only round and they have to compete against the best from the other states. In the first instance, your interview panel would have carefully read your application materials and will ask you questions based on this. Expect them to focus on your weakest areas. Unfortunately there is only one panel for all applicants, and while there is usually at least one person in science, they are unlikely to be in your area of science. This means a large part of your application can't be discussed in any real detail: your proposed research. I think this is a big reason why a lot of fields will rarely elect Rhodes scholars.
 
 In the second instance, things are made "fair" by asking the exact same questions of every single candidate, regardless of field or future plans. This means you may be asked esoteric questions that do not relate to yourself in any way. The challenge is to answer in a way that directs back to yourself in a good way. Since most applicants have a background in law and politics, the questions will focus on those areas and by answering them directly, you risk looking less dedicated to your own field. As an example, we were asked (paraphrasing):
@@ -222,7 +222,7 @@ For someone in astrophysics who is otherwise interested in educational equality,
 
 I found the travel time and packed itinerary for this round to also be absolutely brutal, especially since it fell close to the final submission date of my thesis (the same day). Things may be more difficult at the national round because of these deadlines, so make sure you give it your best at the state level. Coming from Tasmania was also an issue because there are so few flights to Canberra on any one day, so you get stuck with an early-morning flight and end up sleep-deprived.
 
-### Gates
+#### Gates
 The interview process for Gates is less intensive and more specialised. As an international student you will be interviewed over Skype or phone. I found evening (8-9pm local time, early morning Cambridge) to be the best time, but make sure you don't have an intensive day beforehand or else you'll be too fried to think properly. I am definitely not a morning person, so the late interview may have worked in my favour. 
 
 Panels are grouped by general field, so if you're in the physical sciences you'll be interviewed by the physical sciences panel. My own didn't have any physicists, but it did have two engineers and a chemist. Because this panel is better equipped to discuss your research, make sure you really understand everything in your research proposal.
