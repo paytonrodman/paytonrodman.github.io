@@ -4,6 +4,8 @@ linktitle: Should you do a PhD?
 toc: true
 type: docs
 draft: false
+editable: false
+
 menu:
   grad-FAQ:
     parent: Before applying
