@@ -4,6 +4,8 @@ linktitle: Finding a program
 toc: true
 type: docs
 draft: false
+editable: false
+
 menu:
   grad-FAQ:
     parent: Before applying
