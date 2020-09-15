@@ -5,6 +5,7 @@ toc: true
 type: docs
 draft: false
 toc: true
+editable: false
 
 menu:
   grad-FAQ:
