@@ -1,6 +1,6 @@
 ---
-title: Part 4: The research proposal
-linktitle: P4: The research proposal
+title: "Part 4: The research proposal"
+linktitle: The research proposal
 toc: true
 type: docs
 draft: false
@@ -9,7 +9,7 @@ editable: false
 
 menu:
   graduate-scholarships:
-    name: P4: The research proposal
+    name: The research proposal
     weight: 9
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
