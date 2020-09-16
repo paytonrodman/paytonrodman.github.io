@@ -1,6 +1,6 @@
 ---
-title: Part 2: Your CV/résumé
-linktitle: P2: Your CV/résumé
+title: "Part 2: Your CV/résumé"
+linktitle: Your CV/résumé
 toc: true
 type: docs
 draft: false
@@ -9,7 +9,7 @@ editable: false
 
 menu:
   graduate-scholarships:
-    name: P2: Your CV/résumé
+    name: Your CV/résumé
     weight: 7
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
