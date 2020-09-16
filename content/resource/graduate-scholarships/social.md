@@ -1,6 +1,6 @@
 ---
-title: Rhodes only: The social event
-linktitle: Rhodes only: The social event
+title: The social event (Rhodes only)
+linktitle: The social event (Rhodes only)
 toc: true
 type: docs
 draft: false
@@ -9,7 +9,7 @@ editable: false
 
 menu:
   graduate-scholarships:
-    name: Rhodes only: The social event
+    name: The social event (Rhodes only)
     weight: 11
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
