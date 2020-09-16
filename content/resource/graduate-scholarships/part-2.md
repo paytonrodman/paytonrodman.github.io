@@ -1,5 +1,5 @@
 ---
-title: "Part 2: Your CV/résumé"
+title: Your CV/résumé
 linktitle: Your CV/résumé
 toc: true
 type: docs
