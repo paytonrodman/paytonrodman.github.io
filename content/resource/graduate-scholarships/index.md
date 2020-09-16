@@ -1,41 +1,30 @@
 ---
+# Course title, summary, and position.
+linktitle: A guide to graduate scholarships
+summary: "My experiences, both successful and unsuccessful, in applying to the Rhodes and Gates Cambridge scholarships"
+weight: 1
+
+# Page metadata.
 title: A guide to graduate scholarships
-subtitle: My experiences, both successful and unsuccessful, in applying to the Rhodes and Gates Cambridge scholarships
-summary: My experiences, both successful and unsuccessful, in applying to the Rhodes and Gates Cambridge scholarships
-date: "2019-04-16T00:00:00Z"
-featured: false
-draft: false
-toc: true
-authors:
-- admin
-tags: []
-categories: ["blog"]
+draft: false  # Is this a draft? true/false
+toc: true  # Show table of contents? true/false
+type: docs  # Do not modify.
+editable: false 
 
-reading_time: true  # Show estimated reading time?
-share: false  # Show social sharing links?
-profile: false  # Show author profile?
-comments: false  # Show comments?
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: "[St John's College by Markus Leo on Unsplash](https://unsplash.com/photos/GMIGvwP8ego)"
-  focal_point: ""
-  preview_only: no
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
-
+# Add menu entry to sidebar.
+# - name: Declare this menu item as a parent with ID `name`.
+# - weight: Position of link in menu.
+menu:
+  graduate-scholarships:
+    name: Overview
+    weight: 1
 ---
 
 I was turned down from the Rhodes scholarship in late 2018 and accepted for the Gates-Cambridge scholarship in early 2019. After going through the selection for both and coming out the other end experiencing both success and failure, I realised how unprepared I’d been for the process. If you’re like I was–coming from a less affluent background and without institutional training/mentoring–hopefully you will find this guide helpful. 
 
 Obvious disclaimer though: I applied for a specific area of astrophysics from a specific state in Australia. Selection for these scholarships varies by location, subject, and year, and a great deal by individual. My view is only my own and I cannot give specific advice to individuals. 
+
+{{< list_children >}}
 
 ## [Contents](#index)
 
