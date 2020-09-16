@@ -1,6 +1,6 @@
 ---
-title: Part 1: Transcripts, classes, and grades
-linktitle: P1: Transcripts, classes, and grades
+title: "Part 1: Transcripts, classes, and grades"
+linktitle: Transcripts, classes, and grades
 toc: true
 type: docs
 draft: false
@@ -9,7 +9,7 @@ editable: false
 
 menu:
   graduate-scholarships:
-    name: P1: Transcripts, classes, and grades
+    name: Transcripts, classes, and grades
     weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
