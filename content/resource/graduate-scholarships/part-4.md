@@ -1,5 +1,5 @@
 ---
-title: "Part 4: The research proposal"
+title: "The research proposal"
 linktitle: The research proposal
 toc: true
 type: docs
