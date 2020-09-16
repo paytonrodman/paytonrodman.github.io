@@ -1,6 +1,6 @@
 ---
-title: Part 5: Your letters of recommendation
-linktitle: P5: Your letters of recommendation
+title: "Part 5: Your letters of recommendation"
+linktitle: Your letters of recommendation
 toc: true
 type: docs
 draft: false
@@ -9,7 +9,7 @@ editable: false
 
 menu:
   graduate-scholarships:
-    name: P5: Your letters of recommendation
+    name: Your letters of recommendation
     weight: 10
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
