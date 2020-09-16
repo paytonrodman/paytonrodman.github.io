@@ -1,5 +1,5 @@
 ---
-title: "Part 3: The personal statement"
+title: The personal statement
 linktitle: The personal statement
 toc: true
 type: docs
