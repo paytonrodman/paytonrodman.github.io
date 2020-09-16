@@ -1,5 +1,5 @@
 ---
-title: "Part 5: Your letters of recommendation"
+title: Your letters of recommendation
 linktitle: Your letters of recommendation
 toc: true
 type: docs
