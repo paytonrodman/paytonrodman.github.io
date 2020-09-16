@@ -20,7 +20,7 @@ If you've been contacted for an interview then you've passed the first hurdle, b
 
 The precise interview questions you'll be asked depends on yourself (your experience, field, and career goals), the panel, and the round you're interviewing in.
 
-#### In general
+### In general
 
 Start by collating all of your application materials, then go through each one and try to think of questions you could ask about each part. Write out these questions and then give broad answers to them. Speak out loud. Dictate them. Write them down. Try to imagine the conversation and any additional questions that someone could ask based on your answers. Don't be afraid to take the questioning to quite a deep or personal level; even if these questions are not asked during the interview, you can't answer anything on the day with conviction unless you know yourself and your motivations.
 
@@ -32,7 +32,7 @@ For both scholarships, it is very likely that no one on your interview panel wil
 
 Interviews will last for around 20 minutes, which sounds like a long time but actually goes very, very quickly. Practice being succinct, and be aware that while you should take a moment to think before you speak, don't take two moments. Don’t be offended if you are cut off or feel like you’re being rushed by the panel–they have a very tight schedule to get through and set questions they want to ask before you go.
 
-#### Rhodes
+### Rhodes
 
 Rhodes has two rounds: the first is your local round within your constituency, the second is a national final against all other runners-ups in Canberra. Take some pity on the Canberra folks: this is their only round and they have to compete against the best from the other states. In the first instance, your interview panel would have carefully read your application materials and will ask you questions based on this. Expect them to focus on your weakest areas. Unfortunately there is only one panel for all applicants, and while there is usually at least one person in science, they are unlikely to be in your area of science. This means a large part of your application can't be discussed in any real detail: your proposed research. I think this is a big reason why a lot of fields will rarely elect Rhodes scholars.
 
