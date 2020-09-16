@@ -1,6 +1,6 @@
 ---
-title: Part 3: The personal statement
-linktitle: P3: The personal statement
+title: "Part 3: The personal statement"
+linktitle: The personal statement
 toc: true
 type: docs
 draft: false
@@ -9,7 +9,7 @@ editable: false
 
 menu:
   graduate-scholarships:
-    name: P3: The personal statement
+    name: The personal statement
     weight: 8
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
