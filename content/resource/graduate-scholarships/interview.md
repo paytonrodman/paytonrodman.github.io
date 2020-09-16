@@ -44,7 +44,7 @@ For someone in astrophysics who is otherwise interested in educational equality,
 
 I found the travel time and packed itinerary for this round to also be absolutely brutal, especially since it fell close to the final submission date of my thesis (the same day). Things may be more difficult at the national round because of these deadlines, so make sure you give it your best at the state level. Coming from Tasmania was also an issue because there are so few flights to Canberra on any one day, so you get stuck with an early-morning flight and end up sleep-deprived.
 
-#### Gates
+### Gates
 
 The interview process for Gates is less intensive and more specialised. As an international student you will be interviewed over Skype or phone. I found evening (8-9pm local time, early morning Cambridge) to be the best time, but make sure you don't have an intensive day beforehand or else you'll be too fried to think properly. I am definitely not a morning person, so the late interview may have worked in my favour.
 
