@@ -1,5 +1,5 @@
 ---
-title: The big difference: pre-selection
+title: The main difference
 linktitle: The main difference
 toc: true
 type: docs
