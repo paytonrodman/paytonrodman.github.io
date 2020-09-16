@@ -10,7 +10,7 @@ editable: false
 menu:
   graduate-scholarships:
     name: The "ideal" candidate
-    weight: 2
+    weight: 4
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 4
