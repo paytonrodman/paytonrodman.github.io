@@ -1,5 +1,5 @@
 ---
-title: "Part 1: Transcripts, classes, and grades"
+title: "Transcripts, classes, and grades"
 linktitle: Transcripts, classes, and grades
 toc: true
 type: docs
