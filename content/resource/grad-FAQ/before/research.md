@@ -36,7 +36,7 @@ Let's walk you through it! As an example, let's say we're an undergraduate stude
 Your first port-of-call should be the homepage for the department of interest. You can tell that you've hit a department page because the style will typically be more outdated. While the university homepage is sleek and all curves, the department homepage may be more reminiscent of Windows 98 — all edges.
 
 {{< figure src="harvard_homepage.png" title="The Harvard university homepage" alt="The Harvard university homepage" style="">}}
-{{< figure src="harvard_phys_faculty.png" title="The Harvard university physics department homepage" alt="The Harvard university physics department homepage" style="">}}
+{{< figure src="harvard_phys_homepage_2.png" title="The Harvard university physics department homepage" alt="The Harvard university physics department homepage" style="">}}
 
 You can also tell by the web address. For Harvard university general it is `www.harvard.edu`, while the physics homepage is `www.physics.harvard.edu`.
 
