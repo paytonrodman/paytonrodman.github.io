@@ -53,7 +53,7 @@ A general template could follow
 
 3. <span style="background-color:#fcb782">Purpose</span>: why you're emailing them
 
-4. (Optional) <span style="background-color:#f4e38a">Funding</span>: if you have funding secured or know have plans to apply to something big
+4. <span style="background-color:#ffe14d">Funding</span> (Optional): if you have funding secured or know have plans to apply to something big
 
 5. <span style="background-color:#c3fe81">Experience</span>: your skills and research experience
 
@@ -67,7 +67,7 @@ A general template could follow
 
 <span style="background-color:#fc8583">Dear Prof. Reynolds</span>,  
 
-<span style="background-color:#fc9d83">My name is Payton Rodman, and I am currently an astrophysics Honours student at the University of Tasmania in Australia, graduating in November of this year.</span> <span style="background-color:#fcb782">I am looking to apply to doctoral programs in astrophysics, including Cambridge for the Michaelmas term in 2019.</span> <span style="background-color:#f4e38a">For funding, I'm planning to apply for the Gates-Cambridge scholarship, along with the Commonwealth scholarships.</span>  
+<span style="background-color:#fc9d83">My name is Payton Rodman, and I am currently an astrophysics Honours student at the University of Tasmania in Australia, graduating in November of this year.</span> <span style="background-color:#fcb782">I am looking to apply to doctoral programs in astrophysics, including Cambridge for the Michaelmas term in 2019.</span> <span style="background-color:#ffe14d">For funding, I'm planning to apply for the Gates-Cambridge scholarship, along with the Commonwealth scholarships.</span>  
 
 <span style="background-color:#c3fe81">I have research experience in theoretical astrophysics starting in 2015, mostly in the field of AGN with Radio Galaxy Zoo (RGZ), including one first-author paper currently under review with MNRAS. For my Honours thesis this year, I am investigating how Faraday Rotation of AGN jets can be used to constrain galaxy cluster properties through analytic and numerical modelling, for use with large radio surveys like the SKA.</span> <span style="background-color:#8adaf5">Your work has cropped up many times in relation to that, most recently your 2015 paper on the transport of g-modes into the ICM (abs/1511.03271).</span>  
 
