@@ -15,7 +15,7 @@ menu:
 weight: 1
 ---
 
-There are definitely some things I've missed, so be sure to check out similar compilations and documents from others! If I haven't covered it somewhere, it might be covered below. And if you have your own compilation and it's not listed, please email me and I can add it to the list^[1] 
+There are definitely some things I've missed, so be sure to check out similar compilations and documents from others! If I haven't covered it somewhere, it might be covered below. And if you have your own compilation and it's not listed, please email me and I can add it to the list[^1]
 
  - [AstroBetter Wiki](https://www.astrobetter.com/wiki/Wiki+Home): huge wiki with something for every stage
  
