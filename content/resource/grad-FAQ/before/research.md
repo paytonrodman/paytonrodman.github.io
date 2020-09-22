@@ -103,29 +103,30 @@ The most important thing is that you use the person's proper **title**. What thi
 
 ```mermaid
 graph LR;
+  subgraph Australia
   A(Lecturer)-->B(Senior Lecturer);
   B(Senior Lecturer)-->C(Associate Professor);
   C(Associate Professor)-->D(Professor);
   classDef website fill:#e8c8c7,stroke:#9d1512,stroke-width:2px
   class A,B,C,D website
-```
-
-```mermaid
-graph LR;
-  A(Assistant Professor)-->B(Associate Professor);
-  B(Associate Professor)-->C(Professor);
-  C(Professor)-->D(Distinguished Prof.);
+  end
+  style Australia fill:none,stroke:none
+  subgraph US
+  E(Assistant Professor)-->F(Associate Professor);
+  F(Associate Professor)-->G(Professor);
+  G(Professor)-->H(Distinguished Prof.);
   classDef website fill:#e8c8c7,stroke:#9d1512,stroke-width:2px
-  class A,B,C,D website
-```
-
-```mermaid
-graph LR;
-  A(Lecturer)-->B(Senior lecturer);
-  B(Senior lecturer)-->C(Reader);
-  C(Reader)-->D(Professor);
+  class E,F,G,H website
+  end
+  style US fill:none,stroke:none
+  subgraph UK
+  I(Lecturer)-->J(Senior lecturer);
+  J(Senior lecturer)-->K(Reader);
+  K(Reader)-->L(Professor);
   classDef website fill:#e8c8c7,stroke:#9d1512,stroke-width:2px
-  class A,B,C,D website
+  class I,J,K,L website
+  end
+  style UK fill:none,stroke:none
 ```
 
 In the US, you may refer to all teaching staff at a university by the title {{< hl >}}Professor{{< /hl >}}, which can be shortened to {{< hl >}}Prof.{{< /hl >}}, regardless of whether that person holds a PhD or not. When someone does hold a PhD then you can refer to them as {{< hl >}}Dr.{{< /hl >}} You are unlikely to offend if you get it wrong between these two because neither one is inherently "better" than the other, and people with doctorates often ask to be referred to as Prof.
