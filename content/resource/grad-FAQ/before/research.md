@@ -29,7 +29,7 @@ In other cases, there might be opportunities around but they're all extremely co
 
 Or, there may be plenty of opportunities and you may even have some offers, but they don't pay or aren't accessible. This is an incredibly unfair situation and it's one of the many ways that academia shuts out low-income, disabled, and disadvantaged students. You should certainly ask whether pay or some kind of financial assistance (e.g. a rent subsidy) is possible. Alternatively, you can look for specific programs aimed to help students from disadvantaged backgrounds like the [Fisk-Vanderbilt bridge program](https://www.fisk-vanderbilt-bridge.org/program). You can also find outside funding from various fellowships and scholarships (here's a link for [POC](https://docs.google.com/spreadsheets/d/1V_pvhqWliwqLhAVcXikxAEuJPD4mwwgl9LEgOnzN-zM/)). If all else fails, you might be able to find a paid internship in a closely aligned industry. Undergraduate research internships _should_ pay their interns enough to afford rent and living expenses in the area where they're interning. Remember this challenge when you become a PhD student or permanent research staff, and then pressure your institution to provide adequate pay to its interns. Give to the next generation what you never had: an opportunity.
 
-### [How do I find groups to join?](#find-groups)
+### How do I find groups to join?
 
 Let's walk you through it! As an example, let's say we're an undergraduate student in physics who'd like to do research in theoretical condensed matter physics.
 
