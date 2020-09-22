@@ -38,5 +38,8 @@ I have my stats below for the curious, but for the rest, I hope you will find I'
 **Thesis area**: Astrophysics  
 **Degree class**: First (7.0/7.0)  
 
+**Research**: A short project in the summer of my first year, which eventually resulted in a first-author publication. A second project outside of my university at the end of my second year, and a year-long Honours thesis on AGN jets. Certainly a good amount, but aside from my Honours year (for the non-Australian folks, think of it like a Masters degree) I "only" clocked ~6 months of research as I was limited to well-paid positions.    
+**Awards**: Typically one for each year of university, along with new scholarships for most years. Overall, the list appears long but this is more a function of how awards worked at my alma mater. Do not despair if your university doesn't give so many varied awards for each year! 
+
 **Applied**: University of Tasmania, Australian National University, University of Cambridge, University of Oxford  
 **Accepted**: All of the above. No funding offered at Oxford by April (at which point I took an offer elsewhere)
