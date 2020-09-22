@@ -22,7 +22,7 @@ Welcome!
 
 I'm Payton, the author of this guide :sunglasses:
 
-It should be noted that this is nothing more than a compilation of my own experiences and those of others I've talked to. As with many things in higher education, a great deal changes depending on the country, field, and student, and so you should remember that my view is that of an Australian expat studying astronomy in the UK. I try to keep advice as generic as possible to help as many people as possible, but there will still always be a bias — both to my own experiences and towards the US. I've linked some extra compilations by others on the resources page, so do please check those out as well!
+It should be noted that this is nothing more than a compilation of my own experiences and those of others I've talked to. As with many things in higher education, a great deal changes depending on the country, field, and student, and so you should remember that my view is that of an Australian expat studying astronomy in the UK. I try to keep advice as generic as possible to help as many people as possible, but there will still always be a bias — both to my own experiences and towards the US as they're very active online. I've linked some extra compilations by others on the resources page, so do please check those out as well!
 
 If you are an undergraduate student, particularly if you are early on in your degree, then I also have a guide to undergraduate page with more tips for managing things like work, study, and disability.
 
