@@ -15,6 +15,7 @@ menu:
 weight: 1
 ---
 
+There are definitely some things I've missed, so be sure to check out similar compilations and documents from others! If I haven't covered it somewhere, it might be covered below. And if you have your own compilation and it's not listed, please email me and I can add it to the list^[1] 
 
  - [AstroBetter Wiki](https://www.astrobetter.com/wiki/Wiki+Home): huge wiki with something for every stage
  
@@ -25,3 +26,6 @@ weight: 1
 - Hannah Dalgleish’s ["How to make an Astrophysicist"](https://astrophysicsgirl.com/)
 
 - [astrobites](https://astrobites.org/): daily paper summaries, personal experiences, and career guides
+
+
+[^1]: Please note, I do not link to paid services or companies unless it is in service of a very specific and widely-used resource. If you're selling admissions advice or would otherwise be using an advice column to advertise a paid service/company, I will not link it. 
