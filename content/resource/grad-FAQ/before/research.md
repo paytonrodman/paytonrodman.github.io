@@ -101,24 +101,24 @@ In Australia we have a decidedly more laid-back attitude and so I usually go wit
 The most important thing is that you use the person's proper **title**. What this proper title _is_ can be confusing because it depends on job title, the highest degree held by the person, and the culture of academia in the country the person resides in or was trained/taught in. Below are some typical job titles in different countries (Australia, the US, and the UK), but it varies a bit even between universities in the same country. This can make it very confusing to figure out the appropriate form of address!
 
 ```mermaid
-graph TD;
-  Professor<--Associate Professor;
-  Associate Professor<--Senior Lecturer;
-  Senior Lecturer<--Lecturer;
+graph BT;
+  A[Lecturer]-->B[Senior Lecturer];
+  B[Senior Lecturer]-->C[Associate Professor];
+  C[Associate Professor]-->D[Professor];
 ```
 
 ```mermaid
-graph TD;
-  Distinguished, Endowed or University Professor<--Professor;
-  Professor<--Associate Professor;
-  Associate Professor<--Assistant Professor;
+graph BT;
+  A[Assistant Professor]-->B[Associate Professor];
+  B[Associate Professor]-->C[Professor];
+  C[Professor]-->D[Distinguished, Endowed or University Professor];
 ```
 
 ```mermaid
-graph TD;
-  Professor<--Reader;
-  Reader<--Senior lecturer;
-  Senior lecturer<--Lecturer;
+graph BT;
+  A[Lecturer]-->B[Senior lecturer];
+  B[Senior lecturer]-->C[Reader];
+  C[Reader]-->D[Professor];
 ```
 
 In the US, you may refer to all teaching staff at a university by the title {{< hl >}}Professor{{< /hl >}}, which can be shortened to {{< hl >}}Prof.{{< /hl >}}, regardless of whether that person holds a PhD or not. When someone does hold a PhD then you can refer to them as {{< hl >}}Dr.{{< /hl >}} You are unlikely to offend if you get it wrong between these two because neither one is inherently "better" than the other, and people with doctorates often ask to be referred to as Prof.
