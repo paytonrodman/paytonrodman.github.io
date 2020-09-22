@@ -15,7 +15,7 @@ menu:
 weight: 1
 ---
 
-### High School, College, and Undergraduate
+### High School, College, and Undergraduate <span role="img" aria-label="">🎒</span>
 
  - [The Physics Classroom](https://www.physicsclassroom.com/class)
  
@@ -31,7 +31,7 @@ weight: 1
  
  - [Khan Academy](https://www.khanacademy.org/)
 
-### Advanced Undergraduate and Graduate
+### Advanced Undergraduate and Graduate <span role="img" aria-label="">🎓</span>
 
  - [Daniel Erenso's notes](https://www.mtsu.edu/faculty/derenso/)
  
@@ -45,7 +45,7 @@ weight: 1
  
  - [Leonard Susskind's notes](http://newpackettech.com/Resources/Susskind/Susskind.htm) and [The Theoretical Minimum](http://theoreticalminimum.com/home)
  
-### For research
+### For research <span role="img" aria-label="">🧪</span>
 
  - [LaTeX](https://www.latex-project.org/) and [LaTeX Command Summary](https://www.ntg.nl/doc/biemesderfer/ltxcrib.pdf): a document preparation system. Create professional-looking lab reports, articles, or your curriculum vitae!
  
