@@ -19,10 +19,37 @@ weight: 5
 The person who will ultimately supervise your work may be known as a supervisor, or alternatively a "Principle Investigator" or "Primary Investigator" (PI), indicating that the individual is the head of a research group.
 {{% /alert %}}
 
-## How do I find potential supervisors?
+### How do I find potential supervisors?
 
-## Do I need to reach out to people ahead of time?
+Check out [this other section]({{< relref "../before/research.md#find-groups" >}})
 
-## How do I contact them?
+### Do I need to reach out to people ahead of time?
 
-## What should I say?
+In many cases it will either be required or beneficial, although there are some notable exceptions.
+
+In the US you would typically spend the first ~2 years of a PhD doing coursework and short projects with multiple supervisors. You may not settle to one supervisor until the end of the 2nd year and so there's no great rush to identify that one person prior to applying. It can still be beneficial to identify a handful of potential supervisors and ask them about opportunities for 2 years' time, just in case someone is planning to retire or move soon, but it's more for your benefit and may not factor into admissions at all. In some cases, contacting supervisors is actively discouraged and it should say as much on the program/department pages. In this case you **should not** reach out. Not following this direction is a sign that you either haven't done your homework (you haven't read the department pages) or you're unable to follow basic directions. Neither is a good look.
+
+In nearly all other cases, and particularly for programs outside of the US, reaching out to potential supervisors lies somewhere between "important" and "necessary". Potential supervisors may play a direct role in admissions, or you may need to name a supervisor in your application along with a confirmation that they would mentor you should you be accepted. And it's generally a good idea to get to know the person who might become your boss, and to make sure that your research interests and working styles will align.
+
+### How do I contact them?
+
+By far the best option is by email! 
+
+You can also typically find office phone numbers online, but think carefully before you pick up the phone. Phone calls are inherently imposing, and by calling someone you are pressuring them to answer you at the exact moment you call because they don't know who you are or why you're calling. Phone calls and video calls are great if you've already agreed with the person to do just that, but I think cold calling (i.e. calling someone without them knowing ahead of time) is disrespectful. You're implicitly stating that whatever you want to discuss is absolutely more important than anything else they're doing, including teaching, mentoring students, or doing their own research. Calls should be reserved for things that are urgent and require an immediate reply. Your email about graduate positions is neither.
+
+If you email then you give the person time to think over your proposal and craft a reply. Cold call them and the answer may be a flat "no" when an email would garner a "yes".
+
+### What should I say?
+
+> Dear Prof Reynolds,
+>
+> My name is Payton Rodman, and I am currently an astrophysics Honours student at the University of Tasmania in Australia, graduating in November of this year. I am looking to apply to doctoral programs in astrophysics, including Cambridge for the Michaelmas term in 2019. For funding, I'm planning to apply for the Gates-Cambridge scholarship, along with the Commonwealth scholarships.
+>
+> I have research experience in theoretical astrophysics starting in 2015, mostly in the field of AGN with Radio Galaxy Zoo (RGZ), including one first-author paper currently under review with MNRAS. For my Honours thesis this year, I am investigating how Faraday Rotation of AGN jets can be used to constrain galaxy cluster properties through analytic and numerical modelling, for use with large radio surveys like the SKA. Your work has cropped up many times in relation to that, most recently your 2015 paper on the transport of g-modes into the ICM (abs/1511.03271).
+>
+> Continuing into graduate studies, I am looking to do more with turbulence and instabilities within accretion disks around AGN and how these might lead to X-ray variability, similar to the work you've done with Dr Drew Hogg (e.g. abs/1801.05836).
+>
+> Please let me know if you plan to accept any graduate students in 2019, and if you'd consider supervising me for a PhD in a related area. I have attached my CV with more details on my research experience, and I look forward to hearing from you and discussing any options further.
+>
+> Cheers,
+> Payton
