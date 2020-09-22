@@ -114,7 +114,7 @@ graph LR;
 graph LR;
   A(Assistant Professor)-->B(Associate Professor);
   B(Associate Professor)-->C(Professor);
-  C(Professor)-->D(Distinguished Professor);
+  C(Professor)-->D(Distinguished Prof.);
   classDef website fill:#e8c8c7,stroke:#9d1512,stroke-width:2px
   class A,B,C,D website
 ```
