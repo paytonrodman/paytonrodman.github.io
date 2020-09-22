@@ -15,23 +15,9 @@ menu:
 weight: 1
 ---
 
-<h4>Astronomical databases and surveys</h4>
+### Journals and academic papers
 
- - [SIMBAD Astronomical Database](http://simbad.u-strasbg.fr/simbad/)
- 
- - [The VLA FIRST Survey](http://sundog.stsci.edu/)
- 
- - [The Sloan Digital Sky Survey](https://www.sdss.org/) (SDSS)
- 
- - [Gaia](https://www.cosmos.esa.int/web/gaia)
- 
- - [VizieR Service](http://vizier.u-strasbg.fr/cgi-bin/VizieR)
- 
- - [NASA/IPAC Extragalactic Database](http://nedwww.ipac.caltech.edu/) (NED)
- 
- - [Canadian Astronomy Data Centre](http://cadcwww.dao.nrc.ca/) (CADC)
-
-<h4>Journals and academic papers</h4>
+Find all of your research papers here! Pro tip: never pay for an article, as none of that money goes to the researchers. Instead, check out arXiv or the NASA Abstract Server, download the paper while on university wifi (e.g. eduroam) through Shibboleth/Athens, or just email the authors and ask for a copy! Most will be more than happy to send you a PDF for free
 
  - [arXiv e-print archive](https://arxiv.org/): find (free, non-paywalled) preprints of journal papers! ("arXiv" pronounced as "archive" :wink:)
  
@@ -43,7 +29,9 @@ weight: 1
  
  - [MNRAS](https://academic.oup.com/mnras), [ApJ](https://iopscience.iop.org/journal/0004-637X), [A&A](https://www.aanda.org/): the three major astronomy journals
 
-<h4>Institutes and Societies</h4>
+### Institutes and Societies
+
+Often a reduced membership fee for students, and can come with some sweet perks like reduced conference registration fees and scholarships!
 
  - [The Institute of Physics](http://www.iop.org/) (IOP; UK)
 
@@ -63,10 +51,28 @@ weight: 1
 
  - [European Space Agency](https://www.esa.int/) (ESA)
  
-<h4>Job Postings</h4>
+### Job Postings
+
+Almost all astronomy and astronomy-aligned (e.g. observatory work) jobs are posted to the AAS, with the main hiring round starting in ~September of each year and offers made through to January of the following year. But make sure to check periodically at other times, as some countries (looking at you, Australia) have different hiring seasons!
 
  - [AAS Jobs Register](https://jobregister.aas.org/): effectively all postdoctoral and permanent research positions in astronomy around the world, plus support positions within observatories
 
  - [physicsworld job feed](https://brightrecruits.com/): a mix of academic and industry positions
 
  - [Astrophysics Jobs Rumour Mill](https://www.astrobetter.com/wiki/Rumor+Mill+Faculty-Staff): find out if that job you applied to has already made offers! Use with caution—people lie on the internet!
+ 
+### Astronomical databases and surveys
+
+ - [SIMBAD Astronomical Database](http://simbad.u-strasbg.fr/simbad/)
+ 
+ - [The VLA FIRST Survey](http://sundog.stsci.edu/)
+ 
+ - [The Sloan Digital Sky Survey](https://www.sdss.org/) (SDSS)
+ 
+ - [Gaia](https://www.cosmos.esa.int/web/gaia)
+ 
+ - [VizieR Service](http://vizier.u-strasbg.fr/cgi-bin/VizieR)
+ 
+ - [NASA/IPAC Extragalactic Database](http://nedwww.ipac.caltech.edu/) (NED)
+ 
+ - [Canadian Astronomy Data Centre](http://cadcwww.dao.nrc.ca/) (CADC)
