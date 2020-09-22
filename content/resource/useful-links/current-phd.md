@@ -17,6 +17,8 @@ weight: 1
 
 - [Better Posters](http://betterposters.blogspot.com/) for help making better posters
 
+- Mike Morrison's [#BetterPoster design](https://osf.io/8ajqs/) (not affiliated with the website above!)
+
 - [Resources for POCs in STEAM](https://docs.google.com/spreadsheets/d/1V_pvhqWliwqLhAVcXikxAEuJPD4mwwgl9LEgOnzN-zM/edit#gid=1417047090): Google Doc of fellowships for POC students
 
 - Bob Henderson's ["What does any of this have to do with physics?"](http://nautil.us/issue/43/heroes/what-does-any-of-this-have-to-do-with-physics): Bob reflects on how his view of theoretical physics changed during a PhD, the challenges, the thrills, and his ultimate choice to leave academia.
