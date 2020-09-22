@@ -15,7 +15,7 @@ menu:
 weight: 1
 ---
 
-<h4 id="high-school">High School, College, and Undergraduate</h4>
+### High School, College, and Undergraduate
 
  - [The Physics Classroom](https://www.physicsclassroom.com/class)
  
@@ -31,7 +31,7 @@ weight: 1
  
  - [Khan Academy](https://www.khanacademy.org/)
 
-<h4 id="high-school">Advanced Undergraduate and Graduate</h4>
+### Advanced Undergraduate and Graduate
 
  - [Daniel Erenso's notes](https://www.mtsu.edu/faculty/derenso/)
  
@@ -45,7 +45,7 @@ weight: 1
  
  - [Leonard Susskind's notes](http://newpackettech.com/Resources/Susskind/Susskind.htm) and [The Theoretical Minimum](http://theoreticalminimum.com/home)
  
-<h4>For research</h4>
+### For research
 
  - [LaTeX](https://www.latex-project.org/) and [LaTeX Command Summary](https://www.ntg.nl/doc/biemesderfer/ltxcrib.pdf): a document preparation system. Create professional-looking lab reports, articles, or your curriculum vitae!
  
@@ -56,3 +56,5 @@ weight: 1
  - [Mendeley](https://www.mendeley.com/?interaction_required=true) or [Zotero](https://www.zotero.org/): organise your bibliography
  
  - [Trello](https://trello.com/) and [Notion](https://www.notion.so/): organise your workspace and your projects
+ 
+ - [astrobites](https://astrobites.org/): accessible summaries of some recent papers and guides for astronomy research
