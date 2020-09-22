@@ -94,6 +94,7 @@ Make sure to open and close your emails properly. An easy formal opening is
 while for closing you may want to use something like
 
 > "Regards, Jane"
+
 > "Kind regards, Jane"
 
 In Australia we have a decidedly more laid-back attitude and so I usually go with "Cheers, Payton" for my closing. But this is a distinctly Australian trait, and if you use it in email to a non-Australian, it is usually too informal and can be considered offensive (I say this in warning to fellow Aussies!). This is because Australia's system of respect is largely reversed.
