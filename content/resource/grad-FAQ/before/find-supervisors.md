@@ -21,7 +21,11 @@ The person who will ultimately supervise your work may be known as a supervisor,
 
 ### How do I find potential supervisors?
 
-Check out [this other section]({{< relref "../before/research.md#find-groups" >}})
+Check out [this other section]({{< relref "../before/research.md/#how-do-i-find-groups-to-join" >}}), where I detail the process for an undergraduate looking for research experience. The process is much the same for finding potential PhD supervisors!
+
+I do want to stress though: don't rely on rankings.
+
+It can be tempting and I know it's easier to simply outsource all of the work to some faceless company, but you neither know nor understand the methodologies these companies use. If you did, you wouldn't ever rely on them because they prioritise all of the wrong things and where they do attempt to measure important things, they measure them using quite inappropriate metrics. Rankings are a numbers game and it's both common and easy for universities to inflate their rankings without making any change to their research profile or internal processes. It is also the most broad view possible and does not accurately capture any useable unformation about individual departments or researchers. If you rely on rankings you can easily find yourself in a place that is wholly inappropriate given your interests and goals.
 
 ### Do I need to reach out to people ahead of time?
 
@@ -41,15 +45,35 @@ If you email then you give the person time to think over your proposal and craft
 
 ### What should I say?
 
-> Dear Prof Reynolds,
->
-> My name is Payton Rodman, and I am currently an astrophysics Honours student at the University of Tasmania in Australia, graduating in November of this year. I am looking to apply to doctoral programs in astrophysics, including Cambridge for the Michaelmas term in 2019. For funding, I'm planning to apply for the Gates-Cambridge scholarship, along with the Commonwealth scholarships.
->
-> I have research experience in theoretical astrophysics starting in 2015, mostly in the field of AGN with Radio Galaxy Zoo (RGZ), including one first-author paper currently under review with MNRAS. For my Honours thesis this year, I am investigating how Faraday Rotation of AGN jets can be used to constrain galaxy cluster properties through analytic and numerical modelling, for use with large radio surveys like the SKA. Your work has cropped up many times in relation to that, most recently your 2015 paper on the transport of g-modes into the ICM (abs/1511.03271).
->
-> Continuing into graduate studies, I am looking to do more with turbulence and instabilities within accretion disks around AGN and how these might lead to X-ray variability, similar to the work you've done with Dr Drew Hogg (e.g. abs/1801.05836).
->
-> Please let me know if you plan to accept any graduate students in 2019, and if you'd consider supervising me for a PhD in a related area. I have attached my CV with more details on my research experience, and I look forward to hearing from you and discussing any options further.
->
-> Cheers,
-> Payton
+A general template could follow
+
+1. <span style="background-color:#fc8583">Salutation</span>: see [here]({{< relref "../before/research.md/#3-use-proper-etiquette" >}}) for tips
+
+2. <span style="background-color:#fc9d83">Introduction</span>: your name and your student status
+
+3. <span style="background-color:#fcb782">Purpose</span>: why you're emailing them
+
+4. (Optional) <span style="background-color:#f4e38a">Funding</span>: if you have funding secured or know have plans to apply to something big
+
+5. <span style="background-color:#c3fe81">Experience</span>: your skills and research experience
+
+6. <span style="background-color:#88f7c5">Research interests</span>: what you want to research in your PhD
+
+7. <span style="background-color:#8adaf5">Doing your homework</span>: link to their work (you must have actually read these!)
+
+8. <span style="background-color:#90a6ee">Actionable request</span>: ask a specific question or action for them to undertake
+
+9. <span style="background-color:#cf9de1">Closing</span>: again, see [here]({{< relref "../before/research.md/#3-use-proper-etiquette" >}})
+
+<span style="background-color:#fc8583">Dear Prof. Reynolds</span>,  
+
+<span style="background-color:#fc9d83">My name is Payton Rodman, and I am currently an astrophysics Honours student at the University of Tasmania in Australia, graduating in November of this year.</span> <span style="background-color:#fcb782">I am looking to apply to doctoral programs in astrophysics, including Cambridge for the Michaelmas term in 2019.</span> <span style="background-color:#f4e38a">For funding, I'm planning to apply for the Gates-Cambridge scholarship, along with the Commonwealth scholarships.</span>  
+
+<span style="background-color:#c3fe81">I have research experience in theoretical astrophysics starting in 2015, mostly in the field of AGN with Radio Galaxy Zoo (RGZ), including one first-author paper currently under review with MNRAS. For my Honours thesis this year, I am investigating how Faraday Rotation of AGN jets can be used to constrain galaxy cluster properties through analytic and numerical modelling, for use with large radio surveys like the SKA.</span> <span style="background-color:#8adaf5">Your work has cropped up many times in relation to that, most recently your 2015 paper on the transport of g-modes into the ICM (abs/1511.03271).</span>  
+
+<span style="background-color:#88f7c5">Continuing into graduate studies, I am looking to do more with turbulence and instabilities within accretion disks around AGN and how these might lead to X-ray variability,</span> <span style="background-color:#8adaf5">similar to the work you've done with Dr Drew Hogg (e.g. abs/1801.05836).</span>  
+
+<span style="background-color:#90a6ee">Please let me know if you plan to accept any graduate students in 2019, and if you'd consider supervising me for a PhD in a related area.</span> <span style="background-color:#cf9de1">I have attached my CV with more details on my research experience, and I look forward to hearing from you and discussing any options further.</span>  
+
+<span style="background-color:#cf9de1">Cheers,</span>  
+<span style="background-color:#cf9de1">Payton</span>
