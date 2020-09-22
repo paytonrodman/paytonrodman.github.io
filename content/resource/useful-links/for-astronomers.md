@@ -17,7 +17,10 @@ weight: 1
 
 ### Journals and academic papers
 
-Find all of your research papers here! Pro tip: never pay for an article, as none of that money goes to the researchers. Instead, check out arXiv or the NASA Abstract Server, download the paper while on university wifi (e.g. eduroam) through Shibboleth/Athens, or just email the authors and ask for a copy! Most will be more than happy to send you a PDF for free
+Find all of your research papers here! 
+{{% alert note %}}
+Pro tip: never pay for an article, as none of that money goes to the researchers. Instead, check out arXiv or the NASA Abstract Server, download the paper while on university wifi (e.g. eduroam) through Shibboleth/Athens, or just email the authors and ask for a copy! Most will be more than happy to send you a PDF for free :smile:
+{{% /alert %}}
 
  - [arXiv e-print archive](https://arxiv.org/): find (free, non-paywalled) preprints of journal papers! ("arXiv" pronounced as "archive" :wink:)
  
