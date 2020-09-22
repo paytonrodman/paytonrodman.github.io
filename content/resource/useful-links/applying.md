@@ -16,7 +16,7 @@ weight: 1
 ---
 
  
-<h4>Finding programs</h4>
+### Finding programs
 
  - [FindAPhD.com](https://www.findaphd.com/): PhD projects on offer, some funded, primarily UK. 
  
@@ -26,7 +26,7 @@ weight: 1
  
  - The Fisk-Vanderbilt [Masters-to-PhD Bridge Program](https://www.fisk-vanderbilt-bridge.org/): a bridge program to support minoritised students in attaining a PhD
  
-<h4>General advice</h4>
+### General advice
  
  - Katherine Moore's [graduate school application advice](https://sites.google.com/site/gradappadvice/home)
  
@@ -38,10 +38,12 @@ weight: 1
 
  - [Material to provide to your letter writers](http://www.as.utexas.edu/astronomy/education/template.txt)
  
-<h4>Connect with others going through the process!</h4>
+### Connect with others going through the process!
  
  - [physicsGRE.com](https://physicsgre.com/)
 
  - Reddit’s [r/Physics subreddit](http://reddit.com/r/physics) and [r/GradAdmissions subreddit](https://www.reddit.com/r/gradadmissions/)
 
  - [TheGradCafe](https://www.thegradcafe.com/)
+ 
+ - Also check out Twitter and Discord!
