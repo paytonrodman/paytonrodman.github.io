@@ -102,21 +102,21 @@ In Australia we have a decidedly more laid-back attitude and so I usually go wit
 The most important thing is that you use the person's proper **title**. What this proper title _is_ can be confusing because it depends on job title, the highest degree held by the person, and the culture of academia in the country the person resides in or was trained/taught in. Below are some typical job titles in different countries (Australia, the US, and the UK), but it varies a bit even between universities in the same country. This can make it very confusing to figure out the appropriate form of address!
 
 ```mermaid
-graph BT;
+graph LR;
   A[Lecturer]-->B[Senior Lecturer];
   B[Senior Lecturer]-->C[Associate Professor];
   C[Associate Professor]-->D[Professor];
 ```
 
 ```mermaid
-graph BT;
+graph LR;
   A[Assistant Professor]-->B[Associate Professor];
   B[Associate Professor]-->C[Professor];
-  C[Professor]-->D[Distinguished, Endowed or University Professor];
+  C[Professor]-->D[Distinguished Professor];
 ```
 
 ```mermaid
-graph BT;
+graph LR;
   A[Lecturer]-->B[Senior lecturer];
   B[Senior lecturer]-->C[Reader];
   C[Reader]-->D[Professor];
