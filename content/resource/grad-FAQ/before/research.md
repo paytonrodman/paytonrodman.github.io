@@ -35,8 +35,8 @@ Let's walk you through it! As an example, let's say we're an undergraduate stude
 
 Your first port-of-call should be the homepage for the department of interest. You can tell that you've hit a department page because the style will typically be more outdated. While the university homepage is sleek and all curves, the department homepage may be more reminiscent of Windows 98 — all edges.
 
-{{< figure src="harvard_homepage.png" title="The Harvard university homepage" alt="The Harvard university homepage" style="">}}
-{{< figure src="harvard_phys_homepage_2.png" title="The Harvard university physics department homepage" alt="The Harvard university physics department homepage" style="">}}
+{{< figure src="harvard_homepage.png" title="The Harvard university homepage" alt="The Harvard university homepage" style="float: left; margin-right: 10px;" >}}
+{{< figure src="harvard_phys_homepage_2.png" title="The Harvard university physics department homepage" alt="The Harvard university physics department homepage" style="float: right; margin-left: 10px;" >}}
 
 You can also tell by the web address. For Harvard university general it is `www.harvard.edu`, while the physics homepage is `www.physics.harvard.edu`.
 
@@ -44,8 +44,8 @@ Once here, we want to check out the research that they do at this university, so
 
 Under Harvard's "Faculty by research area" page, we're faced with a list of subject areas and the names of academics who do research in those areas. We're interested in theoretical condensed matter physics, so we look in the area I've highlighted. If we click on the first person in this list then we're taken to an individual researcher's page; in this case, Eugene Demler, who is a Professor of physics. On this page, Prof. Demler describes his main research interests and his motivations for researching them. There are links to his personal webpage and that of his wider research group. There is also contact information, including an email address. 
 
-{{< figure src="harvard_list.png" title="A list of researchers by area" alt="A list of researchers by area" style="">}}
-{{< figure src="harvard_person.png" title="A researcher's profile page" alt="A researcher's profile page" style="">}}
+{{< figure src="harvard_list.png" title="A list of researchers by area" alt="A list of researchers by area" style="float: left; margin-right: 10px;" >}}
+{{< figure src="harvard_person.png" title="A researcher's profile page" alt="A researcher's profile page" style="float: right; margin-left: 10px;" >}}
 
 Sometimes these faculty pages will have links to an academic's published papers, but in this case we need to head to Prof. Demler's personal webpage and/or the group webpage. You should do this and try to skim read any recent papers or project summaries. Does this look like research you'd be interested in?
 
