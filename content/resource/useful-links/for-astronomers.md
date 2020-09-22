@@ -15,7 +15,7 @@ menu:
 weight: 1
 ---
 
-### Journals and academic papers
+### Journals and academic papers <span role="img" aria-label="">📑</span>
 
 Find all of your research papers here! 
 {{% alert note %}}
@@ -32,7 +32,7 @@ Pro tip: never pay for an article, as none of that money goes to the researchers
  
  - [MNRAS](https://academic.oup.com/mnras), [ApJ](https://iopscience.iop.org/journal/0004-637X), [A&A](https://www.aanda.org/): the three major astronomy journals
 
-### Institutes and Societies
+### Institutes and Societies <span role="img" aria-label="">🏛️</span>
 
 Often a reduced membership fee for students, and can come with some sweet perks like reduced conference registration fees and scholarships!
 
@@ -54,7 +54,7 @@ Often a reduced membership fee for students, and can come with some sweet perks 
 
  - [European Space Agency](https://www.esa.int/) (ESA)
  
-### Job Postings
+### Job Postings <span role="img" aria-label="">📌</span>
 
 Almost all astronomy and astronomy-aligned (e.g. observatory work) jobs are posted to the AAS, with the main hiring round starting in ~September of each year and offers made through to January of the following year. But make sure to check periodically at other times, as some countries (looking at you, Australia) have different hiring seasons!
 
@@ -64,7 +64,7 @@ Almost all astronomy and astronomy-aligned (e.g. observatory work) jobs are post
 
  - [Astrophysics Jobs Rumour Mill](https://www.astrobetter.com/wiki/Rumor+Mill+Faculty-Staff): find out if that job you applied to has already made offers! Use with caution—people lie on the internet!
  
-### Astronomical databases and surveys
+### Astronomical databases and surveys <span role="img" aria-label="">🖥️</span>
 
  - [SIMBAD Astronomical Database](http://simbad.u-strasbg.fr/simbad/)
  
