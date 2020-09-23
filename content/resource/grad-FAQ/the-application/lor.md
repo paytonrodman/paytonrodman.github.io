@@ -51,11 +51,11 @@ You want to give people plenty of time to think over your request and give a res
 
 #### In terms of how to ask:  
 
-✅ Use the correct salutation, e.g. Dr or Prof
-✅ Introduce yourself in case they might have trouble placing your name, e.g. "My name's John Smith and I was in your XYZ500 class last semester"
-✅ Tell them that you're applying to graduate programs in [field] for entry in [year]
+✅ Use the correct salutation, e.g. Dr or Prof  
+✅ Introduce yourself in case they might have trouble placing your name, e.g. "My name's John Smith and I was in your XYZ500 class last semester"  
+✅ Tell them that you're applying to graduate programs in [field] for entry in [year]  
 ✅ Ask if they would be able to write a **strong** letter of recommendation. This is in case they don't really remember you and can only write a DWIC letter. If you only ask for **a** letter then they may say yes when really they ought to decline.  
-🆗 If you feel they're very likely to say yes, you could attach your CV to this email. Otherwise, if you're not certain and there's a chance they'll say no, wait until after you get affirmation before sending more info.
+🆗 If you feel they're very likely to say yes, you could attach your CV to this email. Otherwise, if you're not certain and there's a chance they'll say no, wait until after you get affirmation before sending more info.  
 
 ### Some other tidbits
 
