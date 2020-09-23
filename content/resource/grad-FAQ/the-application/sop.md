@@ -30,14 +30,14 @@ A personal statement (PS) _should_ be more personal than a statement of purpose 
 #### DO
 
 ✅ Start early!  
-✅ Identify what qualities you want convey and focus on showing them
+✅ Identify what qualities you want convey and focus on showing them  
 ✅ Be specific with achievements  
 ✅ Cover all points requested by the program  
 ✅ Keep to the page limit  
 ✅ Give examples where you display skills/personal qualities  
 ✅ Keep a logical flow  
 ✅ Check grammar and punctuation  
-✅ Spell out all acronyms in full
+✅ Spell out all acronyms in full  
 ✅ Revise drafts and seek feedback
 
 #### DON'T
@@ -45,12 +45,12 @@ A personal statement (PS) _should_ be more personal than a statement of purpose 
 ❌ Leave it till the last moment  
 ❌ Get someone else to write it  
 ❌ Talk about your early childhood  
-❌ Start the essay with a quote or dictionary definition
+❌ Start the essay with a quote or dictionary definition  
 ❌ Overuse vague terms like "challenging" or "rewarding"  
 ❌ Give excessive details about your health or other private information  
 ❌ Try to game the font size or page margins  
 ❌ Use coloured paper or "fun" fonts  
 ❌ Crack jokes  
-❌ Bad-talk another university, your professors, your family, etc
+❌ Bad-talk another university, your professors, your family, etc  
 ❌ Reference the wrong university!  
 ❌ Be too wordy or use too much jargon  
