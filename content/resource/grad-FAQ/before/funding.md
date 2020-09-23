@@ -21,11 +21,11 @@ The topic of funding is an incredibly thorny one. I'll do my best to do it justi
 
 ### How much will a graduate degree cost?
 
-## Masters
+#### Masters
 
 If you're a student in a country where separate Masters degrees are required before you can apply/attend a PhD program, then this may be folded into an undergraduate degree (e.g. as an optional 4th/5th year). The fees for Masters degrees may be similar to what you pay in an undergraduate degree, or slightly higher. If you are an _international_ student and/or applying to Masters degrees in countries where they are not required for PhD entry, things can be much more expensive. Separate scholarships and research grants can be uncommon for Masters degrees, unlike PhDs, and so the exorbitant sticker price you find online really could be the amount you're expected to pay!
 
-## PhD
+#### PhD
 
 PhDs are... complicated. 
 
