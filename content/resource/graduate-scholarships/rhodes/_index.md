@@ -16,6 +16,10 @@ menu:
 weight: 1
 ---
 
+{{% alert warning %}}
+For the most up-to-date and comprehensive information, please be sure to check out the Rhodes website at `[www.rhodeshouse.ox.ac.uk](https://www.rhodeshouse.ox.ac.uk/)`
+{{% /alert %}}
+
 {{% alert note %}}
 At Oxford University, PhDs/doctorates are known as DPhils
 {{% /alert %}}
