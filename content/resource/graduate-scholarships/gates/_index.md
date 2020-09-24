@@ -16,6 +16,11 @@ menu:
 weight: 2
 ---
 
+
+{{% alert warning %}}
+For the most up-to-date and comprehensive information, please be sure to check out the Gates website at `[www.gatescambridge.org](https://www.gatescambridge.org/)`
+{{% /alert %}}
+
 The [Gates-Cambridge scholarship](https://www.gatescambridge.org/) was established in 2000 with a large donation from the Bill and Melinda Gates Foundation. It is tenable at the [University of Cambridge](https://www.cam.ac.uk/) for Masters and PhD studies, with some exceptions and limitations.
 
 It covers the full University Composition fee (i.e. your tuition), a very competitive stipend (£17,500 p.a. for 2020/21), a single economy airfare at the beginning and end of your course, and the inbound visa and health surcharge costs. 
