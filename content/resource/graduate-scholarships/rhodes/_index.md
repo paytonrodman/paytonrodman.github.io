@@ -10,10 +10,10 @@ editable: false
 menu:
   graduate-scholarships:
     name: Rhodes
-    weight: 2
+    weight: 1
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 2
+weight: 1
 ---
 
 {{% alert note %}}
