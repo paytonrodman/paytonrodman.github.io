@@ -15,3 +15,5 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 4
 ---
+
+The application and selection process can be a somewhat complicated and prolonged one
