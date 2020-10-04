@@ -63,7 +63,7 @@ Research institutes not listed below may still offer vacation research opportuni
   
 - Monash University
  
-    - [Summer and Winter Vacation Research Scholarships](https://www.monash.edu/study/fees-scholarships/scholarships/summer-winter
+    - [Summer and Winter Vacation Research Scholarships](https://www.monash.edu/study/fees-scholarships/scholarships/summer-winter)
   
 - Swinburne University of Technology
  
