@@ -14,3 +14,7 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
+
+{{% alert note %}}
+Know a program I've missed? Let me know!
+{{% /alert %}}
