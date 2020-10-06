@@ -15,13 +15,13 @@ menu:
 weight: 3
 ---
 
-{{% callout note %}}
+{{% alert note %}}
 In Australia, research opportunities will almost universally be awarded with a stipend or scholarship, and so applications for research positions are tied to applications for the relevant scholarship.
-{{% /callout %}}
+{{% /alert %}}
 
-{{% callout warning %}}
+{{% alert warning %}}
 Research institutes not listed below may still offer vacation research opportunities, but they may be organised on an ad-hoc basis and you will need to contact a representative from the relevant school of each university to enquire.
-{{% /callout %}}
+{{% /alert %}}
 
 ### By institute/university
  
