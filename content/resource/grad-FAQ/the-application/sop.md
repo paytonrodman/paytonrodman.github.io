@@ -23,7 +23,7 @@ A statement of purpose is a kind of professional essay. Over roughly 2-3 pages y
 
 They can be functionally identical, or completely unique documents. The confusion here is that, in my experience, many programs will request one or the other while expecting something that is a blend of both. 
 
-A personal statement (PS) _should_ be more personal than a statement of purpose (SOP). Where the SOP is largely a discription of your qualifications and achievements, a PS might focus more on personal challenges you've overcome or extracurricular work which you think exemplifies some of your good qualities.
+A personal statement (PS) _should_ be more personal than a statement of purpose (SOP). Where the SOP is largely a discription of your qualifications and achievements, a PS might focus more on personal challenges you've overcome or extracurricular work which you think exemplifies some of your good qualities. But, again, everyone seems to have a different working definition of Personal Statement and Statement of Purpose, and so you should follow whatever the prompt asks for, regardless of what the document is called.
 
 ### What are the do's and don'ts?
 
@@ -34,7 +34,7 @@ A personal statement (PS) _should_ be more personal than a statement of purpose 
 ✅ Be specific with achievements  
 ✅ Cover all points requested by the program  
 ✅ Keep to the page limit  
-✅ Give examples where you display skills/personal qualities  
+✅ Give examples of where you have displayed skills/personal qualities  
 ✅ Keep a logical flow  
 ✅ Check grammar and punctuation  
 ✅ Spell out all acronyms in full  
@@ -47,8 +47,8 @@ A personal statement (PS) _should_ be more personal than a statement of purpose 
 ❌ Talk about your early childhood  
 ❌ Start the essay with a quote or dictionary definition  
 ❌ Overuse vague terms like "challenging" or "rewarding"  
-❌ Give excessive details about your health or other private information  
-❌ Try to game the font size or page margins  
+❌ Give excessive details about your health, marital status, or other private information  
+❌ Try to game the font size or page margins to fit the page limit  
 ❌ Use coloured paper or "fun" fonts  
 ❌ Crack jokes  
 ❌ Bad-talk another university, your professors, your family, etc  
