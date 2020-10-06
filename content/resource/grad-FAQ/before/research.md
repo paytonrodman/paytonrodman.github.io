@@ -153,8 +153,8 @@ I did multiple short projects and greatly enjoyed it! I also benefitted hugely f
 
 ### What about other extracurricular activities (ECs)? It is useful to work as a tutor? Should I be a teaching assistant (TA)?
 
-These are generally not as important as either grades or research. You may be expected to work for the university as a tutor or TA during your PhD and so you might want to get some experience in these things, but it's not likely to be a huge plus on an application. You can ceertainly do these things if you enjoy them and/or want to earn some money, but take care not to let your grades or research dip.
+These are generally not as important as either grades or research. You may be expected to work for the university as a tutor or TA during your PhD and so you might want to get some experience in these things, but it's not likely to be a huge plus on an application. You can certainly do these things if you enjoy them and/or want to earn some money, but take care not to let your grades or research dip.
 
 There are some scholarships (e.g. Rhodes and Gates Cambridge) that pretty much require community work and significant ECs, but these are the minority and the most appropriate activities in that case will be informed by your specific field.
 
-You should continue on with hobbies that you enjoy, just don't expect them to contribute to your PhD applications.
+You should continue on with hobbies that you enjoy, and you should pick up new hobbies for personal growth too, just don't expect them to contribute to your PhD applications.
