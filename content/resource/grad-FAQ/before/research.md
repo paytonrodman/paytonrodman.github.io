@@ -102,29 +102,35 @@ In Australia we have a decidedly more laid-back attitude and so I usually go wit
 The most important thing is that you use the person's proper **title**. What this proper title _is_ can be confusing because it depends on job title, the highest degree held by the person, and the culture of academia in the country the person resides in or was trained/taught in. Below are some typical job titles in different countries (Australia, the US, and the UK), but it varies a bit even between universities in the same country. This can make it very confusing to figure out the appropriate form of address!
 
 ```mermaid
-graph LR;
+graph TD;
   subgraph Australia
-  A(Lecturer)-->B(Senior Lecturer);
-  B(Senior Lecturer)-->C(Associate Professor);
-  C(Associate Professor)-->D(Professor);
+  A(PhD)-->B(Postdoctoral);
+  B(Postdoctoral)-->C(Lecturer);
+  C(Lecturer)-->D(Senior Lecturer);
+  D(Senior Lecturer)-->E(Associate Professor);
+  E(Associate Professor)-->F(Professor);
   classDef website fill:#e8c8c7,stroke:#9d1512,stroke-width:2px
-  class A,B,C,D website
+  class A,B,C,D,E,F website
   end
   style Australia fill:none,stroke:none
   subgraph US
-  E(Assistant Professor)-->F(Associate Professor);
-  F(Associate Professor)-->G(Professor);
-  G(Professor)-->H(Distinguished Prof.);
+  AA(PhD)-->BB(Postdoctoral);
+  BB(Postdoctoral)-->CC(Assistant Professor);
+  CC(Assistant Professor)-->DD(Associate Professor);
+  DD(Associate Professor)-->EE(Professor);
+  EE(Professor)-->FF(Distinguished Prof.);
   classDef website fill:#e8c8c7,stroke:#9d1512,stroke-width:2px
-  class E,F,G,H website
+  class AA,BB,CC,DD,EE,FF website
   end
   style US fill:none,stroke:none
   subgraph UK
-  I(Lecturer)-->J(Senior lecturer);
-  J(Senior lecturer)-->K(Reader);
-  K(Reader)-->L(Professor);
+  AAA(PhD)-->BBB(Postdoctoral);
+  BBB(Postdoctoral)-->CCC(Lecturer);
+  CCC(Lecturer)-->DDD(Senior lecturer);
+  DDD(Senior lecturer)-->EEE(Reader);
+  EEE(Reader)-->FFF(Professor);
   classDef website fill:#e8c8c7,stroke:#9d1512,stroke-width:2px
-  class I,J,K,L website
+  class AAA,BBB,CCC,DDD,EEE,FFF website
   end
   style UK fill:none,stroke:none
 ```
