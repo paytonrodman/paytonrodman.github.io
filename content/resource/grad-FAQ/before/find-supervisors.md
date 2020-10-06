@@ -21,7 +21,7 @@ The person who will ultimately supervise your work may be known as a supervisor,
 
 ### How do I find potential supervisors?
 
-Check out [this other section]({{< relref "../before/research.md/#how-do-i-find-groups-to-join" >}}), where I detail the process for an undergraduate looking for research experience. The process is much the same for finding potential PhD supervisors!
+Check out [this other section]({{< relref "../before/research.md/#how-do-i-find-groups-to-join" >}}), where I detail the process for an undergraduate looking for research experience, including how to contact professors. The process is much the same for finding potential PhD supervisors!
 
 I do want to stress though: don't rely on rankings.
 
@@ -39,13 +39,13 @@ In nearly all other cases, and particularly for programs outside of the US, reac
 
 By far the best option is by email! 
 
-You can also typically find office phone numbers online, but think carefully before you pick up the phone. Phone calls are inherently imposing, and by calling someone you are pressuring them to answer you at the exact moment you call because they don't know who you are or why you're calling. Phone calls and video calls are great if you've already agreed with the person to do just that, but I think cold calling (i.e. calling someone without them knowing ahead of time) is disrespectful. You're implicitly stating that whatever you want to discuss is absolutely more important than anything else they're doing, including teaching, mentoring students, or doing their own research. Calls should be reserved for things that are urgent and require an immediate reply. Your email about graduate positions is neither.
+You can also typically find office phone numbers online, but think carefully before you pick up the phone. Phone calls are inherently imposing, and by calling someone you are pressuring them to answer you at the exact moment you call because they don't know who you are or why you're calling. Phone calls and video calls are great if you've already agreed with the person to do just that, but I think cold calling (i.e. calling someone without them knowing ahead of time) is disrespectful. You're implicitly stating that whatever you want to discuss is absolutely more important than anything else they're doing, including teaching, mentoring students, holding meetings and interviews, or doing their own research. Calls should be reserved for things that are urgent and require an immediate reply. Your email about graduate positions is neither. It's also a kinder option for those academics who work flexible hours that don't conform to the standard 9-5, most often because they have dependents (e.g. young children) or they're travelling. 
 
-If you email then you give the person time to think over your proposal and craft a reply. Cold call them and the answer may be a flat "no" when an email would garner a "yes".
+If you email then you give the person time to think over your proposal and craft a reply. Cold call them and the answer may be a flat "no" when an email would garner a "yes". 
 
 ### What should I say?
 
-A general template could follow
+A general template could follow as below. (Numbers in brackets are for accessibility, and are not included in the actual email)
 
 1. <span style="background-color:#fc8583">Salutation</span>: see [here]({{< relref "../before/research.md/#3-use-proper-etiquette" >}}) for tips
 
@@ -53,7 +53,7 @@ A general template could follow
 
 3. <span style="background-color:#fcb782">Purpose</span>: why you're emailing them
 
-4. <span style="background-color:#ffe14d">Funding</span> (Optional): if you have funding secured or know have plans to apply to something big
+4. <span style="background-color:#ffe14d">Funding</span> (Optional): if you have funding secured or have plans to apply to something big
 
 5. <span style="background-color:#c3fe81">Experience</span>: your skills and research experience
 
