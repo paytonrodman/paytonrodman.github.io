@@ -15,8 +15,14 @@ menu:
 weight: 3
 ---
 
-## CV or résumé?
+### CV or résumé?
 
-## What should it include?
+To be completed...
 
-## Aesthetics
+### What should it include?
+
+To be completed...
+
+### Aesthetics
+
+To be completed...
