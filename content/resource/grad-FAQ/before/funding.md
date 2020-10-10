@@ -41,13 +41,13 @@ In terms of specific funding sources, I cover Australia and the UK at the bottom
 
 ### What are the main kinds of funding?
 
- - Scholarships: can be awarded based on any number of personal qualities weighted in any fashion, including academic achievement, country of origin, field, age, minority status (e.g. race, gender, socioeconomic status, religion, region), and involvement in extracurricular activities like sports or music. They may be awarded by your university, your government, a company, a charity/trust, or an individual. They may be awarded per annum for a set number of years, or may be a single lump payment. 
+ - **Scholarships:** can be awarded based on any number of personal qualities weighted in any fashion, including academic achievement, country of origin, field, age, minority status (e.g. race, gender, socioeconomic status, religion, region), and involvement in extracurricular activities like sports or music. They may be awarded by your university, your government, a company, a charity/trust, or an individual. They may be awarded per annum for a set number of years, or may be a single lump payment. 
  
- - Grants and fellowships: awarded based on research, whether real or supposed. Some, like the NSF GRFP (US), require a research proposal.
+ - **Grants and fellowships:** awarded based on research, whether real or supposed. Some, like the NSF GRFP (US), require a research proposal.
  
- - Your supervisor's money: if your supervisor has been awarded a large grant, it may include enough to pay for PhD students and postdoctoral researchers.
+ - **Your supervisor's money:** if your supervisor has been awarded a large grant, it may include enough to pay for PhD students and postdoctoral researchers.
  
- - Pay in exchange for work: this would include teaching assistantships (TA-ships) and research assistantships (RA-ships) as found in the US. You must perform some duties for the university, either helping to teach undergraduates or helping another researcher in their work, in exchange for a stipend. In other countries, this work is paid more in line with casual rates and is not required, rather it is something you can opt into if you'd like a bit more pocket money. 
+ - **Pay in exchange for work:** this would include teaching assistantships (TA-ships) and research assistantships (RA-ships) as found in the US. You must perform some duties for the university, either helping to teach undergraduates or helping another researcher in their work, in exchange for a stipend. In other countries, this work is paid more in line with casual rates and is not required, rather it is something you can opt into if you'd like a bit more pocket money. 
 
 ### Anything else I need to bear in mind?
 
