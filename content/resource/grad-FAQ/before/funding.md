@@ -5,6 +5,7 @@ toc: true
 type: docs
 draft: false
 editable: false
+math: false
 
 menu:
   grad-FAQ:
@@ -35,7 +36,7 @@ In the other extreme, in some countries PhD candidates are treated as students, 
 
 In many cases, PhDs will fall somewhere in the middle, and there can be huge variation even within a single year group. Some students may have secured scholarships for 5+ years that do not require any form of teaching. Others will have no source of funding, and are living off of loans and savings. I think most people will have some combination of different funds, whether that means different scholarships/grants in different years, or a combination of smaller funding sources at any given time.
 
-Tuition for PhD candidates is a somewhat ridiculous idea so the price can be a little arbitrary. In the US for STEM PhDs, your institution may offer to "waive" or "cover" your tuition (at e.g. USD \$55,000 p.a.) on top of giving you some minimal stipend (e.g. USD \$25,000). But remember: you are not being paid USD \$80,000. You are being paid USD \$25,000. No money has changed hands on the other \$55,000.
+Tuition for PhD candidates is a somewhat ridiculous idea so the price can be a little arbitrary. In the US for STEM PhDs, your institution may offer to "waive" or "cover" your tuition (at e.g. USD \\\$55,000 p.a.) on top of giving you some minimal stipend (e.g. USD \\\$25,000). But remember: you are not being paid USD \\\$80,000. You are being paid USD \\\$25,000. No money has changed hands on the other \\\$55,000.
 
 In terms of specific funding sources, I cover Australia and the UK at the bottom of this page (based on my own experiences/knowledge).
 
