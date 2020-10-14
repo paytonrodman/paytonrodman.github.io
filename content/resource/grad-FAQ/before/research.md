@@ -99,33 +99,23 @@ while for closing you may want to use something like
 
 In Australia we have a decidedly more laid-back attitude and so I usually go with "Cheers, Payton" for my closing. But this is a distinctly Australian trait, and if you use it in email to a non-Australian, it is usually too informal and can be considered offensive (I say this in warning to fellow Aussies!). This is because Australia's system of respect is largely reversed.
 
-The most important thing is that you use the person's proper **title**. What this proper title _is_ can be confusing because it depends on job title, the highest degree held by the person, and the culture of academia in the country the person resides in or was trained/taught in. Below are some typical job titles in different countries (Australia, the US, and the UK), but it varies a bit even between universities in the same country. This can make it very confusing to figure out the appropriate form of address!
+The most important thing is that you use the person's proper **title**. What this proper title _is_ can be confusing because it depends on job title, the highest degree held by the person, and the culture of academia in the country the person resides in or was trained/taught in. Below are some typical job titles in two different countries (the US and the UK), but it varies a bit even between universities in the same country. This can make it very confusing to figure out the appropriate form of address!
 
 ```mermaid
 graph TD;
-  subgraph Australia
-  A(PhD)-->B(Postdoctoral);
-  B(Postdoctoral)-->C(Lecturer);
-  C(Lecturer)-->D(Senior Lecturer);
-  D(Senior Lecturer)-->E(Associate Professor);
-  E(Associate Professor)-->F(Professor);
-  classDef website fill:#e8c8c7,stroke:#9d1512,stroke-width:2px
-  class A,B,C,D,E,F website
-  end
-  style Australia fill:none,stroke:none
   subgraph US
-  AA(PhD)-->BB(Postdoctoral);
-  BB(Postdoctoral)-->CC(Assistant Professor);
+  AA(PhD Candidate)-->BB(Postdoctoral Researcher/Fellow);
+  BB(Postdoctoral Researcher/Fellow)-->CC(Assistant Professor);
   CC(Assistant Professor)-->DD(Associate Professor);
   DD(Associate Professor)-->EE(Professor);
-  EE(Professor)-->FF(Distinguished Prof.);
+  EE(Professor)-->FF(Distinguished Professor);
   classDef website fill:#e8c8c7,stroke:#9d1512,stroke-width:2px
   class AA,BB,CC,DD,EE,FF website
   end
   style US fill:none,stroke:none
   subgraph UK
-  AAA(PhD)-->BBB(Postdoctoral);
-  BBB(Postdoctoral)-->CCC(Lecturer);
+  AAA(PhD Candidate)-->BBB(Postdoctoral Researcher/Fellow);
+  BBB(Postdoctoral Researcher/Fellow)-->CCC(Lecturer);
   CCC(Lecturer)-->DDD(Senior lecturer);
   DDD(Senior lecturer)-->EEE(Reader);
   EEE(Reader)-->FFF(Professor);
