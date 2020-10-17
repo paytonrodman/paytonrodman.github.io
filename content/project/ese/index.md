@@ -10,6 +10,7 @@ share: false  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 math: true
+weight: 3
 
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
@@ -23,6 +24,10 @@ image:
   preview_only: false
   alt_text: ""
 ---
+
+{{% alert note %}}
+This project was a subcomponent of my larger project with the CSIRO, which you can read about here: [The spectral signature of interstellar scintillation](https://payton-rodman.netlify.app/project/csiro/)
+{{% /alert %}}
 
 Most cases of interstellar scintillation are quite weak, however some events are much more extreme and involve strong lensing of the radio signal by a highly localised, highly dense cloud of ionised material. These are known as Extreme Scattering Events, or ESEs. They are historically discovered by post-production analysis of lightcurves, however, the ATESE group has now pioneered a new method of real-time spectral analysis. 
 
