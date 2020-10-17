@@ -16,7 +16,7 @@ menu:
 weight: 2
 ---
 
-#### The Rhodes Scholarship
+### The Rhodes Scholarship
 {{% alert warning %}}
 For the most up-to-date and comprehensive information, please be sure to check out the Rhodes website at [`www.rhodeshouse.ox.ac.uk`](https://www.rhodeshouse.ox.ac.uk/)
 {{% /alert %}}
@@ -31,7 +31,7 @@ It covers up to 2 years of study in the first instance or 3 years for DPhil stud
 
 There are also additional funds available to support scholars in attending conferences, completing fieldwork, and settling in to the country.
 
-#### The Gates-Cambridge Scholarship
+### The Gates-Cambridge Scholarship
 {{% alert warning %}}
 For the most up-to-date and comprehensive information, please be sure to check out the Gates website at [`www.gatescambridge.org`](https://www.gatescambridge.org/)
 {{% /alert %}}
