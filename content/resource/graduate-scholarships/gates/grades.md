@@ -24,4 +24,5 @@ On this same scale, the minimum acceptable GPA for admission to Cambridge sits s
 
 This isn't merely some pointless hoop to jump through. Since being at Cambridge (I write this in my second year), I've realised that the undergraduates here are at least **1 whole year** ahead of the students at other institutions. Even if you have a degree from MIT, you are no exception to this and **will** find yourself playing catch-up. The high bar on entry is to ensure that you can keep up, because placing you into such a fast-paced environment without adequate preparation isn't "providing you with an opportunity", it's cruel and setting you up for devastating failure, and Cambridge knows it. On the flip side, if they have admitted you then they are saying you can handle the workload, and you should not doubt them on it.
 
-**Not sure if your grades are high enough?** Talk to your local Gates representative, your prospective supervisor, or your scholarships office! They've likely seen multiple applicants for Gates over the years and can advise you on any weak points.
+#### Not sure if your grades are high enough?
+Talk to your local Gates representative, your prospective supervisor, or your scholarships office! They've likely seen multiple applicants for Gates over the years and can advise you on any weak points.
