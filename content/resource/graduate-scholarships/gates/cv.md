@@ -20,14 +20,14 @@ In Australia we tend to use “CV” and “résumé” interchangeably at many 
 
 Regardless of what you choose to call it at this stage, there are a few simple guidelines to follow, and I’d also recommend Googling “academic CV” for more tips. You can look at my own to get an idea of layout, but this is going to be regularly updated and is not the one I originally submitted. And remember: writing a CV is always a fine balance between humility and bragging. Never lie, but never downplay or hide your achievements either. Everything you say should be undeniably true, but the way in which you present those achievements is more of an art form.
 
- - **Your CV should be succinct, neat, and clearly laid-out**.
+ - {{< hl >}}Your CV should be succinct, neat, and clearly laid-out{{< /hl >}}.
 
- - **No “creative” fonts, no borders, no coloured or scented paper, no images** (whether you should include a head-and-shoulders photo and personal info like marriage status varies by culture–for Australia, UK, and the US, it’s a “no”).
+ - {{< hl >}}No “creative” fonts, no borders, no coloured or scented paper, no images{{< /hl >}} (whether you should include a head-and-shoulders photo and personal info like marriage status varies by culture–for Australia, UK, and the US, it’s a “no”).
 
- - **Use colour wisely and sparingly**, if at all, as your document may be printed in B&W.
+ - {{< hl >}}Use colour wisely and sparingly{{< /hl >}}, if at all, as your document may be printed in B&W.
 
- - **Don’t use “infographic”-style metrics**, like bars or graphs to show competency and skill. Statements should be easily interpretable, and 4 stars out of 5 on “organisation” or “programming” has little meaning.
+ - {{< hl >}}Don’t use “infographic”-style metrics{{< /hl >}}, like bars or graphs to show competency and skill. Statements should be easily interpretable, and 4 stars out of 5 on “organisation” or “programming” has little meaning.
 
- - **Use concrete examples and outcomes to demonstrate skills and achievement**. For each job, you should be able to say what you did and what you achieved. Don’t be generic here, and be wary of any sentences that start with any version of “I helped do X”. This hides or obscures your contribution.
+ - {{< hl >}}Use concrete examples and outcomes to demonstrate skills and achievement{{< /hl >}}. For each job, you should be able to say what you did and what you achieved. Don’t be generic here, and be wary of any sentences that start with any version of “I helped do X”. This hides or obscures your contribution.
 
- - **Be consistent with layout**, e.g. place all dates on the same side of the page and don’t mix bullet points with paragraphs. Someone glancing at your CV should be able to immediately pick up on the flow and find the information they need. Selective use of bold, text size, and alignment can help this.
+ - {{< hl >}}Be consistent with layout{{< /hl >}}, e.g. place all dates on the same side of the page and don’t mix bullet points with paragraphs. Someone glancing at your CV should be able to immediately pick up on the flow and find the information they need. Selective use of bold, text size, and alignment can help this.
