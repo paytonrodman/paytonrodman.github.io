@@ -24,4 +24,5 @@ Given that the minimum grade required for admission to your Oxford degree is lik
 
 Why such a high bar to start with? It's partly because Oxford can afford it: loads of people with high GPAs/grades apply, and so they get to be choosy amongst them. It's also partly for your own good: Oxford is fast-paced and the students are advanced, and you must prove you can keep up. No Rhodes scholar should *ever* drop out. 
 
-**Not sure if your grades are high enough?** Talk to your local Rhodes representative! It's their job to help filter applicants and they can advise you on any weak points.
+#### Not sure if your grades are high enough?
+Talk to your local Rhodes representative! It's their job to help filter applicants and they can advise you on any weak points.
