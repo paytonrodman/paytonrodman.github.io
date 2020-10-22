@@ -1,11 +1,11 @@
 ---
 # Course title, summary, and position.
-linktitle: Guide to graduate applications
+linktitle: A guide to graduate applications
 summary: "Thoughts, tips, and tricks in the graduate school admission process"
 weight: 1
 
 # Page metadata.
-title: Guide to graduate applications
+title: A guide to graduate applications
 draft: false  # Is this a draft? true/false
 toc: false  # Show table of contents? true/false
 type: docs  # Do not modify.
