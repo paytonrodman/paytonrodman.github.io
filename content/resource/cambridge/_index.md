@@ -6,7 +6,7 @@ weight: 1
 
 # Page metadata.
 title: Applying to Cambridge
-draft: trye  # Is this a draft? true/false
+draft: true  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 type: docs  # Do not modify.
 editable: false
