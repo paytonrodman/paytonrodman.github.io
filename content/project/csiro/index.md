@@ -19,7 +19,7 @@ weight: 2
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: ""
+  caption: "<i class="fas fa-camera"></i> Orion Nebula, from Hubble (NASA and STScI)"
   focal_point: "Center"
   preview_only: false
   alt_text: ""
