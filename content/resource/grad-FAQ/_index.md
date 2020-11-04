@@ -26,4 +26,6 @@ Over the course of the following pages, I may openly contradict advice you have 
 
 I have also linked some other (very extensive!) guides in my [Useful Links](https://www.paytonelyce.com/resource/useful-links/applying/) page, so be sure to check those out! 
 
+{{% toc %}}
+
 {{< list_children >}}
