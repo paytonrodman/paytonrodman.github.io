@@ -28,13 +28,13 @@ This is most clearly seen at the undergraduate level, where applicants don't app
 
 It's a much more complicated affair for postgraduates. You will be asked to list your 2 preferred college choices on your application, but unlike undergraduates, you apply to your *department* and the *university*, who have the ultimate say in your admission. If you are accepted, you must be assigned to a college. You may not get one of your preferences, but you are guaranteed *a* college nonetheless.
 
-### But if my college choice doesn't matter for admission, why should I care?
+### But if my college choice doesn't impact my chances of admission, why should I care?
 
 You should care because the colleges are incredibly varied, and some will be much better suited to you than others.
 
 Some colleges are in the middle of town while others are on the outskirts, and many will be quite far from your department/office. Some colleges have better provisions to house families. Some colleges are better for musicians or athletes. And each college manages its own goody bag of scholarships and travel funds which you may be eligible for. Some colleges house postgraduates "on site", while others place them in flats dotted around the city.
 
-Go for the prettiest, most famous college and you may end up living in a run-down flat, very far from your department, with no special amenities to suit your hobbies, and no additional funds to lean on. This is why your college choice (your preferences) are important, and it's why you must do your homework on each one to find the one that suits you best.
+Go for the prettiest, most famous college and you may end up living in a run-down flat, very far from your department, with no special amenities to suit your hobbies, and no additional funds to lean on. Or, in the worst-case scenario, you may end up in a college that cannot provide you with a scholarship, which for many applicants means they cannot afford to attend Cambridge at all. This is why your college choice (your preferences) are important, and it's why you must do your homework on each one to find the one that suits you best. 
 
 ### Okay, so where do I go to learn more about each college?
 
