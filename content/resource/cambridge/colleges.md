@@ -36,6 +36,16 @@ Some colleges are in the middle of town while others are on the outskirts, and m
 
 Go for the prettiest, most famous college and you may end up living in a run-down flat, very far from your department, with no special amenities to suit your hobbies, and no additional funds to lean on. This is why your college choice (your preferences) are important, and it's why you must do your homework on each one to find the one that suits you best.
 
+### Okay, so where do I go to learn more about each college?
+
+You can, of course, check out each college's webpages, but for 31 colleges that's a lot of reading! Thankfully, other people have made some very useful guides to help you narrow down your search.
+
+This [The Student Room page](https://www.thestudentroom.co.uk/wiki/Cambridge_College_Pros_and_Cons) is a crowdsourced list of the pros and cons of each college.
+
+For a little bit more detail and some student testimonials, head over to the [Alternative Prospectus](https://www.applytocambridge.com/colleges).
+
+Have some specific preferences and needs? Then check out [WhichCambridgeCollege](https://www.whichcambridgecollege.com/) with its ability to filter colleges by e.g. distance to your department, age of members, family housing, societies, sports, music and other specialist equipment, and more!
+
 ### So how exactly does college allocation work?
 
 In your application, you put down 2 preferred colleges. For the sake of argument, let's say you put down Selwyn (1) and John's (2).
