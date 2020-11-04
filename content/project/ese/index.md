@@ -19,7 +19,7 @@ weight: 3
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: ""
+  caption: "Image Credit: An extreme scattering event caught in real time, by Keith Bannister (CASS). From [ATNF Daily Astronomy Picture](https://www.atnf.csiro.au/ATNF-DailyImage/archive/2016/23-Jan-2016.html)"
   focal_point: "Center"
   preview_only: false
   alt_text: ""
