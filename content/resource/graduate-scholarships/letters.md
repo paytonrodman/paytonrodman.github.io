@@ -22,4 +22,6 @@ For Rhodes, {{< hl >}}your six letters should be split evenly between academics 
 
 The Gates process here is much simpler in comparison. The only extra letter you need to organise is a sort of “character reference”. Many applicants ask one of their two academic letter writers to also write the character letter, but make sure they're aware of your plan before they write either, otherwise they may end up repeating themselves in one or both letters.
 
-I can't give you a whole lot more advice here since it's not generally accepted in physics for students to read their letters, or to draft them, so I don't know what mine said.
+You can also ask a different person to write your third letter, and this is probably a better option if you do have someone outside of your academics who can attest to your character. This person should be very familiar with your leadership work, so the "best" person will depend on the nature of that work. If this personn is not an academic and doesn't have a lot of experience with academia or these kinds of awards, you should certainly send them some information about the scholarship and its selection criteria to help them write it.
+
+I can't give you a whole lot more advice here on specifically *what* a letter should say since it's not generally accepted in Australian physics for students to read their letters, or even to draft them.
