@@ -9,7 +9,7 @@ editable: false
 
 menu:
   graduate-scholarships:
-    name: The main difference
+    parent: What are they?
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
