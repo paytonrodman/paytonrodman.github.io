@@ -9,7 +9,7 @@ editable: false
 
 menu:
   graduate-scholarships:
-    name: Transcripts, classes, and grades
+    parent: Application materials
     weight: 6
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
