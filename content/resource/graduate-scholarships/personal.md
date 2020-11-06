@@ -9,7 +9,7 @@ editable: false
 
 menu:
   graduate-scholarships:
-    name: The personal statement
+    parent: Application materials
     weight: 8
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
