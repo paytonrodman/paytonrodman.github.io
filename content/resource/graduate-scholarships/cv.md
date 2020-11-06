@@ -9,7 +9,7 @@ editable: false
 
 menu:
   graduate-scholarships:
-    name: Your CV/résumé
+    parent: Application materials
     weight: 7
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
