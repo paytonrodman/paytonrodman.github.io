@@ -17,6 +17,8 @@ weight: 1
 
 First, to give you some context, I should explain my background!
 
+### The details
+
 **Undergrad Institution:** UTAS. Not well known, even within Australia. A very small physics department.    
 **Major(s):** Physics, Applied Mathematics    
 **Minor(s):** N/A    
@@ -26,7 +28,7 @@ First, to give you some context, I should explain my background!
 **Year graduated**: 2017    
 **Position in Class:** Top?
 
-**Honours Institution:** UTAS    
+**Honours (~Masters) Institution:** UTAS    
 **Specialisation:** Physics    
 **Overall GPA:** 7.0 (/7.0)    
 **Length of Degree:** 1 year    
@@ -42,3 +44,9 @@ First, to give you some context, I should explain my background!
 **Any Miscellaneous Accomplishments that Might Help:** Some of the extracurriculars I was involved in were large enough events to make the TV and print news. I think being "google-able" in that sense is always a bit of a plus.
 
 **Special Bonus Points:** My Honours supervisor was familiar with Oxford and Cambridge, and so could probably write a letter in the style they prefer (whatever that may be).
+
+### Debrief
+
+Between my grades and research experience, I was obviously quite competitive for Oxbridge. You have to keep that in mind when reading this guide—I don't have experience overcoming a low GPA or a lack of research experience. Because of that, my approach in these applications was to focus on my leadership activities. You are quite likely to have a very different application profile to me, and so it's important to remember to {{< hl >}}focus your effort in weaker spots, whatever they may be{{< /hl >}}.
+
+So what makes me any different to all the other people who write guides? Well, I'm not from a fancy university, nor even one that's very well known. I didn't get into research during high school or have any prior connections to a university. My family is not university-educated, and the area where I grew up is not affluent. I did not do research continuously during undergrad—if you count it up, I did maybe 16 weeks full time over 2 summers and nothing during semester. All of my other extracurriculars were relatively sporadic too, with a few hours of tutoring and 1-2 weeks set aside for school visits, plus specific events like Open Days. I wasn't a member of any societies and certainly didn't lead committees for anything. For the majority of any year, I was simply working and studying as a full-time student. I didn't even know the Rhodes and Gates scholarships existed until the year I applied. Compared to many other scholars I might seem downright *plain*. But I managed it nonetheless, and perhaps you can too with the right application approach.
