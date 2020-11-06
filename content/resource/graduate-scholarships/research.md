@@ -9,7 +9,7 @@ editable: false
 
 menu:
   graduate-scholarships:
-    name: The research proposal
+    parent: Application materials
     weight: 9
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
