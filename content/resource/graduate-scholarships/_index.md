@@ -26,6 +26,6 @@ I was turned down from the Rhodes scholarship in late 2018 and accepted for the 
 Obvious disclaimer: I applied for a specific area of astrophysics from a specific state in Australia. Selection for these scholarships varies by location, subject, and year, and a great deal by individual. My view is only my own and I cannot give specific advice to individuals. 
 {{% /alert %}}
 
-{{% toc %}}
+### Table of Contents
 
 {{< list_children >}}
