@@ -30,21 +30,21 @@ Obvious disclaimer: I applied for a specific area of astrophysics from a specifi
 
 #### [What are they?](https://www.paytonelyce.com/resource/graduate-scholarships/what-are-they/)
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The main difference](https://www.paytonelyce.com/resource/graduate-scholarships/the-difference/)
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The main difference](https://www.paytonelyce.com/resource/graduate-scholarships/the-difference/)**
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The "ideal" candidate](https://www.paytonelyce.com/resource/graduate-scholarships/the-ideal-candidate/)
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The "ideal" candidate](https://www.paytonelyce.com/resource/graduate-scholarships/the-ideal-candidate/)**
 
 #### [Application materials](https://www.paytonelyce.com/resource/graduate-scholarships/application-materials/)
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Transcripts, classes, and grades](https://www.paytonelyce.com/resource/graduate-scholarships/grades/)
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Transcripts, classes, and grades](https://www.paytonelyce.com/resource/graduate-scholarships/grades/)**
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Your CV/résumé](https://www.paytonelyce.com/resource/graduate-scholarships/cv/)
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Your CV/résumé](https://www.paytonelyce.com/resource/graduate-scholarships/cv/)**
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The personal statement](https://www.paytonelyce.com/resource/graduate-scholarships/personal/)
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The personal statement](https://www.paytonelyce.com/resource/graduate-scholarships/personal/)**
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The research proposal](https://www.paytonelyce.com/resource/graduate-scholarships/research/)
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The research proposal](https://www.paytonelyce.com/resource/graduate-scholarships/research/)**
 
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Your letters of recommendation](https://www.paytonelyce.com/resource/graduate-scholarships/letters/)
+**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Your letters of recommendation](https://www.paytonelyce.com/resource/graduate-scholarships/letters/)**
 
 #### [The social event (Rhodes only)](https://www.paytonelyce.com/resource/graduate-scholarships/social/)
 
