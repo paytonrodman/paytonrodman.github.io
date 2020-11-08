@@ -30,9 +30,9 @@ Obvious disclaimer: I applied for a specific area of astrophysics from a specifi
 
 #### [What are they?](https://www.paytonelyce.com/resource/graduate-scholarships/what-are-they/)
 
-##### [The main difference](https://www.paytonelyce.com/resource/graduate-scholarships/the-difference/)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The main difference](https://www.paytonelyce.com/resource/graduate-scholarships/the-difference/)
 
-##### [The "ideal" candidate](https://www.paytonelyce.com/resource/graduate-scholarships/the-ideal-candidate/)
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [The "ideal" candidate](https://www.paytonelyce.com/resource/graduate-scholarships/the-ideal-candidate/)
 
 #### [Application materials](https://www.paytonelyce.com/resource/graduate-scholarships/application-materials/)
 
