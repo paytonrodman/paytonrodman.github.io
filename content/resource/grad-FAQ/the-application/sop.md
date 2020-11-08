@@ -54,3 +54,9 @@ A personal statement (PS) _should_ be more personal than a statement of purpose 
 ❌ Bad-talk another university, your professors, your family, etc  
 ❌ Reference the wrong university!  
 ❌ Be too wordy or use too much jargon  
+
+### Got any examples?
+
+{{% alert warning %}} You can find examples online for any field, but be careful not to plagiarise. Even the simple act of reading someone else's statement can put ideas and sentences in your head that are not originally yours. Ideally, you should do a first draft *before* reading any examples. {{% /alert %}}
+
+You can find the statement I wrote for the University of Oxford [here](https://www.paytonelyce.com/files/Oxford_personal_statement.pdf).
