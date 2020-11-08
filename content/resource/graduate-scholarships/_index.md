@@ -28,4 +28,28 @@ Obvious disclaimer: I applied for a specific area of astrophysics from a specifi
 
 ### Table of Contents
 
-{{< list_children >}}
+#### [What are they?](https://www.paytonelyce.com/resource/graduate-scholarships/what-are-they/)
+
+##### [The main difference](https://www.paytonelyce.com/resource/graduate-scholarships/the-difference/)
+
+##### [The "ideal" candidate](https://www.paytonelyce.com/resource/graduate-scholarships/the-ideal-candidate/)
+
+#### [Application materials](https://www.paytonelyce.com/resource/graduate-scholarships/application-materials/)
+
+##### [Transcripts, classes, and grades](https://www.paytonelyce.com/resource/graduate-scholarships/grades/)
+
+##### [Your CV/résumé](https://www.paytonelyce.com/resource/graduate-scholarships/cv/)
+
+##### [The personal statement](https://www.paytonelyce.com/resource/graduate-scholarships/personal/)
+
+##### [The research proposal](https://www.paytonelyce.com/resource/graduate-scholarships/research/)
+
+##### [Your letters of recommendation](https://www.paytonelyce.com/resource/graduate-scholarships/letters/)
+
+#### [The social event (Rhodes only)](https://www.paytonelyce.com/resource/graduate-scholarships/social/)
+
+#### [The interview](https://www.paytonelyce.com/resource/graduate-scholarships/interview/)
+
+#### [What if I don't win?](https://www.paytonelyce.com/resource/graduate-scholarships/dont-win/)
+
+#### [What if I do win?](https://www.paytonelyce.com/resource/graduate-scholarships/do-win/)
