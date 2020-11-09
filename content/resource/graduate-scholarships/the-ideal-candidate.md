@@ -3,7 +3,7 @@ title: The "ideal" candidate
 linktitle: The "ideal" candidate
 toc: true
 type: docs
-draft: false
+draft: true
 toc: true
 editable: false
 
