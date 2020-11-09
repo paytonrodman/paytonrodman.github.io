@@ -3,7 +3,7 @@ title: My background
 linktitle: My background
 toc: true
 type: docs
-draft: false
+draft: true
 editable: false
 
 menu:
