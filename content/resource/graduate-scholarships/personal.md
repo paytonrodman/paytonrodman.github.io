@@ -3,7 +3,7 @@ title: The personal statement
 linktitle: The personal statement
 toc: true
 type: docs
-draft: false
+draft: true
 toc: true
 editable: false
 
