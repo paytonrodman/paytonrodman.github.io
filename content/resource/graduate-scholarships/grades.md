@@ -3,7 +3,7 @@ title: "Transcripts, classes, and grades"
 linktitle: Transcripts, classes, and grades
 toc: true
 type: docs
-draft: false
+draft: true
 toc: true
 editable: false
 
