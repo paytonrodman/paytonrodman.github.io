@@ -3,7 +3,7 @@ title: The main difference
 linktitle: The main difference
 toc: true
 type: docs
-draft: false
+draft: true
 toc: true
 editable: false
 
