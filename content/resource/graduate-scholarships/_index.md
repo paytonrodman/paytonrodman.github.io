@@ -80,7 +80,7 @@ But I have no interest in lying to you. I was a strong applicant for both Gates 
 
 Your application is the story of who you are and who you want to become.
 
-[`Back to Table of Contents`](#toc)
+[:back: `Back to Table of Contents`](#toc)
 
 
 
@@ -90,7 +90,7 @@ Your application is the story of who you are and who you want to become.
 
 You should also keep in mind that I have a very specific point-of-view when writing this guide. I have won Gates and was denied Rhodes. I will try my best to be fair and to treat the scholarships equally, but I am only human and there will undoubtedly be some bias still.
 
-[`Back to Table of Contents`](#toc)
+[:back: `Back to Table of Contents`](#toc)
 
 
 ## <a name="scholarship-details"></a>The scholarship details
@@ -125,7 +125,7 @@ There are also additional discretionary funds available to scholars, including f
 
 In short, it is a full-cost scholarship. About the only thing it doesn't cover is the application fee to the University itself, which currently sits at around £60.
 
-[`Back to Table of Contents`](#toc)
+[:back: `Back to Table of Contents`](#toc)
 
 
 ## <a name="should-you-apply"></a>Should you apply?
@@ -154,7 +154,7 @@ There are a great many versions of Masters degrees offered at each university, a
 
 For PhDs, you should bear in mind the length: nominally 3 years with a possible extension to 4 years for writing up. There can be no further extension for a full-time degree. This is quite short, especially compared to a US PhD (6+ years on average), but there is no coursework. You are expected to have the equivalent of a Masters degree already, and so further courses should be unnecessary at this point in your career. Depending on the kind of project you're doing, that 3 year limit may be very stressful. You are also generally not permitted (with the exception of the IoA) to do any form of "rotation". You must pick a supervisor *before* you apply and that is the person you will do your PhD under. You must know what you want to do a PhD on.
 
-[`Back to Table of Contents`](#toc)
+[:back: `Back to Table of Contents`](#toc)
 
 
 ## <a name="the-application-process"></a>The application process
@@ -232,7 +232,7 @@ Beware: the dates below are correct as of 2020, but may shift in the future. All
 
 [^&dagger;]: May vary considerably for different panels/countries/regions.
 
-[`Back to Table of Contents`](#toc)
+[:back: `Back to Table of Contents`](#toc)
 
 
 ## <a name="application-materials"></a>Application materials
@@ -307,7 +307,7 @@ You can also ask a different person to write your third letter, and this is prob
 
 I can't give you a whole lot more advice here on specifically *what* a letter should say since it's not generally accepted in Australian physics for students to read their letters, or even to draft them.
 
-[`Back to Table of Contents`](#toc)
+[:back: `Back to Table of Contents`](#toc)
 
 
 
@@ -407,7 +407,7 @@ Personally, my interview focused on my proposed research and my outreach work. I
 
 - Sticky-tape a piece of paper with the names of your interviewers just above and behind your screen. You may want to refer to them by name during the interview, or ask a specific panel member a question at the end.
 
-[`Back to Table of Contents`](#toc)
+[:back: `Back to Table of Contents`](#toc)
 
 
 
@@ -425,7 +425,7 @@ I will warn that Rhodes announces its winners and losers in quite a public fashi
 
 Then go and get some pizza.
 
-[`Back to Table of Contents`](#toc)
+[:back: `Back to Table of Contents`](#toc)
 
 
 
@@ -440,4 +440,4 @@ Let people know about your success. Post it on Facebook, post it on Twitter, pos
 
 Finally: {{< hl >}}remember those who didn't win and remember the responsibility that you've accepted{{< /hl >}}. These scholarships aren't just money for you to chill out and have a good time, they come with the expectation that you will work hard and be an upstanding citizen. You will be scrutinized more heavily as a representative of your university, city, state, even country. It is a great opportunity, but it comes at a steep price.
 
-[`Back to Table of Contents`](#toc)
+[:back: `Back to Table of Contents`](#toc)
