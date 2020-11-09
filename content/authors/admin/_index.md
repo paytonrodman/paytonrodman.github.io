@@ -36,7 +36,7 @@ education:
   courses:
     - course: PhD in Astronomy
       institution: University of Cambridge
-      year: expected 2024
+      year: expected 2023(ish)
     - course: BSc (Hons) in Physics
       institution: University of Tasmania
       year: 2018
@@ -48,7 +48,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a current PhD student at the Institute of Astronomy within the University of Cambridge. My research interests include the theory of black hole accretion discs, specifically the production and amplification of magnetic fields via the dynamo process. I study these systems through a mix of theory and simulation using the Adaptive Mesh Refinement (AMR) code Athena++.
+I am a current PhD student at the Institute of Astronomy within the University of Cambridge, and a student of Churchill College. My research interests include the theory of black hole accretion discs, specifically the production and amplification of magnetic fields via the dynamo process. I study these systems through a mix of theory and simulation using the Adaptive Mesh Refinement (AMR) code Athena++.
 
 In the future I plan to work towards self-consistent models and realistic simulations of AGN which include accretion disks, jets, and coronae — a true “unified theory” of AGN.
 
