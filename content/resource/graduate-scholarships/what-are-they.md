@@ -3,7 +3,7 @@ title: What are the Rhodes and Gates-Cambridge scholarships?
 linktitle: What are they?
 toc: true
 type: docs
-draft: false
+draft: true
 toc: true
 editable: false
 
