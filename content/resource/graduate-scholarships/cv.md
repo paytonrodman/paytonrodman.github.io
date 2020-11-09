@@ -3,7 +3,7 @@ title: Your CV/résumé
 linktitle: Your CV/résumé
 toc: true
 type: docs
-draft: false
+draft: true
 toc: true
 editable: false
 
