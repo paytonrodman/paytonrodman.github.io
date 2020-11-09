@@ -82,7 +82,11 @@ Your application is the story of who you are and who you want to become.
 
 [:back: `Back to Table of Contents`](#toc)
 
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 ## <a name="disclaimer"></a>Disclaimer
 
@@ -91,6 +95,12 @@ Your application is the story of who you are and who you want to become.
 You should also keep in mind that I have a very specific point-of-view when writing this guide. I have won Gates and was denied Rhodes. I will try my best to be fair and to treat the scholarships equally, but I am only human and there will undoubtedly be some bias still.
 
 [:back: `Back to Table of Contents`](#toc)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 
 ## <a name="scholarship-details"></a>The scholarship details
@@ -127,6 +137,12 @@ In short, it is a full-cost scholarship. About the only thing it doesn't cover i
 
 [:back: `Back to Table of Contents`](#toc)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 
 ## <a name="should-you-apply"></a>Should you apply?
 
@@ -155,6 +171,12 @@ There are a great many versions of Masters degrees offered at each university, a
 For PhDs, you should bear in mind the length: nominally 3 years with a possible extension to 4 years for writing up. There can be no further extension for a full-time degree. This is quite short, especially compared to a US PhD (6+ years on average), but there is no coursework. You are expected to have the equivalent of a Masters degree already, and so further courses should be unnecessary at this point in your career. Depending on the kind of project you're doing, that 3 year limit may be very stressful. You are also generally not permitted (with the exception of the IoA) to do any form of "rotation". You must pick a supervisor *before* you apply and that is the person you will do your PhD under. You must know what you want to do a PhD on.
 
 [:back: `Back to Table of Contents`](#toc)
+
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 
 ## <a name="the-application-process"></a>The application process
@@ -234,6 +256,12 @@ Beware: the dates below are correct as of 2020, but may shift in the future. All
 
 [:back: `Back to Table of Contents`](#toc)
 
+&nbsp;
+
+&nbsp;
+
+&nbsp;
+
 
 ## <a name="application-materials"></a>Application materials
 
@@ -309,7 +337,11 @@ I can't give you a whole lot more advice here on specifically *what* a letter sh
 
 [:back: `Back to Table of Contents`](#toc)
 
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 ## <a name="interviews"></a>Interviews
 
@@ -409,7 +441,11 @@ Personally, my interview focused on my proposed research and my outreach work. I
 
 [:back: `Back to Table of Contents`](#toc)
 
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 ## <a name="condolences"></a>What if I don't win?
 
@@ -427,7 +463,11 @@ Then go and get some pizza.
 
 [:back: `Back to Table of Contents`](#toc)
 
+&nbsp;
 
+&nbsp;
+
+&nbsp;
 
 
 ## <a name="congratulations"></a>What if I do win?
