@@ -100,6 +100,7 @@ You should also keep in mind that I have a very specific point-of-view when writ
 For the most up-to-date and comprehensive information, please be sure to check out the Rhodes website at [`www.rhodeshouse.ox.ac.uk`](https://www.rhodeshouse.ox.ac.uk/)
 {{% /alert %}}
 
+{{% alert note %}}
 At Oxford University, PhDs/doctorates are known as DPhils
 {{% /alert %}}
 
@@ -174,7 +175,7 @@ Other major details, including all of the things you enter in your Cambridge app
 Many courses will have different deadlines depending on start date, nationality, whether you apply to funding, and the specific research group you want to work in. You can check these here for [Cambridge](https://www.postgraduate.study.cam.ac.uk/application-process/application-deadlines) and [Oxford](https://www.ox.ac.uk/admissions/graduate/courses/courses-a-z-listing)
 {{% /alert %}}
 
-{{% alert note %}}
+{{% alert note%}}
 Beware: the dates below are correct as of 2020, but may shift in the future. All dates are widely available through the scholarship websites.
 {{% /alert %}}
 
