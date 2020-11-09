@@ -13,9 +13,7 @@ interests:
   - Black holes
   - Accretion disks
   - Active Galactic Nuclei
-  - Magnetohydrodynamics
   - Magnetic dynamos
-  - Theory
 social:
   - icon: envelope
     icon_pack: fas
