@@ -20,6 +20,8 @@ editable: false
 #    weight: 1
 ---
 
+{{% alert warning %}} Look a little different? Don't worry! My website may have changed, but the content is largely the same. {{% /alert %}}
+
 ### <a name="toc"></a>Table of Contents
 
 - [**A message from the creator**](#intro)
