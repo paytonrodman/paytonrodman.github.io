@@ -3,7 +3,7 @@ title: The social event (Rhodes only)
 linktitle: The social event (Rhodes only)
 toc: true
 type: docs
-draft: false
+draft: true
 toc: true
 editable: false
 
