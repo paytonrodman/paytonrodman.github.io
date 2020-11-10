@@ -185,7 +185,7 @@ For PhDs, you should bear in mind the length: nominally 3 years with a possible 
 
 #### <a name="apply-rhodes"></a>Rhodes
 
-Firstly, in order to apply to Rhodes {{< hl >}}you must be nominated by your regional representative{{< /hl >}}. Each country is split into regions and each region is assigned a representative by the Rhodes Trust. This person (or someone they anoint) will look over your applicant profile *before* you submit any kind of formal application to the university or to the scholarship. Their job is to ensure all applicants are eligible to apply and that you are generally prepared. Some universities will offer more specialised training and mentoring to apply to such scholarships, so you may have met your local Rhodes representative very early in your studies.
+Firstly, in order to apply to Rhodes {{< hl >}}you must be nominated by your regional representative{{< /hl >}}. Each country is split into regions and each region is assigned a representative by the Rhodes Trust. This person (or someone they appoint) will look over your applicant profile *before* you submit any kind of formal application to the university or to the scholarship. Their job is to ensure all applicants are eligible to apply and that you are generally prepared. Some universities will offer more specialised training and mentoring to apply to such scholarships, so you may have met your local Rhodes representative very early in your studies.
 
 Once they give you the go ahead, you can then apply to Rhodes. This application is entirely separate to Oxford's admissions, so you'll have to keep your proposed supervisor up-to-date on your progress in the competition.
 
