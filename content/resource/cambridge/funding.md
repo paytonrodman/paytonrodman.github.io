@@ -32,5 +32,36 @@ This is an exorbitant cost for anyone to pay upfront, and many students need add
 
 At its most basic, funding is simply money you are given to help you cover the costs associated with your studies.
 
-### How do I get it?
+### What are the different kinds of funding?
 
+We can broadly split these up into 5 groups:
+
+- **University**: e.g. [Cambridge International Scholarship](https://www.cambridgetrust.org/scholarships/v-c-awards-and-cambridge-international-scholarships/)
+
+- **Research Councils**: e.g. [EPSRC](https://epsrc.ukri.org/skills/students/)
+
+- **Department / research institute**: e.g. the [MRC Laboratory of Molecular Biology](https://www2.mrc-lmb.cam.ac.uk/students/international-phd-programme/funding/)
+
+- **College**: e.g. [Jo Cox Ph.D Studentship](https://www.pem.cam.ac.uk/study-here/graduate/financial-support) at Pembroke College
+
+- External sources, such as **charities** and **overseas governments**: e.g. [Gates Cambridge](https://www.gatescambridge.org/)
+
+There can also be extra pots of money around under the name of a "bursary" or "top-up fund", so keep your eyes open and be sure to read the criteria for each award!
+
+### How do I find them?
+
+Following the examples above, your first port-of-call is the [Cambridge Trust](https://www.cambridgetrust.org/scholarships/). They link to all(?) Cambridge-proper funding, *plus* some of the college and department funds. You must remember: "Cambridge" and "the Cambridge colleges" are two different things! The other must-read is the university's [Funding Search Tool](https://www.student-funding.cam.ac.uk/) which should list all available college funds.
+
+It's also a good idea to look at individual college websites to check what scholarships are on offer. If they want you to write a bespoke statement to apply for the scholarship, it'll be stated here.
+
+Here are some links to learn more about [university funds](http://2021.postgraduate.study.staging.drupal.uis.cam.ac.uk/funding/university-funds), the [research councils](https://www.postgraduate.study.cam.ac.uk/funding/research-council-ukri), [college funding](https://www.postgraduate.study.cam.ac.uk/funding/college-funding), and [external funding](http://2021.postgraduate.study.staging.drupal.uis.cam.ac.uk/funding/external-funding).
+
+### So, how do I actually apply?
+
+You will be considered for the majority of available scholarships *automatically* so long as you tick the box in your application.
+
+Some scholarships will ask that you write a statement addressing certain criteria.
+
+Some college scholarships require that you list their college as your first choice.
+
+Some larger scholarships, like Gates, require extra letters of reference, their own bespoke statement, and interviews.
