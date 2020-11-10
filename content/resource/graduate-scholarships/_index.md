@@ -387,6 +387,8 @@ Be prepared for the inevitable "why do you want to study at Cambridge/Oxford?" o
 
 Interviews will last for around 20 minutes, which sounds like a long time but actually goes very, very quickly. Practice being succinct, and be aware that while you should take a moment to think before you speak, don't take two moments. {{< hl >}}Don’t be offended if you are cut off{{< /hl >}} or feel like you’re being rushed by the panel–they have a very tight schedule to get through and set questions they want to ask before you go.
 
+{{< hl >}}**Be prepared with your own question/s at the end!**{{< /hl >}} You will almost certainly be asked if you have any questions for the panel, and your answer should be an enthusiastic "yes!". If you are awarded one of these scholarships, it will almost certainly change your life. And you may have to decide between Gates/Rhodes and another attractive option. So what do you want to know more about? What insider knowledge do your panel members have that you could not find anywhere else? It is very important that you do not ask questions that are easily Googleable.
+
 ##### Rhodes
 
 Your panel for Rhodes will be composed of alumni and major figures in your local community. Because the Rhodes scholarship favours business leaders, you should expect the majority of your panel to come from industry, politics, or otherwise the "real world". There may be very few academics, and they are almost certainly not academics in your field.
@@ -421,7 +423,7 @@ Personally, my interview focused on my proposed research and my outreach work. I
 
 - Only wear what is comfortable. If you do not wear heels normally, now is not the time to sport a stiletto. I opted for a nice pair of [Brogues](https://www.google.com/search?q=brogues&tbm=isch) instead.
 
-- If interviewing for Rhodes, read up a little bit on major political themes and developments. You should be able to hold a semi-intelligent conversation on things ranging from general international politics, climate change, COVID-19, and major social themes in your country.
+- Read up a little bit on major political themes and developments. You should be able to hold a semi-intelligent conversation on things ranging from general international politics, climate change, COVID-19, and major social themes in your country.
 
 - Concede if you are wrong! A smart and reasonable person can be persuaded to change their opinions in light of new information. Don't assume you're supposed to "win" every argument. Sometimes you are wrong.
 
