@@ -1,26 +1,16 @@
 ---
-# Course title, summary, and position.
-# linktitle: A guide to graduate scholarships
-summary: "My experiences, both successful and unsuccessful, in applying to the Rhodes and Gates Cambridge scholarships"
+# Page title, summary, and position.
+title: Applying to Gates and Rhodes
+summary: "How I won the Gates-Cambridge scholarship and lost the Rhodes scholarship."
 weight: 1
-
 # Page metadata.
-title: How to win the Gates Cambridge scholarship, and how to lose the Rhodes.
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
-# type: docs  # Do not modify.
 editable: false 
 
 aliases:
     - /blog/2019/4/17/a-guide-to-graduate-scholarships/
 
-# Add menu entry to sidebar.
-# - name: Declare this menu item as a parent with ID `name`.
-# - weight: Position of link in menu.
-# menu:
-#  graduate-scholarships:
-#    name: Overview
-#    weight: 1
 ---
 
 {{% alert note %}} Look a little different? Don't worry! My website may have changed, but the content is largely the same. {{% /alert %}}
