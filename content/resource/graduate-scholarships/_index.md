@@ -207,8 +207,6 @@ Beware: the dates below are correct as of 2020, but may shift in the future. All
 
 ### Rhodes
 
-&nbsp;
-
 #### US citizens resident in the US
 
 - Applications open: **early July**
@@ -217,9 +215,7 @@ Beware: the dates below are correct as of 2020, but may shift in the future. All
  
 - Dinner and interviews[^&dagger;]: **mid-to-late November**
  
-- Announcement of winners[^&dagger;]: The same day as the interviews
-
-&nbsp;
+- Announcement of winners[^&dagger;]: The same day as the interviews  
 
 #### All other eligible applicants
  
@@ -232,12 +228,8 @@ Beware: the dates below are correct as of 2020, but may shift in the future. All
 - Announcement of winners[^&dagger;]: The same day as the interviews
 
 &nbsp;
-
-&nbsp;
  
 ### Gates
-
-&nbsp;
 
 #### US citizens resident in the US
 
@@ -249,9 +241,7 @@ Beware: the dates below are correct as of 2020, but may shift in the future. All
  
 - Interviews[^&dagger;]: **late January**
  
-- Announcement of winners[^&dagger;]: **early February**
-
-&nbsp;
+- Announcement of winners[^&dagger;]: **early February**  
 
 #### All other eligible applicants
 
