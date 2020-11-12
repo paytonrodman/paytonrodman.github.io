@@ -93,27 +93,7 @@ In Australia we have a decidedly more laid-back attitude and so I usually go wit
 
 The most important thing is that you use the person's proper **title**. What this proper title actually _is_ can be confusing because it depends on job title, the highest degree held by the person, and the culture of academia in the country the person resides in or was trained/taught in. Below are some typical job titles in two different countries (the US and the UK), but it varies a bit even between universities in the same country. This can make it very confusing to figure out the appropriate form of address!
 
-```mermaid
-graph TD;
-  subgraph US
-  BB(Postdoctoral Researcher/Fellow)-->CC(Assistant Professor);
-  CC(Assistant Professor)-->DD(Associate Professor);
-  DD(Associate Professor)-->EE(Professor);
-  EE(Professor)-->FF(Distinguished Professor);
-  classDef website fill:#e8c8c7,stroke:#9d1512,stroke-width:2px
-  class AA,BB,CC,DD,EE,FF website
-  end
-  style US fill:none,stroke:none
-  subgraph UK
-  BBB(Postdoctoral Researcher/Fellow)-->CCC(Lecturer);
-  CCC(Lecturer)-->DDD(Senior lecturer);
-  DDD(Senior lecturer)-->EEE(Reader);
-  EEE(Reader)-->FFF(Professor);
-  classDef website fill:#e8c8c7,stroke:#9d1512,stroke-width:2px
-  class AAA,BBB,CCC,DDD,EEE,FFF website
-  end
-  style UK fill:none,stroke:none
-```
+{{< figure library="true" src="UK-vs-US.png" title="Titles in UK and US academia" alt="UK and US academic job titles in order of increasing seniority. UK: Postdoctoral Researcher/Fellow, Lecturer, Senior Lecturer, Reader, Professor. US: Postdoctoral Researcher/Fellow, Assistant Professor, Associate Professor, Professor, Distinguished Professor">}}
 
 In the US, you may refer to all teaching staff at a university by the title {{< hl >}}Professor{{< /hl >}}, which can be shortened to {{< hl >}}Prof.{{< /hl >}}, regardless of whether that person holds a PhD or not. When someone does hold a PhD then you can refer to them as {{< hl >}}Dr.{{< /hl >}} You are unlikely to offend if you get it wrong between these two because neither one is inherently "better" than the other, and people with doctorates often ask to be referred to as Prof.
 
