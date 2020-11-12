@@ -5,7 +5,7 @@ summary: "My experiences, both successful and unsuccessful, in applying to the R
 weight: 1
 
 # Page metadata.
-title: A guide to graduate scholarships
+title: How to win the Gates Cambridge scholarship, and how to lose the Rhodes.
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 # type: docs  # Do not modify.
