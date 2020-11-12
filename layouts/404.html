@@ -2,14 +2,20 @@
 
 <div class="universal-wrapper pt-3">
 
-  <h1>{{ i18n "page_not_found" }}</h1>
+  <h1>404. Oh dear!</h1>
+  
+  <p>The page you've requested cannot be found.</p>
 
   {{/* Show search box if Academic's search engine is enabled. */}}
+  <p>You can try searching for it:</p>
   {{ if eq site.Params.search.engine 1 }}
   <form class="d-flex align-items-center mb-3">
-    <input name="q" type="search" class="form-control" placeholder="{{ i18n "search_placeholder" }}" autocomplete="off">
+    <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
   </form>
   {{ end }}
+  
+  <p>Or maybe you were looking for this?</p>
+  <li><a href="https://www.paytonelyce.com/resource/applying-to-gates-and-rhodes/">Applying to Gates and Rhodes</a></li>
 
 </div>
 
