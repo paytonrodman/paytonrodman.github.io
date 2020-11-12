@@ -18,10 +18,11 @@ authors:
 - L Rudnick
 tags: []
 categories: []
-date: '2019-02-01'
-lastmod: 2020-09-10T22:24:19+08:00
+date: '2018-11-13'
+lastmod: 2018-11-13T00:00:00+00:00
 featured: false
 draft: false
+math: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -37,7 +38,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-10T14:24:18.994502Z'
+publishDate: '2018-11-13T00:00:00.000000Z'
 publication_types:
 - 2
 abstract: We investigate the role of environment on radio galaxy properties by constructing
