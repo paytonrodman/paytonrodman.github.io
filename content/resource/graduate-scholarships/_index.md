@@ -22,7 +22,7 @@ editable: false
 
 {{% alert note %}} Look a little different? Don't worry! My website may have changed, but the content is largely the same. {{% /alert %}}
 
-## <a name="toc"></a>Table of Contents
+# <a name="toc"></a>Table of Contents
 
 - [**A message from the creator**](#intro)
 
@@ -74,7 +74,7 @@ editable: false
 
 
     
-## <a name="intro"></a>A message from the creator
+# <a name="intro"></a>A message from the creator
 
 I was turned down from the Rhodes scholarship in late 2018 and accepted for the Gates-Cambridge scholarship in early 2019. After going through the selection for both and coming out the other end experiencing both success and failure, I realised how unprepared I’d been for the process. If you’re like I was–coming from a less affluent background and without institutional training/mentoring–hopefully you will find this guide helpful.
 
@@ -90,7 +90,7 @@ Your application is the story of who you are and who you want to become.
 
 &nbsp;
 
-## <a name="disclaimer"></a>Disclaimer
+# <a name="disclaimer"></a>Disclaimer
 
 {{% alert warning %}} I applied for a specific area of astrophysics from a specific state in Australia. Selection for these scholarships varies by location, subject, and year, and a great deal by individual. My experience is only my own and I cannot give specific advice to individuals. {{% /alert %}}
 
@@ -105,9 +105,9 @@ You should also keep in mind that I have a very specific point-of-view when writ
 &nbsp;
 
 
-## <a name="scholarship-details"></a>The scholarship details
+# <a name="scholarship-details"></a>The scholarship details
 
-### <a name="rhodes"></a>Rhodes
+## <a name="rhodes"></a>Rhodes
 
 {{% alert warning %}}
 For the most up-to-date and comprehensive information, please be sure to check out the Rhodes website at [`www.rhodeshouse.ox.ac.uk`](https://www.rhodeshouse.ox.ac.uk/)
@@ -123,7 +123,7 @@ It covers up to 2 years of study in the first instance or 3 years for DPhil stud
 
 There are also additional funds available to support scholars in attending conferences, completing fieldwork, and settling in to the country.
 
-### <a name="gates"></a>Gates
+## <a name="gates"></a>Gates
 
 {{% alert warning %}}
 For the most up-to-date and comprehensive information, please be sure to check out the Gates website at [`www.gatescambridge.org`](https://www.gatescambridge.org/)
@@ -146,9 +146,9 @@ In short, it is a full-cost scholarship. About the only thing it doesn't cover i
 &nbsp;
 
 
-## <a name="should-you-apply"></a>Should you apply?
+# <a name="should-you-apply"></a>Should you apply?
 
-### <a name="the-ideal-candidate"></a>What the "ideal" candidate looks like
+## <a name="the-ideal-candidate"></a>What the "ideal" candidate looks like
 
 In general, both Rhodes and Gates are looking for students who are {{< hl >}}academically and socially accomplished{{< /hl >}}. That first point is usually not too hard to place in context–you want a high GPA, relevant experience for your field, and some publications or conference posters/presentations (if possible and relevant to your field). But the second point is a bit more nebulous. What does “socially accomplished” even mean? It doesn't mean that you have to be highly extroverted, it just means that you need to {{< hl >}}exist beyond your coursework{{< /hl >}} and beyond the bubble of your field.
 
@@ -158,13 +158,13 @@ Some show their leadership skills through a few very large activities, like bein
 
 There is more specific advice described by the funding bodies themselves, which you can find on their respective websites. I'll go through a few extra details that I think are worth discussing though.
 
-### <a name="sports"></a>Rhodes and sports
+## <a name="sports"></a>Rhodes and sports
 
 The elephant-in-the-room when it comes to Rhodes is {{< hl >}}sports{{< /hl >}}. The Rhodes scholarship has a long history of requiring and preferring that applicants have a strong sporting background, and while it's no longer a requirement, a preference does still exist. It can be supplanted by involvement in e.g. musics/arts, but in general you do need to have an additional activity that you have practiced for a long time. Personally, I have practiced martial arts for a long time. Other real examples from candidates (both unsuccessful and successful) include playing multiple instruments and an avid love for hiking.
 
 There is also quite a strong preference for fields that have a direct and immediate impact on people. Many who win Rhodes are entering law, politics, international relations, medicine, areas relating to climate change, etc. I noticed that even those applicants with less conventional backgrounds were often proposing to move into law or medicine. This is the case for many competitive scholarship programs aimed at making change in the world.
 
-### <a name="oxbridge-postgrad-system"></a>The Oxbridge postgraduate system
+## <a name="oxbridge-postgrad-system"></a>The Oxbridge postgraduate system
 
 When deciding whether to apply to Rhodes/Gates, you should first decide if you want to attend Oxford/Cambridge as a postgraduate in the first place.
 
@@ -181,21 +181,21 @@ For PhDs, you should bear in mind the length: nominally 3 years with a possible 
 &nbsp;
 
 
-## <a name="the-application-process"></a>The application process
+# <a name="the-application-process"></a>The application process
 
-### <a name="apply-rhodes"></a>Rhodes
+## <a name="apply-rhodes"></a>Rhodes
 
 Firstly, in order to apply to Rhodes {{< hl >}}you must be nominated by your regional representative{{< /hl >}}. Each country is split into regions and each region is assigned a representative by the Rhodes Trust. This person (or someone they appoint) will look over your applicant profile *before* you submit any kind of formal application to the university or to the scholarship. Their job is to ensure all applicants are eligible to apply and that you are generally prepared. Some universities will offer more specialised training and mentoring to apply to such scholarships, so you may have met your local Rhodes representative very early in your studies.
 
 Once they give you the go ahead, you can then apply to Rhodes. This application is entirely separate to Oxford's admissions, so you'll have to keep your proposed supervisor up-to-date on your progress in the competition.
 
-### <a name="apply-gates"></a>Gates
+## <a name="apply-gates"></a>Gates
 
 The application to the Gates scholarship is largely outsourced to Cambridge itself, and the sum total of your paper application will be to tick a box and to paste in your personal statement, alongside uploading your CV et cetera. 
 
 Other major details, including all of the things you enter in your Cambridge application form and your 2 academic letters of reference, are automatically passed on to the Gates committee. They also see your department's assessment of your application from an academic standpoint. In fact, {{< hl >}}you must be nominated by your department{{< /hl >}}. This means you cannot prioritise Gates over your university application. The department you apply to can only nominate a limited number of people, so if you do not impress your department academically, you will not be considered for Gates regardless of which boxes you ticked.
 
-### <a name="timeline"></a>Timelines
+## <a name="timeline"></a>Timelines
 
 {{% alert warning %}}
 Many courses will have different deadlines depending on start date, nationality, whether you apply to funding, and the specific research group you want to work in. You can check these here for [Cambridge](https://www.postgraduate.study.cam.ac.uk/application-process/application-deadlines) and [Oxford](https://www.ox.ac.uk/admissions/graduate/courses/courses-a-z-listing)
@@ -205,11 +205,11 @@ Many courses will have different deadlines depending on start date, nationality,
 Beware: the dates below are correct as of 2020, but may shift in the future. All dates are widely available through the scholarship websites.
 {{% /alert %}}
 
-#### Rhodes
+### Rhodes
 
 &nbsp;
 
-##### US citizens resident in the US
+#### US citizens resident in the US
 
 - Applications open: **early July**
 
@@ -221,7 +221,7 @@ Beware: the dates below are correct as of 2020, but may shift in the future. All
 
 &nbsp;
 
-##### All other eligible applicants
+#### All other eligible applicants
  
 - Applications open[^&dagger;]: **early June** through **early July**, but [depends on your country](https://www.rhodeshouse.ox.ac.uk/scholarships/apply/)
 
@@ -235,11 +235,11 @@ Beware: the dates below are correct as of 2020, but may shift in the future. All
 
 &nbsp;
  
-#### Gates
+### Gates
 
 &nbsp;
 
-##### US citizens resident in the US
+#### US citizens resident in the US
 
 - Applications open: **early July**
 
@@ -277,9 +277,9 @@ Beware: the dates below are correct as of 2020, but may shift in the future. All
 &nbsp;
 
 
-## <a name="application-materials"></a>Application materials
+# <a name="application-materials"></a>Application materials
 
-### <a name="grades"></a>Transcripts, classes, and grades
+## <a name="grades"></a>Transcripts, classes, and grades
 
 Competitive scholarships are, well, competitive, and all else being equal, grades are an easy way to distinguish between applicants. {{< hl >}}A perfect GPA won't necessarily help you{{< /hl >}}, but a lower GPA can certainly harm you.
 
@@ -289,7 +289,7 @@ This isn't merely some pointless hoop to jump through. Since being at Cambridge 
 
 However, even if you're scraping the bottom of the minimum requirement, it's still be worth your time to apply. You can always {{< hl >}}ask your department at Cambridge or your local Rhodes representative{{< /hl >}} to give you an idea of your chances. They have seen many people apply for Gates/Rhodes and will have a better idea of who might be successful. I prefer not to weigh in on chance-me's since I only have a sample size of 1—myself.
 
-### <a name="cv"></a>CV/résumé
+## <a name="cv"></a>CV/résumé
 
 A résumé is typically quite short (1-2 pages) and will be changed to suit each job you apply for. A curriculum vitae (CV), on the other hand, can extend into 10's of pages as it is a full record of all academic work. As a current or recently-graduated undergrad, your CV will probably be around 2-3 pages in length and will be a blended style halfway between that of a regular résumé and a full academic CV.
 
@@ -307,13 +307,13 @@ Regardless of what you choose to call it at this stage, there are a few simple g
 
  - {{< hl >}}Be consistent with layout{{< /hl >}}, e.g. place all dates on the same side of the page and don't mix bullet points with paragraphs. Someone glancing at your CV should be able to immediately pick up on the flow and find the information they need. Selective use of bold, text size, and alignment can help this.
 
-##### Rhodes wants more
+#### Rhodes wants more
 
 The Rhodes scholarship application does differ in another key way to Gates: {{< hl >}}they want more in the CV{{< /hl >}}.
 
 At graduation, your CV would typically omit all work completed prior to entering university, but Rhodes is interested in all work done and all awards received since Year 11. This, along with including your sporting or musical achievements, can really push the 3-page limit on your CV. Look for any places where information has been repeated or multiple lines can be consolidated into one. The goal here isn’t to cram as much as possible into 3 pages, but to carefully curate the “information density” on the page, making sure that the pages aren’t too sparse or too busy.
 
-### <a name="personal-statement"></a>Personal statement
+## <a name="personal-statement"></a>Personal statement
 
 {{% alert warning %}}
 The Rhodes scholarship expressly forbids that you get any help or feedback for this statement. No one can review any draft or give any substantial advice. It must be entirely your own work. For this reason, I will not review or provide feedback on this document.
@@ -327,7 +327,7 @@ The Rhodes statement leaves enough room to discuss yourself, your experience, an
 
 For the overall piece, look carefully at the rest of your application and compare it to the "ideal" candidate qualities. Look for which areas you're lacking in — this is where your statement should focus. In my case, my academics were already satisfied by my transcript, publication, and research proposal, leaving the leadership and service side of things. Applicants will usually be strong in 2-3 areas, so {{< hl >}}identify your weak area and try to shore it up through your statement{{< /hl >}}.
 
-### <a name="research-proposal"></a>Research proposal
+## <a name="research-proposal"></a>Research proposal
 
 Rhodes can be a little unclear on this one. All DPhil applicants must submit a research proposal. If your department also required a research proposal then you will submit this to Rhodes. The confusion, at least for astronomy, comes when your department asks for a research proposal that is not really a research proposal. For astrophysics, the department actually wanted a personal statement, meaning I had to double-up a bit. In my case, I made my [department's personal statement](https://www.paytonelyce.com/files/Oxford_personal_statement.pdf) much more technical and specialised to astrophysics than my [Rhodes personal statement](https://www.paytonelyce.com/files/Rhodes_personal_statement.pdf), otherwise one would have been totally redundant.
 
@@ -337,7 +337,7 @@ Make sure you understand your own research proposal fully, especially for the Ga
 
 It should be noted that my project has deviated significantly from the one I described in the proposal–this is perfectly fine and largely expected. The project will naturally change as you learn more and explore different research questions.
 
-### <a name="lor"></a>Letters of recommendation
+## <a name="lor"></a>Letters of recommendation
 
 The Rhodes scholarship application requires the most letters of recommendation (LORs) at six, with Oxford itself requiring another three, although you can ask your Oxford writers to also write for Rhodes. This is due to the fact that the Rhodes application is so disjointed and separate to the Oxford application. Gates, by contrast, requires three, two of which are automatically taken from your application to Cambridge so only one extra letter is needed, and this third letter doesn't have to be written by a third person.
 
@@ -357,13 +357,13 @@ I can't give you a whole lot more advice here on specifically *what* a letter sh
 
 &nbsp;
 
-## <a name="interviews"></a>Interviews
+# <a name="interviews"></a>Interviews
 
 If you've been contacted for an interview then you've passed the first hurdle, but the few who remain are all highly qualified like yourself so don't become complacent. Since the first part of this process relies so heavily on academics, I'd recommend forgetting about that part of your application from here on out unless it’s a significant weakness, and instead focus on how to display those leadership qualities that both programs look for.
 
 The precise interview questions you'll be asked depends on yourself (your experience, field, and career goals), the panel, and the round you're interviewing in.
 
-### <a name="social"></a>The social event (Rhodes only)
+## <a name="social"></a>The social event (Rhodes only)
 
 As part of the application process, and prior to the interview, you are required to attend a social event with the other finalists and the panel members who will be interviewing you. This is quite a nerve-wracking experience, especially if you haven't been trained for it.
 
@@ -373,7 +373,7 @@ In Tasmania, we remained in our assigned seats for the evening. In the ACT, cand
 
 For both this event and the later interview, some panel members may be quite combative and you will be asked for your opinion on some heavy topics; {{< hl >}}read up on recent events and don't take it too personally if someone gets argumentative{{< /hl >}} or even plain rude. I had one person ask me how I could possibly justify studying astrophysics given climate change is far more important. They just want to see how you’ll handle yourself under a bit of pressure.
 
-##### Tips and tricks
+#### Tips and tricks
 
 - If there is a lot of cutlery (e.g. multiple forks and knives of different shapes and sizes) around your plate, start from the outside and work your way in. The outermost "layer" of utensils are for the first course.
  
@@ -385,7 +385,7 @@ For both this event and the later interview, some panel members may be quite com
 
 - Be nice to everyone. It's true that your main "targets" are the panel members, but there are more interviewees than interviewers, and you can't expect to be in active conversation with them all the time. Speak to the other guests, to your competitors, and even to the staff if they seem willing. One of my best conversations was with a gardener while waiting for the main doors to open.
 
-### <a name="general-interview"></a>General interview advice
+## <a name="general-interview"></a>General interview advice
 
 Start by collating all of your application materials, then go through each one and try to think of questions you could ask about each part. Write out these questions and then give broad answers to them. Speak out loud. Dictate them. Write them down. {{< hl >}}Try to imagine the conversation{{< /hl >}} and any additional questions that someone could ask based on your answers. Don't be afraid to take the questioning to quite a deep or personal level; even if these questions are not asked during the interview, you can't answer anything on the day with conviction unless you know yourself and your motivations.
 
@@ -403,7 +403,7 @@ Interviews will last for around 20 minutes, which sounds like a long time but ac
 
 &nbsp;
 
-##### Rhodes
+#### Rhodes
 
 Your panel for Rhodes will be composed of alumni and major figures in your local community. Because the Rhodes scholarship favours business leaders, you should expect the majority of your panel to come from industry, politics, or otherwise the "real world". There may be very few academics, and they are almost certainly not academics in your field.
 
@@ -415,7 +415,7 @@ For some rounds in particular, they will ask all interviewees the *exact* same q
 
 &nbsp;
 
-##### Gates
+#### Gates
 
 The Gates interviews are conducted by panel: Arts, Biological sciences, Physical sciences, Social sciences.
 
@@ -427,7 +427,7 @@ Personally, my interview focused on my proposed research and my outreach work. I
 
 &nbsp;
 
-##### Tips and tricks (for in-person)
+#### Tips and tricks (for in-person)
 
 - If required, and if possible, schedule flights with your sleep in mind. You will probably toss and turn the night before, and if you book an early flight, it could mean very little shut-eye.
 
@@ -447,7 +447,7 @@ Personally, my interview focused on my proposed research and my outreach work. I
 
 &nbsp;
 
-##### Tips and tricks (for online calls)
+#### Tips and tricks (for online calls)
 
 - If interviewing online, place your laptop on a small stack of books. This keeps the camera at a level angle to your face, so the interviewers aren't looking up your nose.
 
@@ -471,7 +471,7 @@ Personally, my interview focused on my proposed research and my outreach work. I
 
 &nbsp;
 
-## <a name="condolences"></a>What if I don't win?
+# <a name="condolences"></a>What if I don't win?
 
 {{< hl >}}Don't beat yourself up!{{< /hl >}}
 
@@ -494,7 +494,7 @@ Then go and get some pizza.
 &nbsp;
 
 
-## <a name="congratulations"></a>What if I do win?
+# <a name="congratulations"></a>What if I do win?
 
 {{< hl >}}Congratulations!{{< /hl >}}
 
