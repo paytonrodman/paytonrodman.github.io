@@ -33,23 +33,13 @@ Or, there may be plenty of opportunities and you may even have some offers, but 
 
 ### How do I find groups to join?
 
-Let's walk you through it! As an example, let's say we're an undergraduate student in physics who'd like to do research in theoretical condensed matter physics.
+Let's walk you through it!
 
 Your first port-of-call should be the homepage for the department of interest. You can tell that you've hit a department page because the style will typically be more outdated. While the university homepage is sleek and all curves, the department homepage may be more reminiscent of Windows 98 — all edges.
 
-{{< figure library="true" src="harvard_homepage.png" title="The Harvard university homepage" alt="The Harvard university homepage" style="float: left; margin-right: 10px;" >}}
-{{< figure library="true" src="harvard_phys_homepage_2.png" title="The Harvard university physics department homepage" alt="The Harvard university physics department homepage" style="float: right; margin-left: 10px;" >}}
+You can also tell by the web address. For example, the Harvard university website address is `www.harvard.edu`, while the physics department homepage is `www.physics.harvard.edu`. 
 
-You can also tell by the web address. For Harvard university general it is `www.harvard.edu`, while the physics homepage is `www.physics.harvard.edu`.
-
-Once here, we want to check out the research that they do at this university, so head over to the research tab. In this case, Harvard very usefully provides an option to check out "Faculty by research area", so we'll head there. If this option isn't available then you can typically navigate to the research directory and find lists of affiliated researchers under the different topic banners anyway, or you can head to the "Faculty" or "People" page and check fields individually.
-
-Under Harvard's "Faculty by research area" page, we're faced with a list of subject areas and the names of academics who do research in those areas. We're interested in theoretical condensed matter physics, so we look in the area I've highlighted. If we click on the first person in this list then we're taken to an individual researcher's page; in this case, Eugene Demler, who is a Professor of physics. On this page, Prof. Demler describes his main research interests and his motivations for researching them. There are links to his personal webpage and that of his wider research group. There is also contact information, including an email address. 
-
-{{< figure library="true" src="harvard_list.png" title="A list of researchers by area" alt="A list of researchers by area" style="float: left; margin-right: 10px;" >}}
-{{< figure library="true" src="harvard_person.png" title="A researcher's profile page" alt="A researcher's profile page" style="float: right; margin-left: 10px;" >}}
-
-Sometimes these faculty pages will have links to an academic's published papers, but in this case we need to head to Prof. Demler's personal webpage and/or the group webpage. You should do this and try to skim read any recent papers or project summaries. Does this look like research you'd be interested in?
+If you want a quick overview of what major research topics are studied at a university then you should head to "research". Once you know that this department researches a field you're interested in, you can check individual researchers' pages either here or through the "people" tab. An individual's page *should* include a rough overview of their research focus, with links to any personal pages and recent publications. You should have a brief skim of these to make sure it's what you want. There will also be a section for contact information, including an email address. 
 
 Also be sure to check the CV of potential supervisors and be on the look-out for a section about mentoring, where they list students (from undergraduate to PhD) who they've supervised. You might want to contact a previous student to ask them what that person was like as a supervisor.
 
@@ -99,14 +89,13 @@ while for closing you may want to use something like
 
 > "Kind regards, Jane"
 
-In Australia we have a decidedly more laid-back attitude and so I usually go with "Cheers, Payton" for my closing. But this is a distinctly Australian trait, and if you use it in email to a non-Australian, it is usually too informal and can be considered offensive (I say this in warning to fellow Aussies!). This is because Australia's system of respect is largely reversed.
+In Australia we have a decidedly more laid-back attitude and so I usually go with "Cheers, Payton" for my closing. But this is a distinctly Australian trait and it is usually too informal outside of Australia. This is to say: don't follow my example!
 
-The most important thing is that you use the person's proper **title**. What this proper title _is_ can be confusing because it depends on job title, the highest degree held by the person, and the culture of academia in the country the person resides in or was trained/taught in. Below are some typical job titles in two different countries (the US and the UK), but it varies a bit even between universities in the same country. This can make it very confusing to figure out the appropriate form of address!
+The most important thing is that you use the person's proper **title**. What this proper title actually _is_ can be confusing because it depends on job title, the highest degree held by the person, and the culture of academia in the country the person resides in or was trained/taught in. Below are some typical job titles in two different countries (the US and the UK), but it varies a bit even between universities in the same country. This can make it very confusing to figure out the appropriate form of address!
 
 ```mermaid
 graph TD;
   subgraph US
-  AA(PhD Candidate)-->BB(Postdoctoral Researcher/Fellow);
   BB(Postdoctoral Researcher/Fellow)-->CC(Assistant Professor);
   CC(Assistant Professor)-->DD(Associate Professor);
   DD(Associate Professor)-->EE(Professor);
@@ -116,7 +105,6 @@ graph TD;
   end
   style US fill:none,stroke:none
   subgraph UK
-  AAA(PhD Candidate)-->BBB(Postdoctoral Researcher/Fellow);
   BBB(Postdoctoral Researcher/Fellow)-->CCC(Lecturer);
   CCC(Lecturer)-->DDD(Senior lecturer);
   DDD(Senior lecturer)-->EEE(Reader);
@@ -129,9 +117,9 @@ graph TD;
 
 In the US, you may refer to all teaching staff at a university by the title {{< hl >}}Professor{{< /hl >}}, which can be shortened to {{< hl >}}Prof.{{< /hl >}}, regardless of whether that person holds a PhD or not. When someone does hold a PhD then you can refer to them as {{< hl >}}Dr.{{< /hl >}} You are unlikely to offend if you get it wrong between these two because neither one is inherently "better" than the other, and people with doctorates often ask to be referred to as Prof.
 
-In many other countries, the {{< hl >}}Professor{{< /hl >}} title is reserved for those whose _job title_ is that of a Professor as it is a distinguished group and considered a higher position than {{< hl >}}Dr{{< /hl >}}. You _may_ offend if you get this wrong, particularly if you use Dr (a lower title) where you should have used Prof., but offense should be rare and if someone is truly offended at this mistake then you probably don't want to intern under them anyway.
+In many other countries, the {{< hl >}}Professor{{< /hl >}} title is reserved for those whose _job title_ is that of a Professor. Note that in the UK diagram above, Professor is the highest position available, unlike in the US. You _may_ offend if you get this wrong, particularly if you use Dr where you should have used Prof., but offense should be rare and if someone is truly offended at this mistake then you probably don't want to intern under them anyway.
 
-**Do not use Mr/Mrs/Ms/Miss/Sir/Madam/Mx**. Firstly, you're almost certainly emailing someone who holds a PhD and so the honorific should be Dr in recognition of that. Secondly, almost all options (Mr/Mrs/Ms/Miss/Sir/Madam) are inherently gendered, and for women many common options are based on marital status (Mrs/Miss). Both of these things are personal and you should not assume them based on perceived gender or age. For women in particular, where you are often less well-respected than your male colleagues by default, being referred to as Miss or Mrs can be incredibly offensive. Don't do it. If someone wants to be referred to using one of the above titles, or by their first name or a nickname, they will ask you to do so. When in doubt, use the higher title (e.g. Dr or Prof) and allow the person to correct you if they would prefer Mr, Ms, or Mx.
+**Do not use Mr/Mrs/Ms/Miss/Sir/Madam/Mx**. Firstly, you're almost certainly emailing someone who holds a PhD. Secondly, almost all options (Mr/Mrs/Ms/Miss/Sir/Madam) are inherently gendered, and for women many common options are based on marital status (Mrs/Miss). Both of these things are personal and you should not assume them based on perceived gender or age. For women in particular, where you are often less well-respected than your male colleagues by default, being referred to as Miss or Mrs can be offensive. If someone wants to be referred to using one of the above titles, or by their first name or a nickname, they will ask you to do so. When in doubt, use the higher title (e.g. Dr or Prof) and allow the person to correct you if they would prefer something else.
 
 ### Is it better to stay with one group for a long time or to work with multiple groups for short periods?
 
