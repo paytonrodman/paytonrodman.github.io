@@ -11,6 +11,9 @@ toc: true  # Show table of contents? true/false
 # type: docs  # Do not modify.
 editable: false 
 
+aliases:
+    - /blog/2019/4/17/a-guide-to-graduate-scholarships/
+
 # Add menu entry to sidebar.
 # - name: Declare this menu item as a parent with ID `name`.
 # - weight: Position of link in menu.
