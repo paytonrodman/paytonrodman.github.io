@@ -6,7 +6,6 @@ type: docs
 draft: false
 editable: false
 math: false
-diagram: true
 
 menu:
   grad-FAQ:
