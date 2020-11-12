@@ -22,9 +22,13 @@ editable: false
 
 {{% alert note %}} Look a little different? Don't worry! My website may have changed, but the content is largely the same. {{% /alert %}}
 
-# <a name="toc"></a>Table of Contents
+I was turned down from the Rhodes scholarship in late 2018 and accepted for the Gates-Cambridge scholarship in early 2019. After going through the selection for both and coming out the other end experiencing both success and failure, I realised how unprepared I’d been for the process. If you’re like I was–coming from a less affluent background and without institutional training/mentoring–hopefully you will find this guide helpful.
 
-- [**A message from the creator**](#intro)
+But I have no interest in lying to you. I was a strong applicant for both Gates and Rhodes, even if I didn't know it at the time. I had very good grades and extensive research experience. My own combination of strengths and weaknesses was what informed my approach to the applications. If you have a significantly different profile—for example, a lower GPA—then your application style, your *modus operandi*, will necessarily be different to mine.
+
+Your application is the story of who you are and who you want to become.
+
+# <a name="toc"></a>Table of Contents
 
 - [**Disclaimer**](#disclaimer)
 
@@ -73,22 +77,6 @@ editable: false
 - [**What if I do win?**](#congratulations)
 
 
-    
-# <a name="intro"></a>A message from the creator
-
-I was turned down from the Rhodes scholarship in late 2018 and accepted for the Gates-Cambridge scholarship in early 2019. After going through the selection for both and coming out the other end experiencing both success and failure, I realised how unprepared I’d been for the process. If you’re like I was–coming from a less affluent background and without institutional training/mentoring–hopefully you will find this guide helpful.
-
-But I have no interest in lying to you. I was a strong applicant for both Gates and Rhodes, even if I didn't know it at the time. I had very good grades and extensive research experience. My own combination of strengths and weaknesses was what informed my approach to the applications. If you have a significantly different profile—for example, a lower GPA—then your application style, your *modus operandi*, will necessarily be different to mine.
-
-Your application is the story of who you are and who you want to become.
-
-[`Back to Table of Contents` :leftwards_arrow_with_hook:](#toc)
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
 
 # <a name="disclaimer"></a>Disclaimer
 
