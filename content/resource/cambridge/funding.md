@@ -58,10 +58,22 @@ Here are some links to learn more about [university funds](http://2021.postgradu
 
 ### So, how do I actually apply?
 
-You will be considered for the majority of available scholarships *automatically* so long as you tick the box in your application.
+**You will be considered for the majority of available scholarships *automatically* so long as you tick the box in your application.**
 
 Some scholarships will ask that you write a statement addressing certain criteria.
 
 Some college scholarships require that you list their college as your first choice.
 
 Some larger scholarships, like Gates, require extra letters of reference, their own bespoke statement, and interviews.
+
+### How are scholarships allocated?
+
+It depends on their source and criteria.
+
+Those awarded by the university-at-large (e.g. the Cambridge International) will generally be awarded based on merit, i.e. academic achievement. This is measured through your previous educational attainment and any publications or significant research work. The criteria for these will be quite vague, and they are usually available to many students across many areas of study.
+
+Other scholarships, often those awarded by charities or philanthropists, can have more specific and strict criteria, and due to the law around these philanthropic donations, there is no wiggle room. A scholarship set up for the children of grocers in Nottingham cannot be awarded to the children of mechanics in Nottingham or the children of grocers in London. While merit is still taken into account, the awardee will be the best candidate who fulfils the criteria, and not necessarily the best candidate in the entire department. And if there is no candidate who fulfils the criteria then that scholarship will not be awarded that year.
+
+The very best candidate for one scholarship is quite likely to be a top candidate for other scholarships too, and so the best candidates will often recieve multiple offers of funding. To keep things fair, you cannot receive more than you need to cover your base costs, and so someone awarded 2 full-cost scholarships must accept one and decline the other. The award they decline will then go to the second choice, the process repeating until someone accepts. This can take quite a few weeks, and it's part of the reason why some awards are still being given out in July and August.
+
+Funds can also be paid in full or as a partial award, and this makes the funding process far more complicated. If we have a scholarship worth £60,000 then we could give the full £60k to a single student and cover their tuition and living costs entirely. Or we could award £30k to two students, or £20k to three, etc. Many students combine multiple smaller awards to cover their costs, so the £30k and £20k awards could be the final push that allows those students to attend Cambridge. In the first case (the full award), only one student is able to attend. In the other cases (splitting the award), we may have 2-3 students who can now attend. Again, the process whereby students consider the funding offer before accepting/declining can cause some awards to be given out quite late.
