@@ -10,25 +10,6 @@ editable: false
 
 ---
 
-+++
-
-# Call to action links (optional).
-#   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
-#   Remove a link/note by deleting a cta/note block.
-[cta]
-  url = "https://wowchemy.com/docs/install/"
-  label = "Get Started"
-  icon_pack = "fas"
-  icon = "download"
-  
-[cta_alt]
-  url = "https://wowchemy.com"
-  label = "View Documentation"
-
-+++
-
-
-
 <div class="content-body" data-js-component="contentBody">
         <div class="content-body__text" data-js-component="quickRead">
                 <div id="content-body__toggle" class="toggled-left">
