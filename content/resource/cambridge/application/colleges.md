@@ -1,6 +1,6 @@
 ---
-title: Colleges???
-linktitle: Colleges???
+title: Choosing a college
+linktitle: Choosing a college
 toc: true
 type: docs
 draft: true
@@ -9,7 +9,7 @@ editable: false
 
 menu:
   cambridge:
-    name: Colleges???
+    parent: Making your application
     weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
