@@ -1,6 +1,6 @@
 ---
-title: Filling in the application
-linktitle: Filling in the application
+title: The application form
+linktitle: The application form
 toc: true
 type: docs
 draft: true
@@ -9,7 +9,7 @@ editable: false
 
 menu:
   cambridge:
-    name: Filling in the application
+    parent: Making your application
     weight: 3
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
