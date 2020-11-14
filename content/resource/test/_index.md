@@ -1,4 +1,5 @@
 ---
+widget: slider
 # Page title, summary, and position.
 title: Test page
 summary:
