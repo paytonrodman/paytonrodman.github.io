@@ -9,7 +9,7 @@ editable: false
 
 menu:
   cambridge:
-    name: Finding funding
+    name: Making your application
     weight: 4
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
