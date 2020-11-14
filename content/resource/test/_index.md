@@ -8,7 +8,7 @@ draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 editable: false 
 
-links:
+url_custom:
   - icon_pack: fab
     icon: twitter
     name: Follow
