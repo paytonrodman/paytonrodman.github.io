@@ -9,8 +9,8 @@ toc: false  # Show table of contents? true/false
 editable: false 
 
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
+  # overlay_image: /assets/images/unsplash-image-1.jpg
+  # caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
   actions:
     - label: "Foo Button"
       url: "#foo"
