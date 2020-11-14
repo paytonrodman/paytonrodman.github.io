@@ -10,6 +10,8 @@ editable: false
 
 ---
 
+{{% button href="https://getgrav.org/" %}}Get Grav{{% /button %}}
+
 <div class="content-body" data-js-component="contentBody">
         <div class="content-body__text" data-js-component="quickRead">
                 <div id="content-body__toggle" class="toggled-left">
