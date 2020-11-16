@@ -35,6 +35,10 @@ weight: 1
  - Miles Currie’s ["Honest advice for the astronomy grad school application process"](http://astrophysics.physics.fsu.edu/documents/currie_grad_school_advice.pdf)
  
  - Linda and Steve Hayes’ ["How to apply to graduate school"](https://psych.hanover.edu/handbook/applic2.html): advice for psychology, but broadly applicable
+ 
+ - Karthik Raghunathan's [Demystifying the American Graduate Admissions Process](https://nlp.stanford.edu/~rkarthik/DAGAP.pdf): largely targetted to Masters applicants
+ 
+ - Mor Harchol-Balter's [Applying to Ph.D. Programs in Computer Science](https://www.cs.cmu.edu/~harchol/gradschooltalk.pdf)
 
  - [Material to provide to your letter writers](http://www.as.utexas.edu/astronomy/education/template.txt)
  
