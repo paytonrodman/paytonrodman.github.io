@@ -19,23 +19,35 @@ weight: 5
 The person who will ultimately supervise your work may be known as a supervisor, or alternatively a "Principle Investigator" or "Primary Investigator" (PI), indicating that the individual is the head of a research group.
 {{% /alert %}}
 
-### How do I find potential supervisors?
+ - [How do I find potential supervisors?](#find)
+ 
+ - [Do I need to reach out to people ahead of time?](#reach-out)
+
+ - [Email or phone?](#email-or-phone)
+ 
+ - [What should I say?](#what-to-say)
+ 
+### <a name="find"></a>How do I find potential supervisors?
 
 Check out [this other section]({{< relref "../before/research.md/#how-do-i-find-groups-to-join" >}}), where I detail the process for an undergraduate looking for research experience, including how to contact professors. The process is much the same for finding potential PhD supervisors!
 
-I do want to stress though: don't rely on rankings.
+I do want to stress though: don't rely too much on program rankings.
 
-It can be tempting and I know it's easier to simply outsource all of the work to some faceless company, but you neither know nor understand the methodologies these companies use. If you did, you wouldn't ever rely on them because they prioritise all of the wrong things and where they do attempt to measure important things, they measure them using quite inappropriate metrics. Rankings are a numbers game and it's both common and easy for universities to inflate their rankings without making any change to their research profile or internal processes. It is also the most broad view possible and does not accurately capture any useable unformation about individual departments or researchers. If you rely on rankings you can easily find yourself in a place that is wholly inappropriate given your interests and goals.
+It can be tempting and I know it's easier to simply outsource all of the work, but you rarely know the methodologies these companies use. If you do, then you already know that they prioritise all of the wrong things and where they do attempt to measure important things, they measure them using quite inappropriate metrics. Rankings are a numbers game and it's both common and easy for universities to inflate their rankings without making any change to their research profile or internal processes. It is also the most broad view possible and does not accurately capture any useable unformation about individual departments or researchers. If you rely on rankings you can easily find yourself in a place that is wholly inappropriate given your interests and goals.
 
-### Do I need to reach out to people ahead of time?
+### <a name="reach-out"></a>Do I need to reach out to people ahead of time?
 
 In many cases it will either be required or beneficial, although there are some notable exceptions.
 
-In the US you would typically spend the first ~2 years of a PhD doing coursework and short projects with multiple supervisors. You may not settle to one supervisor until the end of the 2nd year and so there's no great rush to identify that one person prior to applying. It can still be beneficial to identify a handful of potential supervisors and ask them about opportunities for 2 years' time, just in case someone is planning to retire or move soon, but it's more for your benefit and may not factor into admissions at all. In some cases, contacting supervisors is actively discouraged and it should say as much on the program/department pages. In this case you **should not** reach out. Not following this direction is a sign that you either haven't done your homework (you haven't read the department pages) or you're unable to follow basic directions. Neither is a good look.
+In the US you would typically spend the first ~2 years of a PhD doing coursework and short projects with multiple supervisors. You may not settle to one supervisor until the end of the 2nd year and so there's no great rush to identify that one person prior to applying. It can still be beneficial to identify a handful of potential supervisors and ask them about opportunities for 2 years' time, just in case someone is planning to retire or move soon, but it's more for your benefit and may not factor into admissions at all. 
+
+In some cases, contacting supervisors is actively discouraged and it should say as much on the program/department pages. In this case you **should not** reach out. Not following this direction is a sign that you either haven't done your homework (you haven't read the department pages) or you're unable to follow basic directions. Neither is a good look.
 
 In nearly all other cases, and particularly for programs outside of the US, reaching out to potential supervisors lies somewhere between "important" and "necessary". Potential supervisors may play a direct role in admissions, or you may need to name a supervisor in your application along with a confirmation that they would mentor you should you be accepted. And it's generally a good idea to get to know the person who might become your boss, and to make sure that your research interests and working styles will align.
 
-### How do I contact them?
+You should, however, make sure that you actually have something to say. If your only reason to reach out is to get your name in their head and introduce yourself, don't waste your or their time. You should also avoid asking any questions that can be answered online, by the department secretary, or which don't yet have an answer (e.g. "are you planning to take students in 2 years' time?"). And if you're going to ask to set up a time to chat more about research then you ought to actually have things you want to ask or talk about. 
+
+### <a name="email-or-phone"></a>Email or phone?
 
 By far the best option is by email! 
 
@@ -43,7 +55,7 @@ You can also typically find office phone numbers online, but think carefully bef
 
 If you email then you give the person time to think over your proposal and craft a reply. Cold call them and the answer may be a flat "no" when an email would garner a "yes". 
 
-### What should I say?
+### <a name="what-to-say"></a>What should I say?
 
 A general template could follow as below. (Numbers in brackets are for accessibility, and are not included in the actual email)
 
