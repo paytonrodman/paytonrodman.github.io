@@ -17,13 +17,19 @@ weight: 1
 
 You should do whatever is best for you! But to help you figure out if that's the case, consider the questions below.
 
-### Do your career goals require this specific PhD?
+ - [Do your career goals require this specific PhD?](#require)
+ 
+ - [Are you prepared for a PhD?](#prepare)
+ 
+ - [Can you afford it?](#afford)
+
+### <a name="require"></a>Do your career goals require this specific PhD?
 
 There are few careers that will require a PhD, and in many fields the only job specifically head-hunting for your PhD is academia. A PhD can be very fun and fulfilling work, but it's also 3-10+ years of your life. While many of your peers are establishing themselves in careers, settling down, putting money into savings, and possibly starting families, you will be stalled. The job you get immediately out of your PhD may be quite low-paid given your extra years of study, perhaps no more than what you could have earned with your Bachelors degree alone. You may lose _potential earnings_ for 3-10+ years, and that isn't insignificant.
 
 You should be very careful not to take on a PhD merely as a way to extend "school" or to avoid "the real world". A PhD is very unlike an undergraduate degree and so may not be enjoyable if that's your goal.
 
-### Are you prepared for a PhD?
+### <a name="prepare"></a>Are you prepared for a PhD?
 
 Depending on the country you apply to and the country where you did your undergraduate degree, you may not have had many opportunities to do undergraduate research. You may not have done an undergraduate thesis. You may be looking to change fields between undergraduate and PhD. You may not have performed as well during your undergraduate degree as you'd have liked, for whatever reason.
 
@@ -33,7 +39,7 @@ You may want to look into post-baccalaureate (postbacc) or Masters programs if y
 
 There is another sense in which you can be unprepared to take on a PhD, and that's where health is concerned. Many university students struggle with mental illness, and so you may have finished your degree in a less-than-ideal mental state. Burnout and chronic stress alone will take some time to subside, and the introduction of new or changing treatments is also destabilising. If your mental or physical health is currently poor/unstable, be very careful in starting a PhD. An extra 6-12 months of dedicated treatment now could save you from intermitting or dropping out of a PhD later. In all cases, you will want to carefully research the counselling and healthcare available within each university/country you're applying to.
 
-### Can you afford it?
+### <a name="afford"></a>Can you afford it?
 
 {{% alert note %}} Note: Here I'm discussing funding. If you're not already familiar with the way PhD projects are funded, check out the [funding section](https://payton-rodman.netlify.app/resource/grad-faq/before/funding/) {{% /alert %}}
 
