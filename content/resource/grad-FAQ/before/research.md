@@ -16,7 +16,21 @@ menu:
 weight: 3
 ---
 
-### How much does it matter?
+If you're thinking of doing a PhD then you've probably heard about research before, but what is it and why does it matter? How much experience do you need? And do you need to be published?
+
+ - [How much does it matter?](#how-much)
+ 
+ - [How do I find groups to join?](#find-groups)
+ 
+ - [How do I email them?](#email)
+ 
+ - [Is it better to stay with one group for a long time or to work with multiple groups for short periods?](#changing-groups)
+ 
+ - [Do I need to be published?](#publishing)
+ 
+ - [What about other extracurricular activities (ECs)? It is useful to work as a tutor? Should I be a teaching assistant (TA)?](#other-ecs)
+
+### <a name="how-much"></a>How much does it matter?
 
 It can matter quite a lot, anywhere between "a sizeable bonus" to "required for entry". Much of the assessment of your application is trying to answer one key question: is this person going to succeed in a PhD? As a PhD is a higher degree by _research_, one very clear way to show your potential as a researcher is to already have some experience in research. There is no better proof of your potential than a published paper or a letter from a research supervisor directly stating your skill.
 
@@ -30,7 +44,7 @@ In other cases, there might be opportunities around but they're all extremely co
 
 Or, there may be plenty of opportunities and you may even have some offers, but they don't pay or aren't accessible. This is an incredibly unfair situation and it's one of the many ways that academia shuts out low-income, disabled, and disadvantaged students. You should certainly ask whether pay or some kind of financial assistance (e.g. a rent subsidy) is possible. Alternatively, you can look for specific programs aimed to help students from disadvantaged backgrounds like the [Fisk-Vanderbilt bridge program](https://www.fisk-vanderbilt-bridge.org/program). You can also find outside funding from various fellowships and scholarships (here's a link for [POC](https://docs.google.com/spreadsheets/d/1V_pvhqWliwqLhAVcXikxAEuJPD4mwwgl9LEgOnzN-zM/)). If all else fails, you might be able to find a paid internship in a closely aligned industry. Undergraduate research internships _should_ pay their interns enough to afford rent and living expenses in the area where they're interning. Remember this challenge when you become a PhD student or permanent research staff, and then pressure your institution to provide adequate pay to its interns. Give to the next generation what you never had: an opportunity.
 
-### How do I find groups to join?
+### <a name="find-groups"></a>How do I find groups to join?
 
 Let's walk you through it!
 
@@ -44,7 +58,7 @@ Also be sure to check the CV of potential supervisors and be on the look-out for
 
 Once you've checked these things and are satisfied that it's someone you would like to work with, send them an email and ask!
 
-### How do I email them?
+### <a name="email"></a>How do I email them?
 
 There are 3 basic rules you must follow:
 
@@ -100,7 +114,7 @@ In many other countries, the {{< hl >}}Professor{{< /hl >}} title is reserved fo
 
 **Do not use Mr/Mrs/Ms/Miss/Sir/Madam/Mx**. Firstly, you're almost certainly emailing someone who holds a PhD. Secondly, almost all options (Mr/Mrs/Ms/Miss/Sir/Madam) are inherently gendered, and for women many common options are based on marital status (Mrs/Miss). Both of these things are personal and you should not assume them based on perceived gender or age. For women in particular, where you are often less well-respected than your male colleagues by default, being referred to as Miss or Mrs can be offensive. If someone wants to be referred to using one of the above titles, or by their first name or a nickname, they will ask you to do so. When in doubt, use the higher title (e.g. Dr or Prof) and allow the person to correct you if they would prefer something else.
 
-### Is it better to stay with one group for a long time or to work with multiple groups for short periods?
+### <a name="changing-groups"></a>Is it better to stay with one group for a long time or to work with multiple groups for short periods?
 
 This is up to you!
 
@@ -110,7 +124,17 @@ If you do multiple short projects then you can try your hand in a few different 
 
 I did multiple short projects and greatly enjoyed it! I also benefitted hugely from the range of experiences in both theory and observation (experiment), and although I am now in theory, my observational experience still helps me to put my theory into context and to predict what observers should see based on my work.
 
-### What about other extracurricular activities (ECs)? It is useful to work as a tutor? Should I be a teaching assistant (TA)?
+### <a name="publishing"></a>Do I need to be published?
+
+**No!!!**
+
+Good publications in a respected journal are a definite boost to your application because they're undeniable proof that you can do research at a high level, but they are not the only way to prove this. You can also demonstrate skill by getting a research supervisor to write one of your letters of recommendation. Or, you could present your results at a conference.
+
+You should also bear in mind that publishing norms vary between fields. In CS, for example, all important work is presented at conferences because the field moves too quickly for conventional journal peer-review to work. And there are big differences in the speed of projects too. If your research involves physical experiments, field work, or human participants, a single project could easily take years. Compare this to my first publication, the majority of which was completed within 12 weeks.
+
+And publications have different value depending on where they are published and what your contribution was. There are many predatory journals that will accept *anything*, and they are not well respected, nor are their contents. Publications in undergraduate journals are similarly down-weighted since it's assumed the quality or impact of the work is lower. And simply having your name appended to a paper when you did no real intellectual work on it doesn't help you when you're questioned on the topic in an interview.
+
+### <a name="other-ecs"></a>What about other extracurricular activities (ECs)? It is useful to work as a tutor? Should I be a teaching assistant (TA)?
 
 These are generally not as important as either grades or research. You may be expected to work for the university as a tutor or TA during your PhD and so you might want to get some experience in these things, but it's not likely to be a huge plus on an application. You can certainly do these things if you enjoy them and/or want to earn some money, but take care not to let your grades or research dip.
 
