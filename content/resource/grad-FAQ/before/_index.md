@@ -19,4 +19,14 @@ menu:
 weight: 3
 ---
 
-{{< list_children >}}
+The work for a PhD or Masters degree starts well before you craft your application materials and begins first with some of the most important questions you can ask yourself in this process: 
+
+- [Are you well-suited to doing a PhD/Masters?](https://www.paytonelyce.com/resource/grad-faq/before/general/)
+
+- [Are your grades high enough?](https://www.paytonelyce.com/resource/grad-faq/before/grades/)
+
+- [Do you have enough research experience?](https://www.paytonelyce.com/resource/grad-faq/before/research/)
+
+- [How should you find places to apply to?](https://www.paytonelyce.com/resource/grad-faq/before/find-supervisors/)
+
+- [Can you afford it? What's this "stipend" thing people talk about?](https://www.paytonelyce.com/resource/grad-faq/before/funding/)
