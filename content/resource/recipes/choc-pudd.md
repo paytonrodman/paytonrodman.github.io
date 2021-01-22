@@ -23,7 +23,7 @@ weight: 1
 
  - Spoon and knife
 
- - Some kind of cake dish (for reference, I use a 2L casserole dish like this but also often double the recipe)
+ - Some kind of cake dish (for reference, I use a 2L casserole dish like this ([product link](https://www.sainsburys.co.uk/gol-ui/product/oven-tableware/sainsburys-home-glass-2l-casserole-lidded-dish)) but also often double the recipe)
 
  - Oven
 
