@@ -15,7 +15,7 @@ menu:
 weight: 1
 ---
 
-### Dietary Requirements: <i class="fas fa-leaf" title="Vegetarian"></i> <i class="fas fa-cheese" title="Contains diary products"></i> <i class="fas fa-bread-slice" title="Contains gluten"></i>
+### Dietary Requirements: <i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i>
 
 ## Items Needed
 
