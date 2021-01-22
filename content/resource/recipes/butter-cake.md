@@ -1,6 +1,6 @@
 ---
-title: Self-Saucing Chocolate Pudding
-linktitle: Chocolate Pudding
+title: Butter Cake
+linktitle: Butter Cake
 toc: true
 type: docs
 draft: false
@@ -9,10 +9,10 @@ editable: false
 menu:
   recipes:
     parent: Recipes
-    weight: 1
+    weight: 2
 
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
-weight: 1
+weight: 2
 ---
 
 ### Dietary Requirements: <i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i> &nbsp; <i class="fas fa-egg" title="Contains egg"></i>
@@ -46,8 +46,6 @@ weight: 1
 | 2 cup sugar              |
 
 ## Instructions
-
-### Cake
 
 1. Preheat oven to 160deg fan-forced
 2. Grease inside of loaf tins with butter or line with baking paper
