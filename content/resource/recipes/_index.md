@@ -25,9 +25,9 @@ menu:
 ---
 ## The Recipes
 
-<i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i> &nbsp; [Self-Saucing Chocolate Pudding](https://www.paytonelyce.com/resource/recipes/choc-pudd/)
+[Self-Saucing Chocolate Pudding](https://www.paytonelyce.com/resource/recipes/choc-pudd/) &nbsp; <i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i>
 
-<i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i> &nbsp; <i class="fas fa-egg" title="Contains egg"></i> &nbsp; [Butter Cake](https://www.paytonelyce.com/resource/recipes/butter-cake/)
+[Butter Cake](https://www.paytonelyce.com/resource/recipes/butter-cake/) &nbsp; <i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i> &nbsp; <i class="fas fa-egg" title="Contains egg"></i>
 
 
 ## Guide to dietary symbols
