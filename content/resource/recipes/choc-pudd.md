@@ -1,6 +1,6 @@
 ---
 title: Self-Saucing Chocolate Pudding
-linktitle: <i class="fas fa-leaf" title="Vegetarian"></i> <i class="fas fa-cheese" title="Contains diary products"></i> <i class="fas fa-bread-slice" title="Contains gluten"></i> Chocolate Pudding
+linktitle: Chocolate Pudding
 toc: true
 type: docs
 draft: false
@@ -14,6 +14,8 @@ menu:
 # Prev/next pager order (if `docs_section_pager` enabled in `params.toml`)
 weight: 1
 ---
+
+### Dietary Requirements: <i class="fas fa-leaf" title="Vegetarian"></i> <i class="fas fa-cheese" title="Contains diary products"></i> <i class="fas fa-bread-slice" title="Contains gluten"></i>
 
 ## Items Needed
 
