@@ -32,24 +32,10 @@ menu:
 
 ## Guide to dietary symbols
 
-<i class="fas fa-seedling" title="Vegan"></i> &nbsp; Vegan
-
-<i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; Vegetarian
-
-<i class="fas fa-kiwi-bird" title="Contains poultry"></i> &nbsp; Contains poultry
-
-<i class="fas fa-hamburger" title="Contains red meat"></i> &nbsp; Contains red meat
-
-<i class="fas fa-fish" title="Contains fish"></i> &nbsp; Contains fish
-
-<i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; Contains dairy products
-
-<i class="fas fa-bread-slice" title="Contains gluten"></i> &nbsp; Contains gluten
-
-<i class="fas fa-egg" title="Contains egg"></i> &nbsp; Contains egg
-
-<i class="fas fa-wine-glass-alt" title="Contains alcohol"></i> &nbsp; Contains alcohol
-
-<i class="fas fa-coffee" title="Contains caffeine"></i> &nbsp; Contains caffeine
-
-
+| Symbol                                                     | Meaning           | Symbol                                                         | Meaning                 |
+| ---------------------------------------------------------- | ----------------- | -------------------------------------------------------------- | ----------------------- |
+| <i class="fas fa-seedling" title="Vegan"></i>              | Vegan             | <i class="fas fa-cheese" title="Contains diary products"></i>  | Contains dairy products |
+| <i class="fas fa-leaf" title="Vegetarian"></i>             | Vegetarian        | <i class="fas fa-bread-slice" title="Contains gluten"></i>     | Contains gluten         | 
+| <i class="fas fa-kiwi-bird" title="Contains poultry"></i>  | Contains poultry  | <i class="fas fa-egg" title="Contains egg"></i>                | Contains egg            |
+| <i class="fas fa-hamburger" title="Contains red meat"></i> | Contains red meat | <i class="fas fa-wine-glass-alt" title="Contains alcohol"></i> | Contains alcohol        |
+| <i class="fas fa-fish" title="Contains fish"></i>          | Contains fish     | <i class="fas fa-coffee" title="Contains caffeine"></i>        | Contains caffeine       |
