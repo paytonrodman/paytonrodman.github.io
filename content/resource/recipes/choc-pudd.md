@@ -1,6 +1,6 @@
 ---
 title: Self-Saucing Chocolate Pudding
-linktitle: Self-Saucing Chocolate Pudding
+linktitle: <i class="fas fa-leaf" title="Vegetarian"></i> <i class="fas fa-cheese" title="Contains diary products"></i> <i class="fas fa-bread-slice" title="Contains gluten"></i> Chocolate Pudding
 toc: true
 type: docs
 draft: false
