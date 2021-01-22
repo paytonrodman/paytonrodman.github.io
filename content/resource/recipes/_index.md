@@ -23,6 +23,10 @@ menu:
     name: Recipes
     weight: 1
 ---
+## The Recipes
+
+<i class="fas fa-leaf" title="Vegetarian"></i> <i class="fas fa-cheese" title="Contains diary products"></i> <i class="fas fa-bread-slice" title="Contains gluten"></i> &nbsp; [Self-Saucing Chocolate Pudding](https://www.paytonelyce.com/resource/recipes/choc-pudd/)
+
 
 ## Guide to dietary symbols
 
@@ -47,4 +51,3 @@ menu:
 <i class="fas fa-coffee" title="Contains caffeine"></i> &nbsp; Contains caffeine
 
 
-{{< list_children >}}
