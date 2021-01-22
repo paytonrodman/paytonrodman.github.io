@@ -25,15 +25,16 @@ menu:
 ---
 ## The Recipes
 
-[Self-Saucing Chocolate Pudding](https://www.paytonelyce.com/resource/recipes/choc-pudd/) &nbsp; <i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i>
-
-[Butter Cake](https://www.paytonelyce.com/resource/recipes/butter-cake/) &nbsp; <i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i> &nbsp; <i class="fas fa-egg" title="Contains egg"></i>
+| | | 
+| - | :-:|
+| [Self-Saucing Chocolate Pudding](https://www.paytonelyce.com/resource/recipes/choc-pudd/) | <i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i> |
+| [Butter Cake](https://www.paytonelyce.com/resource/recipes/butter-cake/) | <i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i> &nbsp; <i class="fas fa-egg" title="Contains egg"></i> |
 
 
 ## Guide to dietary symbols
 
 | Symbol                                                     | Meaning           | Symbol                                                         | Meaning                 |
-| ---------------------------------------------------------- | ----------------- | -------------------------------------------------------------- | ----------------------- |
+| :--------------------------------------------------------: | ----------------- | :------------------------------------------------------------: | ----------------------- |
 | <i class="fas fa-seedling" title="Vegan"></i>              | Vegan             | <i class="fas fa-cheese" title="Contains diary products"></i>  | Contains dairy products |
 | <i class="fas fa-leaf" title="Vegetarian"></i>             | Vegetarian        | <i class="fas fa-bread-slice" title="Contains gluten"></i>     | Contains gluten         | 
 | <i class="fas fa-kiwi-bird" title="Contains poultry"></i>  | Contains poultry  | <i class="fas fa-egg" title="Contains egg"></i>                | Contains egg            |
