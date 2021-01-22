@@ -25,7 +25,7 @@ menu:
 ---
 ## The Recipes
 
-<i class="fas fa-leaf" title="Vegetarian"></i> <i class="fas fa-cheese" title="Contains diary products"></i> <i class="fas fa-bread-slice" title="Contains gluten"></i> &nbsp; [Self-Saucing Chocolate Pudding](https://www.paytonelyce.com/resource/recipes/choc-pudd/)
+<i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i> &nbsp; [Self-Saucing Chocolate Pudding](https://www.paytonelyce.com/resource/recipes/choc-pudd/)
 
 
 ## Guide to dietary symbols
