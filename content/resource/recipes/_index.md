@@ -26,7 +26,7 @@ menu:
 ## The Recipes
 
 | | | 
-| - | :-:|
+| - | -|
 | [Self-Saucing Chocolate Pudding](https://www.paytonelyce.com/resource/recipes/choc-pudd/) | <i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i> |
 | [Butter Cake](https://www.paytonelyce.com/resource/recipes/butter-cake/) | <i class="fas fa-leaf" title="Vegetarian"></i> &nbsp; <i class="fas fa-cheese" title="Contains diary products"></i> &nbsp; <i class="fas fa-bread-slice" title="Contains gluten"></i> &nbsp; <i class="fas fa-egg" title="Contains egg"></i> |
 
