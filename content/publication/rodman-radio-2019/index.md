@@ -20,7 +20,7 @@ tags: []
 categories: []
 date: '2018-11-13'
 lastmod: 2018-11-13T00:00:00+00:00
-featured: false
+featured: true
 draft: false
 math: true
 
@@ -30,14 +30,14 @@ math: true
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
+  preview_only: true
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["rgz"]
 publishDate: '2018-11-13T00:00:00.000000Z'
 publication_types:
 - 2
