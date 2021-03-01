@@ -50,6 +50,8 @@ I am a current PhD student and [Gates Cambridge Scholar](https://www.gatescambri
 
 Before moving to the UK, I studied physics and applied mathematics at the [University of Tasmania](https://www.utas.edu.au/) in Australia, where I recieved my Bachelors and Honours degrees. See the [Projects](https://www.paytonelyce.com/project/) page for some of my previous work.
 
+All of my research to date has been broadly focused on the topic of Active Galactic Nuclei, or AGN for short. These are supermassive black holes (SMBH) that are located at the centre of a host galaxy and are consuming large amounts of gas and dust. This high activity causes the region around the black hole to glow brightly across all of the electromagnetic spectrum, and may sometimes also release massive jets of relativistic plasma from near the poles of the black hole itself. Hence AGN contain an SMBH, a disk or torus of accreting material, and (sometimes) jets of relativistic plasma.
+
 In the future I plan to work towards self-consistent models and realistic simulations of AGN which include accretion disks, jets, and coronae — a true “unified theory” of AGN.
 
 You can find a copy of my CV here: {{% staticref "files/currentCV.pdf" "newtab" %}}Download my CV <i class="fas fa-download" aria-hidden="true"></i>{{% /staticref %}}
