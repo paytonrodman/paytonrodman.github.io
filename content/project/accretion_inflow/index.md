@@ -3,7 +3,7 @@ title: "Feeding black holes through nozzle injection"
 subtitle: "Using streams of material to feed an accretion disk"
 summary: A side project of my PhD
 date: "2020-11-00T00:00:00Z"
-tags: ["Active Galactic Nuclei", "Accretion Disks", "In Progress"]
+tags: ["Active Galactic Nuclei", "Accretion Disks", "Simulation", "In Progress"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
