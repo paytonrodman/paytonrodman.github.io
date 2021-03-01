@@ -44,7 +44,7 @@ If I am able to construct a stable disk from nozzle material alone then it could
 Below are some very preliminary images of what the build looks like. The black hole is located at the very centre of the cube, although it, and the region around it, are not shown. The top row shows the disk when looking down from above, with the nozzle located on the right. The bottom row shows the same disk when viewed from the side. The left hand side is at a very early time while the right hand side shows the same disk sometime later.
 
 {{< figure library="true" src="inflow_zero_0001.png" width="500" height="600">}}
-{{< figure library="true" src="inflow_zero_0002.png" >}}
+{{< figure library="true" src="inflow_zero_0002.png" width="500" height="600">}}
 
-{{< figure library="true" src="inflow_zero_0003.png">}}
-{{< figure library="true" src="inflow_zero_0004.png">}}
+{{< figure library="true" src="inflow_zero_0003.png" width="500" height="600">}}
+{{< figure library="true" src="inflow_zero_0004.png" width="500" height="600">}}
