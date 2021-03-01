@@ -11,7 +11,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 math: true
 weight: 1
-draft: true
+draft: false
 
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
