@@ -3,7 +3,7 @@ title: "Using radio lobes to measure galaxy cluster properties (Honours thesis)"
 subtitle: "A big ball of wibbly wobbly, timey wimey stuff"
 summary: A brief description of the work I did in 2018 as part of my Honours thesis at the University of Tasmania.
 date: "2018-12-00T00:00:00Z"
-tags: ["Active Galactic Nuclei", "Jets"]
+tags: ["Active Galactic Nuclei", "Jets", "Simulation", "Data Analysis", "Completed Work"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
