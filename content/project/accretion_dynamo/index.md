@@ -3,7 +3,7 @@ title: "Dynamo action in black hole magnetic fields"
 subtitle: "Stretch the field like spaghetti"
 summary: Some background to my current PhD work.
 date: "2020-11-00T00:00:00Z"
-tags: ["Active Galactic Nuclei", "Accretion", "Magnetic fields", "Dynamos"]
+tags: ["Active Galactic Nuclei", "Accretion Disks", "In Progress"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
