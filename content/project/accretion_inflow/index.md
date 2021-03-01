@@ -45,4 +45,4 @@ Below are some very preliminary images of what the build looks like. The black h
 
 <img src="inflow_zero_0001.png" width="45%"><img src="inflow_zero_0002.png" width="45%">
 
-<img src= src="inflow_zero_0003.png" width="45%"><img src="inflow_zero_0004.png" width="45%">
+<img src="inflow_zero_0003.png" width="45%"><img src="inflow_zero_0004.png" width="45%">
