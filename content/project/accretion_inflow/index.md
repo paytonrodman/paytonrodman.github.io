@@ -45,22 +45,19 @@ Below are some very preliminary images of what the build looks like. The black h
 
 <div class="row justify-content-center">
 <a href="https://example.com">
-<img style="margin: 2em 2em 2em 2em; height:5em" src="inflow_zero_0001.png">
+<img style="margin: 2em 2em 2em 2em; height:15em" src="inflow_zero_0001.png">
 </a>
 <a href="https://example.com">
-<img style="margin: 2em 2em 2em 2em; height:5em" src="inflow_zero_0002.png">
+<img style="margin: 2em 2em 2em 2em; height:15em" src="inflow_zero_0002.png">
 </a>
 </div>
 
 <div class="row justify-content-center">
 <a href="https://example.com">
-<img style="margin: 2em 2em 2em 2em; height:5em" src="inflow_zero_0003.png">
+<img style="margin: 2em 2em 2em 2em; height:15em" src="inflow_zero_0003.png">
 </a>
 <a href="https://example.com">
-<img style="margin: 2em 2em 2em 2em; height:5em" src="inflow_zero_0004.png">
+<img style="margin: 2em 2em 2em 2em; height:15em" src="inflow_zero_0004.png">
 </a>
 </div>
 
-<img src="inflow_zero_0001.png" width="45%"><img src="inflow_zero_0002.png" width="45%">
-
-<img src="inflow_zero_0003.png" width="45%"><img src="inflow_zero_0004.png" width="45%">
