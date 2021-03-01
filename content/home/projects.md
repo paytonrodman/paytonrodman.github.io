@@ -34,8 +34,8 @@ subtitle = ""
     tag = "Jets"
   
   [[content.filter_button]]
-    name = "Accretion disk"
-    tag = "Accretion disk"
+    name = "Accretion Disks"
+    tag = "Accretion Disks"
   
   [[content.filter_button]]
     name = "Simulation"
