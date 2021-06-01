@@ -54,4 +54,6 @@ All of my research to date has been broadly focused on the topic of Active Galac
 
 In the future I plan to work towards self-consistent models and realistic simulations of AGN which include accretion disks, jets, and coronae — a true “unified theory” of AGN.
 
-You can find a copy of my CV here: {{% staticref "files/currentCV.pdf" "newtab" %}}Download my CV <i class="fas fa-download" aria-hidden="true"></i>{{% /staticref %}}
+You can find a PDF copy of my CV here: {{% staticref "files/currentCV.pdf" "newtab" %}}Download my CV <i class="fas fa-download" aria-hidden="true"></i>{{% /staticref %}}
+
+An accessible version is available here: [Accessible CV](https://www.paytonelyce.com/accessible-cv/)
