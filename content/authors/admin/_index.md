@@ -30,6 +30,9 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/payton-rodman/
+  - icon: mastodon
+    icon_pack: fab
+    link: https://astrodon.social/@astrotemp
 education:
   courses:
     - course: PhD in Astronomy
