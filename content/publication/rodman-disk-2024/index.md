@@ -26,7 +26,7 @@ image:
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   E.g. `projects = ["internal-project"]` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects = []`.
 projects: ["accretion_longtimescale"]
 publishDate: '2024-01-02T00:00:00.000000Z'
