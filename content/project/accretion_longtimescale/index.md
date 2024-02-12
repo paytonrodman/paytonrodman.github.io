@@ -26,6 +26,10 @@ image:
   alt_text: ""
 ---
 
+<div class="row justify-content-center">
+<img style="margin: 0em 0em 0em 0em; height:48px" src="dens3d.png">
+</div>
+
 {{< figure library="false" src="dens3d.png" style="width:48px;height:48px;" title="A simulated accretion disk with cutout to show internal region. Colour shows density. Reproduced from Rodman & Reynolds (2024)." >}}
 
 In 1977, Roger Blandford and Roman Znajek proposed a mechanism by which relativistic jets could be launched through an interaction between a strong poloidal magnetic field and a spinning black hole. While this theory is the most widely accepted method of jet launching today, it is difficult to verify through observation as all known supermassive black holes in the Universe (including our own, SgrA\*) are too far away for high resolution studies of the magnetic field's shape. Instead, much of what we know about the flow of material around a black hole and jet launching comes from simulations.
