@@ -37,16 +37,16 @@ projects: ["accretion"]
 publishDate: '2024-01-02T00:00:00.000000Z'
 publication_types:
 - 2
-abstract: We present the results from a pair of high-resolution, long-timescale (∼105GM/c3), global,
+abstract: We present the results from a pair of high-resolution, long-timescale ($\sim10^5~{\rm GM/c^3}$), global,
   three-dimensional magnetohydrodynamical accretion disk simulations with differing initial
-  magnetic plasma β in order to study the effects of the initial toroidal field strength on
+  magnetic plasma $\beta$ in order to study the effects of the initial toroidal field strength on
   the production of a large-scale poloidal field. We initialize our disks in approximate
-  equilibrium with purely toroidal magnetic fields of strength β0 = 5 and 200. We also perform
+  equilibrium with purely toroidal magnetic fields of strength $\beta_0$ = 5 and 200. We also perform
   a limited resolution study. We find that simulations of differing field strengths diverge
   early in their evolution and remain distinct over the time studied, indicating that the
   initial magnetic conditions leave a persistent imprint in our simulations. Neither simulation
   enters the magnetically arrested disk regime. Both simulations are able to produce poloidal
-  fields from initially toroidal fields, with the β0 = 5 simulation evolving clear signs of a
+  fields from initially toroidal fields, with the $\beta_0$ = 5 simulation evolving clear signs of a
   large-scale poloidal field. We make a cautionary note that computational artifacts in the
   form of large-scale vortices may be introduced in the combination of initially weak field
   and disk-internal mesh refinement boundaries, as evidenced by the production of an m = 1
