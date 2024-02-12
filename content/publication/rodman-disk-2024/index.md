@@ -9,8 +9,8 @@ authors:
 - C S Reynolds
 tags: []
 categories: []
-date: '2024-01-02'
-lastmod: 2024-01-02T00:00:00+00:00
+date: '2024-02-12'
+lastmod: 2024-02-12T00:00:00+00:00
 featured: true
 draft: false
 math: true
