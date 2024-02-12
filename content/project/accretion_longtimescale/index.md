@@ -1,9 +1,9 @@
 ---
-title: "Magnetic fields in black hole accretion disks"
-subtitle: "Investigating the behaviour of accretion disks at late times"
-summary: The main project of my PhD, in brief and under construction
-date: "2020-11-00T00:00:00Z"
-tags: ["Active Galactic Nuclei", "Accretion Disks", "Simulation", "In Progress"]
+title: "Evolution of the Magnetic Field in High- and Low-β Disks with Initially Toroidal Fields"
+subtitle: "Can a weak toroidal field generate a strong poloidal field?"
+summary: A brief look at the first half of my PhD
+date: "2024-02-12T00:00:00Z"
+tags: ["Active Galactic Nuclei", "Accretion Disks", "Simulation", "Completed Work"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -26,21 +26,34 @@ image:
   alt_text: ""
 ---
 
-The basic physics is rather well-understood: the Navier-Stokes equations describing fluid motions, combined with Maxwell's equations for electromagnetism to form the theoretical framework known as magnetohydrodynamics (MHD). The details beyond this point are rather like crossing t's and dotting i's, or at least it can seem that way.
+{{< figure library="false" src="dens3d.png" style="width:48px;height:48px;" title="A simulated accretion disk with cutout to show internal region. Colour shows density. Reproduced from Rodman & Reynolds (2024)." >}}
 
-#### History time
+In 1977, Roger Blandford and Roman Znajek proposed a mechanism by which relativistic jets could be launched through an interaction between a strong poloidal magnetic field and a spinning black hole. While this theory is the most widely accepted method of jet launching today, it is difficult to verify through observation as all known supermassive black holes in the Universe (including our own, SgrA\*) are too far away for high resolution studies of the magnetic field's shape. Instead, much of what we know about the flow of material around a black hole and jet launching comes from simulations.
 
-The study of accretion disks is one defined by its limitations.
+Simulations are an imperfect recreation of reality, though, and we are limited by computer power and human time and cost. The more complex physics you ask a simulation to solve, and the higher the resolution, the longer it takes. And when computational time costs real human dollars, there's only one solution: simplify. One of the biggest challenges as a simulator is to know when and where you can simplify things, and to what degree, before your results start to become really unphysical. 
 
-Given the intense light that's emitted near the centre of a galaxy and the tiny size of an accretion disk relative to that galaxy, it's no surprise that we are yet to image an accretion disk to a reasonable resolution. As of 2019 we do now have the image of M87\* from the Event Horizon Telescope [(The Event Horizon Telescope Collaboration et al. 2019)](https://iopscience.iop.org/article/10.3847/2041-8213/ab0ec7), but even here, the beam size of the telescope (~pixel size in the image) is roughly equal to the width of the illuminated ring. That is, all of the information available in the disk is contained within a single pixel. Some of the larger features of the image can be used to verify broad concepts like General Relativity, but any finer details will have to wait for the next major advancements in observational technology and techniques.
+One common simplification in accretion disks is to start the simulation with a magnetic field that already has some vertical component, and to make this magnetic field relatively strong. If we assume that the simulation eventually forgets its initial conditions, then this is a great simplification: we get to the same result in much faster time. But does the assumption hold?
 
-Because of this lack of high-resolution observation, much of the history of accretion disk studies has been a theoretical and computational exercise. Seminal works by [Shakura & Sunyaev (1973)](https://ui.adsabs.harvard.edu/abs/1973A%26A....24..337S/abstract) and [Lyden-Bell & Pringle (1974)](https://academic.oup.com/mnras/article/168/3/603/990948) (among others!) in the 70's recognised that magnetic fields were likely to be important for the evolution of disks, but being limited to the (non-existent) computational resources of the time, they restricted themselves mostly to hydrodynamical studies and worked in, at most, 2 spatial dimensions. Anything more complex was mathematically intractable. It wasn't until 1991 that [Balbus & Hawley](https://ui.adsabs.harvard.edu/abs/1991ApJ...376..214B/abstract) connected the earlier work of [Velikhov (1959)](http://www.jetp.ac.ru/cgi-bin/e/index/e/9/5/p995?a=list), [Chandrasekhar (1960)](https://www.pnas.org/content/46/2/253), and [Fricke (1969)](https://ui.adsabs.harvard.edu/abs/1969A%26A.....1..388F/abstract) to accretion disks and showed that disks are vulnerable to a form of magnetic instability now known as the magnetorotational instability (MRI).
+In this project, we wanted to test whether a simulation initialised with a (weak or strong) toroidal field would
 
-Since 1991, the name of the game has been magnetic fields. 
+a. produce the strong poloidal field needed for jets, and
 
-<div class="row justify-content-center">
-<img style="margin: 0em 0em 0em 0em; height:12em" src="base_Bcc1.png">
-<img style="margin: 0em 0em 0em 0em; height:12em" src="base_Bcc2.png">
-<img style="margin: 0em 0em 0em 0em; height:12em" src="base_Bcc3.png">
-</div>
+b. match simulations initialised with a poloidal or other vertical component field.
 
+If (a) failed, this would indicate that the simulations were missing some as-of-yet-unknown physics to describe magnetic field evolution. If (b) failed, it would indicate that the simulations do not forget their initial magnetic conditions, and hence we would need to think very carefully about what a "realistic" initial condition for a disk is out in the Universe, which would inevitably bring up even more difficult questions like "how does a disk form?".
+
+To test these two statements, we ran two simulations of accretion disks with initially toroidal fields, one with a weak field (plasma beta $\beta=P_{\rm mag}/P_{\rm gas}=200$) and the other with a strong field ($\beta=5$, similar to the literature). To assess the effect of resolution, we ran each simulation at two resolutions, $(896\times256\times256)$ and $(896\times512\times512)$. Each simulation was run until it had converged on some "stable" state. We then compared our simulations to each other and to the literature.
+
+{{< figure library="false" src="mesh2.png" style="width:48px;height:48px;" title="The simulation mesh, with a cutout to show internal zones. We focus higher resolution in the plane of the disk, and lower resolution around the poles where there is little material. Reproduced from Rodman & Reynolds (2024)." >}}
+
+We found:
+
+ - The simulations diverged early on and remained on distinct evolutionary paths for the duration of their runs. The weak and strong field simulations *did not* converge to give similar results, even at high resolution. They retained memory of their initial field strength.
+
+ - The strong-field disk showed some evidence of a large-scale poloidal field at both resolutions. The weak-field disk did not. 
+
+ - Our weak-field disk with lower resolution developed an overdensity or "lump" early on in the simulation which persisted until the end. It appears at radius $r=100r_g$, where the resolution of the simulation decreases, indicating that this is an artifact of the grid. It does not appear at higher resolution or in the strong-field disk (at either resolution), suggesting that the instability is caused by a complex interplay of magnetic field strength and resolution.
+
+{{< figure library="false" src="Bcc_sideon.png" style="width:48px;height:48px;" title="The end-time magnetic field in the initially-weak (left) and initially-strong (right) simulations, overlaid on a colour plot of density. The relative strength of the field is shown by the width of the streamlines. Reproduced from Rodman & Reynolds (2024). " >}}
+
+*For full details, see [Rodman, P.E., Reynolds C.S. (2024) ApJ. 960:97](https://iopscience.iop.org/article/10.3847/1538-4357/ad0384)*
