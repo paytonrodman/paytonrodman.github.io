@@ -19,7 +19,7 @@ weight: 1
 # Set `preview_only` to `true` to just use the image for thumbnails.
 image:
   placement: 1
-  caption: "**Radio galaxy Hercules A.** Image Credit: NASA, ESA, S. Baum and C. O'Dea (RIT), R. Perley and W. Cotton (NRAO/AUI/NSF), and the Hubble Heritage Team (STScI/AURA)"
+  caption: ""
   focal_point: "Center"
   preview_only: false
   alt_text: ""
