@@ -18,12 +18,7 @@ math: true
 links:
 url_pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ad0384/pdf
 url_code: 'https://github.com/paytonrodman/athena-analysis'
-url_dataset: '#'
-url_poster: '#'
 url_project: 'https://www.paytonelyce.com/project/accretion'
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
