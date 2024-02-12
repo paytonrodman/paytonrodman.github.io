@@ -2,7 +2,7 @@
 title: "Evolution of the Magnetic Field in High- and Low-β Disks with Initially Toroidal Fields"
 subtitle: "Can a weak toroidal field generate a strong poloidal field?"
 summary: A brief look at the first half of my PhD
-date: "2024-02-12T00:00:00Z"
+date: "2024-02-11T00:00:00Z"
 tags: ["Active Galactic Nuclei", "Accretion Disks", "Simulation", "Completed Work"]
 
 reading_time: true  # Show estimated reading time?
@@ -11,7 +11,7 @@ profile: false  # Show author profile?
 comments: false  # Show comments?
 math: true
 weight: 1
-draft: true
+draft: false
 
 # Featured image
 # To use, place an image named `featured.jpg/png` in your page's folder.
