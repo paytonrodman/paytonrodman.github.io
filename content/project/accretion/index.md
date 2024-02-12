@@ -26,11 +26,7 @@ image:
   alt_text: ""
 ---
 
-<div class="row justify-content-center">
-<img style="margin: 0em 0em 0em 0em; height:48px" src="dens3d.png">
-</div>
-
-{{< figure library="false" src="dens3d.png" style="width:48px;height:48px;" title="A simulated accretion disk with cutout to show internal region. Colour shows density. Reproduced from Rodman & Reynolds (2024)." >}}
+{{< figure library="true" src="dens3d.png" style="width:48px;height:48px;" title="A simulated accretion disk with cutout to show internal region. Colour shows density. Reproduced from Rodman & Reynolds (2024)." >}}
 
 In 1977, Roger Blandford and Roman Znajek proposed a mechanism by which relativistic jets could be launched through an interaction between a strong poloidal magnetic field and a spinning black hole. While this theory is the most widely accepted method of jet launching today, it is difficult to verify through observation as all known supermassive black holes in the Universe (including our own, SgrA\*) are too far away for high resolution studies of the magnetic field's shape. Instead, much of what we know about the flow of material around a black hole and jet launching comes from simulations.
 
@@ -48,7 +44,7 @@ If (a) failed, this would indicate that the simulations were missing some as-of-
 
 To test these two statements, we ran two simulations of accretion disks with initially toroidal fields, one with a weak field (plasma beta $\beta=P_{\rm mag}/P_{\rm gas}=200$) and the other with a strong field ($\beta=5$, similar to the literature). To assess the effect of resolution, we ran each simulation at two resolutions, $(896\times256\times256)$ and $(896\times512\times512)$. Each simulation was run until it had converged on some "stable" state. We then compared our simulations to each other and to the literature.
 
-{{< figure library="false" src="mesh2.png" style="width:48px;height:48px;" title="The simulation mesh, with a cutout to show internal zones. We focus higher resolution in the plane of the disk, and lower resolution around the poles where there is little material. Reproduced from Rodman & Reynolds (2024)." >}}
+{{< figure library="true" src="mesh.png" style="width:48px;height:48px;" title="The simulation mesh, with a cutout to show internal zones. We focus higher resolution in the plane of the disk, and lower resolution around the poles where there is little material. Reproduced from Rodman & Reynolds (2024)." >}}
 
 We found:
 
@@ -58,6 +54,6 @@ We found:
 
  - Our weak-field disk with lower resolution developed an overdensity or "lump" early on in the simulation which persisted until the end. It appears at radius $r=100r_g$, where the resolution of the simulation decreases, indicating that this is an artifact of the grid. It does not appear at higher resolution or in the strong-field disk (at either resolution), suggesting that the instability is caused by a complex interplay of magnetic field strength and resolution.
 
-{{< figure library="false" src="Bcc_sideon.png" style="width:48px;height:48px;" title="The end-time magnetic field in the initially-weak (left) and initially-strong (right) simulations, overlaid on a colour plot of density. The relative strength of the field is shown by the width of the streamlines. Reproduced from Rodman & Reynolds (2024). " >}}
+{{< figure library="true" src="Bcc_sideon.png" style="width:48px;height:48px;" title="The end-time magnetic field in the initially-weak (left) and initially-strong (right) simulations, overlaid on a colour plot of density. The relative strength of the field is shown by the width of the streamlines. Reproduced from Rodman & Reynolds (2024). " >}}
 
 *For full details, see [Rodman, P.E., Reynolds C.S. (2024) ApJ. 960:97](https://iopscience.iop.org/article/10.3847/1538-4357/ad0384)*
