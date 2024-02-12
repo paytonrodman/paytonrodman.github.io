@@ -14,13 +14,11 @@ interests:
   - Accretion disks
   - Active Galactic Nuclei
   - Magnetic dynamos
+  - Jets
 social:
   - icon: envelope
     icon_pack: fas
     link: "#contact"
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/astrotemp
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-1624-9359
@@ -30,14 +28,11 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/payton-rodman/
-  - icon: mastodon
-    icon_pack: fab
-    link: https://astrodon.social/@astrotemp
 education:
   courses:
     - course: PhD in Astronomy
       institution: University of Cambridge
-      year: expected 2023(ish)
+      year: expected 2024(ish)
     - course: BSc (Hons) in Physics
       institution: University of Tasmania
       year: 2018
@@ -58,5 +53,3 @@ All of my research to date has been broadly focused on the topic of Active Galac
 In the future I plan to work towards self-consistent models and realistic simulations of AGN which include accretion disks, jets, and coronae — a true “unified theory” of AGN.
 
 You can find a PDF copy of my CV here: {{% staticref "files/currentCV.pdf" "newtab" %}}Download my CV <i class="fas fa-download" aria-hidden="true"></i>{{% /staticref %}}
-
-An accessible version is available here: [Accessible CV](https://www.paytonelyce.com/accessible-cv/)
