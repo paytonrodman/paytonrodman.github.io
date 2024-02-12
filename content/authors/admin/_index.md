@@ -44,7 +44,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a current PhD student and [Gates Cambridge Scholar](https://www.gatescambridge.org/) at the [Institute of Astronomy](https://www.ast.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/about-the-university). My research interests include the theory of black hole accretion disks, specifically the production and amplification of magnetic fields via the dynamo process. I study these systems through a mix of theory and simulation using the magnetohydrodynamics (MHD) code [Athena++](https://www.athena-astro.app/).
+I am a current PhD student and [Gates Cambridge Scholar](https://www.gatescambridge.org/) at the [Institute of Astronomy](https://www.ast.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/about-the-university). My research interests include the theory of black hole accretion disks, specifically the production and amplification of magnetic fields via the dynamo process, and black hole jets. I study these systems through a mix of theory and simulation using the magnetohydrodynamics (MHD) codes [Athena++](https://www.athena-astro.app/) and [PLUTO](http://plutocode.ph.unito.it/).
 
 Before moving to the UK, I studied physics and applied mathematics at the [University of Tasmania](https://www.utas.edu.au/) in Australia, where I recieved my Bachelors (2017) and Honours (2018) degrees.
 
