@@ -15,6 +15,16 @@ featured: true
 draft: false
 math: true
 
+links:
+url_pdf: https://iopscience.iop.org/article/10.3847/1538-4357/ad0384/pdf
+url_code: 'https://github.com/paytonrodman/athena-analysis'
+url_dataset: '#'
+url_poster: '#'
+url_project: 'https://www.paytonelyce.com/project/accretion'
+url_slides: ''
+url_source: '#'
+url_video: '#'
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
@@ -28,7 +38,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["accretion_longtimescale"]
+projects: ["accretion"]
 publishDate: '2024-01-02T00:00:00.000000Z'
 publication_types:
 - 2
