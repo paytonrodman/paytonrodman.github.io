@@ -2120,7 +2120,7 @@ fieldset:disabled a.btn {
 .btn-link {
   font-weight: 400;
   color: #2962ff;
-  text-decoration: none; }
+  text-decoration: underline; }
   .btn-link:hover {
     color: #003adc;
     text-decoration: underline; }
