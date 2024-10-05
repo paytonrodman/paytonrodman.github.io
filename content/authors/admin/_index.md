@@ -18,7 +18,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "#contact"
+    link: https://www.paytonelyce.com/contact/
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-1624-9359
