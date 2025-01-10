@@ -2,19 +2,20 @@
 title: Payton Rodman
 role: PhD Candidate in Astronomy
 avatar_filename: prodman.jpg
-organizations:
-  - name: Institute of Astronomy, University of Cambridge
-    url: https://www.ast.cam.ac.uk/people/Payton.Rodman
+#organizations:
+#  - name: Institute of Astronomy, University of Cambridge
+#    url: https://www.ast.cam.ac.uk/people/Payton.Rodman
 superuser: true
 authors:
   - admin
 bio: ""
 interests:
-  - Black holes
-  - Accretion disks
-  - Active Galactic Nuclei
-  - Magnetic dynamos
-  - Jets
+  - Science
+  - Programming
+  - Simulation
+  - Data Analysis
+  - Presentation
+  - Succulents
 social:
   - icon: envelope
     icon_pack: fas
@@ -32,7 +33,7 @@ education:
   courses:
     - course: PhD in Astronomy
       institution: University of Cambridge
-      year: expected 2024(ish)
+      year: 2024
     - course: BSc (Hons) in Physics
       institution: University of Tasmania
       year: 2018
@@ -44,12 +45,14 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a current PhD student and [Gates Cambridge Scholar](https://www.gatescambridge.org/) at the [Institute of Astronomy](https://www.ast.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/about-the-university). My research interests include the theory of black hole accretion disks, specifically the production and amplification of magnetic fields via the dynamo process, and black hole jets. I study these systems through a mix of theory and simulation using the magnetohydrodynamics (MHD) codes [Athena++](https://www.athena-astro.app/) and [PLUTO](http://plutocode.ph.unito.it/).
 
-Before moving to the UK, I studied physics and applied mathematics at the [University of Tasmania](https://www.utas.edu.au/) in Australia, where I recieved my Bachelors (2017) and Honours (2018) degrees.
 
-All of my research to date has been broadly focused on the topic of Active Galactic Nuclei, or AGN for short. These are supermassive black holes (SMBHs) that are located at the centre of a host galaxy and are consuming large amounts of gas and dust. This high activity causes the region around the black hole to glow brightly across all of the electromagnetic spectrum, and may sometimes also release massive jets of relativistic plasma from near the poles of the black hole itself. Hence AGN contain an SMBH, a disk or torus of accreting material, and (sometimes) jets of relativistic plasma.
+Hi, I'm Payton!
 
-In the future I plan to work towards self-consistent models and realistic simulations of AGN which include accretion disks, jets, and coronae — a true “unified theory” of AGN.
+I am a data scientist with a background in physics simulations and a love for effective data communication. I believe that the data we collect, analyse, and disseminate contains a multitude of stories based on our audience's perceptions, lived experiences, and needs. This belief underlies my approach to presentations--and information sharing more broadly--as story-telling. I am also an avid puzzler, problem-solver, and bug finder, and am always searching for new ways to improve my coding craft.
+
+Before moving to the UK, I studied physics and applied mathematics at the [University of Tasmania](https://www.utas.edu.au/) in Australia, where I received my Bachelors (2017) and Honours (2018) degrees. In 2024, I was awarded my PhD in Astronomy from the [University of Cambridge](https://www.cam.ac.uk/about-the-university), supported by the [Gates Cambridge Scholarship](https://www.gatescambridge.org/).
 
 You can find a PDF copy of my CV here: {{% staticref "files/currentCV.pdf" "newtab" %}}Download my CV <i class="fas fa-download" aria-hidden="true"></i>{{% /staticref %}}
+
+You can also check out some of my projects below!
