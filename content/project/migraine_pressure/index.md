@@ -44,8 +44,10 @@ where $Q_1$ and $Q_3$ are the 25th and 75th percentiles of the data for a given 
 
 With the data cleaned, the number of days with a pressure variation $>=10$ hPa is then recorded for each station, and the results plotted!
 
+We see a clear overall trend with smaller latitudes (closer to the equator) having fewer high pressure variations per year compared to higher latitudes. We can also see a region of high variation in the west-midwestern US, where continental and subtropical climate regions meet the colder and semi-arid climates of the Rocky Mountains.
 
+{{< figure library="true" src="migraine_World.png" title="Proportion of days annually with high pressure variation ($>10$ hPa), worldwide. As a general trend, higher absolute latitudes experience greater pressure variation." >}}
 
-{{< figure library="true" src="migraine_World.png" title="Proportion of days annually with high pressure variation ($>10$ hPa)." >}}
+{{< figure library="true" src="migraine_World.png" title="As above, but zoomed in on Northern America. Aside from the general latitude trend, a clear region of high variation is visible near the Rocky Mountains in central US." >}}
 
-{{< figure library="true" src="migraine_Europe.png" title="" >}}
+{{< figure library="true" src="migraine_Europe.png" title="As above, but zoomed in on Europe." >}}
