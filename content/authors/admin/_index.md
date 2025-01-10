@@ -1,6 +1,6 @@
 ---
 title: Payton Rodman
-role: PhD Candidate in Astronomy
+role: Data Scientist and Researcher
 avatar_filename: prodman.jpg
 #organizations:
 #  - name: Institute of Astronomy, University of Cambridge
