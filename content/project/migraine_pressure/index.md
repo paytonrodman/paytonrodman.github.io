@@ -3,7 +3,7 @@ title: "Comparing daily pressure variation across the globe"
 subtitle: "The best and worst places to live with barometric pressure migraine"
 summary: A personal project exploring worldwide pressure variation data.
 date: "2024-01-00T00:00:00Z"
-tags: ["Data Analysis", "Completed Work"]
+tags: ["Data Analysis", "In Progress"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
