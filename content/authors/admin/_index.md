@@ -53,6 +53,6 @@ I am a data scientist with a background in physics simulations and a love for ef
 
 Before moving to the UK, I studied physics and applied mathematics at the [University of Tasmania](https://www.utas.edu.au/) in Australia, where I received my Bachelors (2017) and Honours (2018) degrees. In 2024, I was awarded my PhD in Astronomy from the [University of Cambridge](https://www.cam.ac.uk/about-the-university), supported by the [Gates Cambridge Scholarship](https://www.gatescambridge.org/).
 
-You can find a PDF copy of my CV here: {{% staticref "files/Rodman_CV.pdf" "newtab" %}}Download my CV <i class="fas fa-download" aria-hidden="true"></i>{{% /staticref %}}
+You can find a PDF copy of my CV here: {{% staticref "files/CV.pdf" "newtab" %}}Download my CV <i class="fas fa-download" aria-hidden="true"></i>{{% /staticref %}}
 
 You can also check out some of my projects below!
