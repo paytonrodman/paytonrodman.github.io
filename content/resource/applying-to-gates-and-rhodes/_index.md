@@ -6,7 +6,7 @@ weight: 1
 # Page metadata.
 draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
-editable: false 
+editable: false
 
 aliases:
     - /blog/2019/4/17/a-guide-to-graduate-scholarships/
@@ -28,43 +28,43 @@ Your application is the story of who you are and who you want to become.
 - [**The scholarship details**](#scholarship-details)
 
     - [Rhodes](#rhodes)
-    
+
     - [Gates](#gates)
-    
+
 - [**Should you apply?**](#should-you-apply?)
 
     - [What the "ideal" candidate looks like](#the-ideal-candidate)
-    
+
     - [Rhodes and sports](#sports)
-    
+
     - [The Oxbridge postgraduate system](#oxbridge-postgrad-system)
-    
+
 - [**The application process**](#the-application-process)
 
     - [Rhodes](#apply-rhodes)
-    
+
     - [Gates](#apply-gates)
-    
+
     - [Timelines](#timeline)
-    
+
 - [**Application materials**](#application-materials)
 
     - [Transcripts, classes, and grades](#grades)
-    
+
     - [CV/résumé](#cv)
-    
+
     - [Personal statement](#personal-statement)
-    
+
     - [Research proposal](#research-proposal)
-    
+
     - [Letters of recommendation](#lor)
-        
+
 - [**Interviews**](#interviews)
 
     - [The social event (Rhodes only)](#social)
-    
+
     - [General interview advice](#general-interview)
-    
+
 - [**What if I don't win?**](#condolences)
 
 - [**What if I do win?**](#congratulations)
@@ -112,9 +112,9 @@ For the most up-to-date and comprehensive information, please be sure to check o
 
 The [Gates-Cambridge scholarship](https://www.gatescambridge.org/) was established in 2000 with a large donation from the Bill and Melinda Gates Foundation. It is tenable at the [University of Cambridge](https://www.cam.ac.uk/) for Masters and PhD studies, with some exceptions and limitations.
 
-It covers the full University Composition fee (i.e. your tuition), a very competitive stipend (£17,500 p.a. for 2020/21), a single economy airfare at the beginning and end of your course, and the inbound visa and health surcharge costs. 
+It covers the full University Composition fee (i.e. your tuition), a very competitive stipend (£17,500 p.a. for 2020/21), a single economy airfare at the beginning and end of your course, and the inbound visa and health surcharge costs.
 
-There are also additional discretionary funds available to scholars, including funds to attend conferences, a family allowance (for those who will bring children with them), fieldwork assistance, parental leave, and hardship funds. As an aside, I have found the Gates community to be incredibly compassionate during the COVID-19 pandemic, as they covered extra flights home and back to the UK. 
+There are also additional discretionary funds available to scholars, including funds to attend conferences, a family allowance (for those who will bring children with them), fieldwork assistance, parental leave, and hardship funds. As an aside, I have found the Gates community to be incredibly compassionate during the COVID-19 pandemic, as they covered extra flights home and back to the UK.
 
 In short, it is a full-cost scholarship. About the only thing it doesn't cover is the application fee to the University itself, which currently sits at around £60.
 
@@ -172,7 +172,7 @@ Once they give you the go ahead, you can then apply to Rhodes. This application 
 
 ## <a name="apply-gates"></a>Gates
 
-The application to the Gates scholarship is largely outsourced to Cambridge itself, and the sum total of your paper application will be to tick a box and to paste in your personal statement, alongside uploading your CV et cetera. 
+The application to the Gates scholarship is largely outsourced to Cambridge itself, and the sum total of your paper application will be to tick a box and to paste in your personal statement, alongside uploading your CV et cetera.
 
 Other major details, including all of the things you enter in your Cambridge application form and your 2 academic letters of reference, are automatically passed on to the Gates committee. They also see your department's assessment of your application from an academic standpoint. In fact, {{< hl >}}you must be nominated by your department{{< /hl >}}. This means you cannot prioritise Gates over your university application. The department you apply to can only nominate a limited number of people, so if you do not impress your department academically, you will not be considered for Gates regardless of which boxes you ticked.
 
@@ -193,23 +193,23 @@ Beware: the dates below are correct as of 2020, but may shift in the future. All
 - Applications open: **early July**
 
 - Applications due: **early October**
- 
+
 - Dinner and interviews[^&dagger;]: **mid-to-late November**
- 
+
 - Announcement of winners[^&dagger;]: The same day as the interviews  
 
 #### All other eligible applicants
- 
+
 - Applications open[^&dagger;]: **early June** through **early July**, but [depends on your country](https://www.rhodeshouse.ox.ac.uk/scholarships/apply/)
 
 - Applications due[^&dagger;]: **late July** through **late October**, but [depends on your country](https://www.rhodeshouse.ox.ac.uk/scholarships/apply/)
- 
+
 - Dinner and interviews[^&dagger;]: No set date, and will vary by country on top of that
- 
+
 - Announcement of winners[^&dagger;]: The same day as the interviews
 
 &nbsp;
- 
+
 ### Gates
 
 #### US citizens resident in the US
@@ -219,9 +219,9 @@ Beware: the dates below are correct as of 2020, but may shift in the future. All
 - Applications due: **mid October**
 
 - Interview invitations[^&dagger;]: **mid December**
- 
+
 - Interviews[^&dagger;]: **late January**
- 
+
 - Announcement of winners[^&dagger;]: **early February**  
 
 #### All other eligible applicants
@@ -231,11 +231,11 @@ Beware: the dates below are correct as of 2020, but may shift in the future. All
 - Applications due: either **early December** or **early January** (dependent on course deadline)
 
 - Interview invitations[^&dagger;]: **early March**
- 
+
 - Interviews[^&dagger;]: **late March**
- 
+
 - Announcement of winners[^&dagger;]: **late March**
- 
+
 
 [^&dagger;]: May vary considerably for different panels/countries/regions.
 
@@ -264,7 +264,7 @@ However, even if you're scraping the bottom of the minimum requirement, it's sti
 
 A résumé is typically quite short (1-2 pages) and will be changed to suit each job you apply for. A curriculum vitae (CV), on the other hand, can extend into 10's of pages as it is a full record of all academic work. As a current or recently-graduated undergrad, your CV will probably be around 2-3 pages in length and will be a blended style halfway between that of a regular résumé and a full academic CV.
 
-Regardless of what you choose to call it at this stage, there are a few simple guidelines to follow, and I'd also recommend Googling “academic CV” for more tips. You can [look at my own](https://www.paytonelyce.com/files/currentCV.pdf) too. And remember: {{< hl >}}writing a CV is always a fine balance between humility and bragging{{< /hl >}}. Never lie, but never downplay or hide your achievements either.
+Regardless of what you choose to call it at this stage, there are a few simple guidelines to follow, and I'd also recommend Googling “academic CV” for more tips. You can [look at my own](https://www.paytonelyce.com/files/CV.pdf) too. And remember: {{< hl >}}writing a CV is always a fine balance between humility and bragging{{< /hl >}}. Never lie, but never downplay or hide your achievements either.
 
  - {{< hl >}}Your CV should be succinct, neat, and clearly laid-out{{< /hl >}}.
 
@@ -347,8 +347,8 @@ For both this event and the later interview, some panel members may be quite com
 #### Tips and tricks
 
 - If there is a lot of cutlery (e.g. multiple forks and knives of different shapes and sizes) around your plate, start from the outside and work your way in. The outermost "layer" of utensils are for the first course.
- 
-- In general, you should dress in business formal unless stated otherwise. That can mean a suit and tie, dress pants or longer skirt and a smart shirt/blouse, or a dress with pantyhose. I always abide by the rule of only showing one bit of skin at a time, i.e. a sleeveless dress should be long(er) and cover your legs. 
+
+- In general, you should dress in business formal unless stated otherwise. That can mean a suit and tie, dress pants or longer skirt and a smart shirt/blouse, or a dress with pantyhose. I always abide by the rule of only showing one bit of skin at a time, i.e. a sleeveless dress should be long(er) and cover your legs.
 
 - Whether you cover tattoos / remove piercings or not is a personal choice. You should, however, remember that your panel members may be more conservative than you are, and that hiding your tattoos/piercings will never hurt you.
 

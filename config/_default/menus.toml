@@ -7,7 +7,7 @@
   name = "Home"
   url = "#about"
   weight = 10
-  
+
 [[main]]
   name = "Projects"
   url = "#projects"
@@ -17,7 +17,7 @@
   name = "Publications"
   url = "#publications"
   weight = 40
-  
+
 [[main]]
   name = "Contact"
   url = "contact/"
@@ -27,5 +27,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
    name = "CV"
-   url = "files/currentCV.pdf"
+   url = "files/CV.pdf"
    weight = 70
