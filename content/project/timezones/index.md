@@ -30,3 +30,5 @@ As an Australian living in the UK and collaborating with researchers around the 
 The webapp can be found [here](https://paytonrodman.pythonanywhere.com/)!
 
 Simply enter the data, time, and location of the original meeting, and the location you want the meeting localised to, and hit Submit!
+
+The logic of the app is written in Python, served using [Flask](https://flask.palletsprojects.com/en/stable/) through [pythonanywhere](https://www.pythonanywhere.com/).
