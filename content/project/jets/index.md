@@ -3,7 +3,7 @@ title: "Radio Jet Filament Formation in a Magnetised Medium"
 subtitle: "Can simulations produce the radio filaments we observe?"
 summary: A brief look at the second half of my PhD
 date: "2024-02-11T00:00:00Z"
-tags: ["Active Galactic Nuclei", "Jets", "Simulation", "In Progress"]
+tags: ["Active Galactic Nuclei", "Jets", "Simulation", "Data Analysis", "In Progress"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -34,7 +34,7 @@ At the heart of most large galaxies is a supermassive black hole, or SMBH for sh
 
 Hercules A is a slightly special case as it's pretty close to us in astronomical terms. Most galaxies we can see are much, much further away and their jets just look like nondescript smudges.
 
-Now, this is all well and good, but in 2020 a new radio telescope called [MeerKAT]() saw something that no one had expected: filaments.
+Now, this is all well and good, but in 2020 a new radio telescope called MeerKAT saw something that no one had expected: filaments.
 
 {{< figure library="true" src="ESO137-6.png" style="width:48px;height:48px;" title="Radio threads or filaments are observed streaming from the radio jets in source ESO 137-006, observed with the MeerKAT telescope in 2020. Image Credit: Rhodes University / INAF / SARAO" >}}
 
