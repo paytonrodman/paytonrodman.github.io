@@ -8,8 +8,8 @@ authors:
 - P E Rodman
 tags: []
 categories: []
-date: '2024-07-29'
-lastmod: 2024-07-29T00:00:00+00:00
+date: '2018-11-01'
+lastmod: 2018-11-01T00:00:00+00:00
 featured: true
 draft: false
 math: true
@@ -28,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: ["accretion","jets"]
-publishDate: '2024-11-29T00:00:00.000000Z'
+publishDate: '2018-11-01T00:00:00.000000Z'
 publication_types:
 - 7
 abstract: >
