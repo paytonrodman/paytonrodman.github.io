@@ -8,9 +8,6 @@ draft: false  # Is this a draft? true/false
 toc: true  # Show table of contents? true/false
 editable: false
 
-aliases:
-    - /blog/2019/4/17/a-guide-to-graduate-scholarships/
-
 ---
 
 {{% alert note %}} Look a little different? Don't worry! My website may have changed, but the content is largely the same. {{% /alert %}}
