@@ -97,7 +97,7 @@ address = {city = "Cambridge", country = "United Kingdom", country_code = "UK"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "52.214105", longitude = "0.093703"}
+coordinates = {latitude = "52.1951", longitude = "0.1313"}
 
 # Directions for visitors to locate you.
 directions = ""
