@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Magnetic Field Evolution in Black Hole Accretion Disks and Relativistic Jets'
+title: 'Probing Intracluster Gas with Faraday Rotation from Black Hole Jets'
 subtitle: ''
 summary: ''
 authors:
