@@ -46,4 +46,4 @@ With the data cleaned, the number of days with a pressure variation $>=10$ hPa i
 
 We see a clear overall trend with smaller latitudes (closer to the equator) having fewer high pressure variations per year compared to higher latitudes. We can also see a region of high variation in the west-midwestern US, where continental and subtropical climate regions meet the colder and semi-arid climates of the Rocky Mountains.
 
-![Interactive plot of migraine weather data](https://datawrapper.dwcdn.net/f0TbC/1/)
+<iframe title="Fraction of days with high pressure variation" aria-label="Map" id="datawrapper-chart-f0TbC" src="https://datawrapper.dwcdn.net/f0TbC/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="674" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
