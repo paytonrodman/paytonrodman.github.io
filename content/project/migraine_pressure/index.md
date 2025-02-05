@@ -25,6 +25,9 @@ image:
   alt_text: ""
 ---
 
+<iframe title="Fraction of days with high pressure variation" aria-label="Map" id="datawrapper-chart-f0TbC" src="https://datawrapper.dwcdn.net/f0TbC/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="674" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();
+</script>
+
 Growing up, I often had to watch as my mother and grandmother suffered attacks of migraine, a neurological disorder characterised by episodes of moderate-severe headache, along with nausea and vomiting, photophobia (light aversion) and phonophobia (sound aversion), plus a raft of other strange neurological symptoms like aphasia (garbled speech), weakness, fatigue, loss of vision/sensation, vertigo and dizziness, and more. Migraine is very common, affecting up to 33% of women and 18% of men [[1](https://www.nature.com/articles/s41572-021-00328-4)], peaking in early adulthood. As a result, migraine is often extremely debilitating for its sufferers: it is the leading cause of disability in the 15--49 age group and costs employers in Europe €27 billion in lost productivity annually [[2](https://journals.sagepub.com/doi/10.1177/0333102420977852)].
 
 Migraine attacks can be brought on by many different things, most commonly stress, disturbed/changed sleep, alcohol, and weather changes. While many triggers can be avoided or controlled, the weather cannot be, and so I was motivated to explore which places on Earth would be better or worse for migraine sufferers with weather triggers.
@@ -45,5 +48,3 @@ where $Q_1$ and $Q_3$ are the 25th and 75th percentiles of the data for a given 
 With the data cleaned, the number of days with a pressure variation $>=10$ hPa is then recorded for each station, and the results plotted!
 
 We see a clear overall trend with smaller latitudes (closer to the equator) having fewer high pressure variations per year compared to higher latitudes. We can also see a region of high variation in the west-midwestern US, where continental and subtropical climate regions meet the colder and semi-arid climates of the Rocky Mountains.
-
-<iframe title="Fraction of days with high pressure variation" aria-label="Map" id="datawrapper-chart-f0TbC" src="https://datawrapper.dwcdn.net/f0TbC/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="674" data-external="1"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r=0;r<e.length;r++)if(e[r].contentWindow===a.source){var i=a.data["datawrapper-height"][t]+"px";e[r].style.height=i}}}))}();</script>
