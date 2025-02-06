@@ -2,4 +2,4 @@
 
 # Payton Rodman's Personal Website
 
-My personal website based on the [Hugo Academic Resumé Template](https://github.com/wowchemy/wowchemy-hugo-modules) from [Wowchemy](https://wowchemy.com/), deployed through [Netlify](https://www.netlify.com/)
+My personal website based on the Hugo Academic Resumé Template from Wowchemy, deployed through [Netlify](https://www.netlify.com/)
