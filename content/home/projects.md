@@ -26,7 +26,7 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Astronomy"
+    name = "Astronomy and Astrophysics"
     tag = "Astronomy"
 
   [[content.filter_button]]
