@@ -3,7 +3,7 @@ title: "Classifying plant disease status with CNNs"
 subtitle: "Comparing simple models vs pretrained"
 summary: Comparing simple models vs pretrained.
 date: "2024-02-00T00:00:00Z"
-tags: ["Data Analysis", "Completed"]
+tags: ["Data Analysis", "Machine Learning", "Completed"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?

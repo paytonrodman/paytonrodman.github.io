@@ -3,7 +3,7 @@ title: "Radio Jet Filament Formation in a Magnetised Medium"
 subtitle: "Can simulations produce the radio filaments we observe?"
 summary: A brief look at the second half of my PhD
 date: "2024-02-11T00:00:00Z"
-tags: ["Active Galactic Nuclei", "Jets", "Simulation", "Data Analysis", "In Progress"]
+tags: ["Astronomy", "Simulation", "Data Analysis", "In Progress"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?

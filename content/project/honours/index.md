@@ -3,7 +3,7 @@ title: "Using radio lobes to measure galaxy cluster properties (Honours thesis)"
 subtitle: "A big ball of wibbly wobbly, timey wimey stuff"
 summary: A brief description of the work I did in 2018 as part of my Honours thesis at the University of Tasmania.
 date: "2018-12-00T00:00:00Z"
-tags: ["Active Galactic Nuclei", "Jets", "Simulation", "Data Analysis", "Completed Work"]
+tags: ["Astronomy", "Simulation", "Data Analysis", "Completed Work"]
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -36,7 +36,7 @@ Values of M, P, t, and theta are then chosen at random to produce a sample of �
 1. Only the observables L and D are available for the ‘real’ cases (i.e. no polarisation data)
 2. Observables L, D, $\sigma_{\text{RM}}$, and H are all available (i.e. polarisation data)
 
-If the program selects close to the correct e.g. mass and age, and does so with high confidence, then it has successfully measured those quantities. For both galaxy cluster mass and radio source age, the inclusion of polarisation observables does not greatly impact the _accuracy_ of those measurements, but it does greatly increase the _confidence_. 
+If the program selects close to the correct e.g. mass and age, and does so with high confidence, then it has successfully measured those quantities. For both galaxy cluster mass and radio source age, the inclusion of polarisation observables does not greatly impact the _accuracy_ of those measurements, but it does greatly increase the _confidence_.
 
 {{< figure library="true" src="prob1.jpeg" title="The difference between the model radio source age and the estimated age when (left) only L and D observables are available, and (right) when polarisation observables sigma_RM and H are also available. The correct (x-axis = 0) source age is more confidently chosen when polarisation data is also included." >}}
 
